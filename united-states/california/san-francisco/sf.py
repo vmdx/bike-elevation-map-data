@@ -94,7 +94,8 @@ regions = [
             'Broadway St', 'Vallejo St', 'Green St',
             'Union St', 'Filbert St', 'Greenwich St',
             'Lombard St', 'Chestnut St', 'Francisco St',
-            'Bay St', 'North Point St', 'Beach St',
+            'Bay St', 'North Point St', 'Beach St', 'Marina Blvd',
+            'Jefferson St',
         ],
 
         # south -> north streets
@@ -241,6 +242,8 @@ regions = [
             'Arkansas St', 'Connecticut St', 'Missouri St', 'Mississippi St',
             'Pennsylvania Ave', 'Indiana St', 'Minnesota St', 'Tennessee St',
             '3rd St', 'Illinois St', 'Chattanooga St',
+            # more small streets
+            'Bartlett St', 'Fair Oaks St', 'Wisconsin St', 'Texas St',
         ],
 
     ],
@@ -253,15 +256,26 @@ breaks = {
     # west -> east streets
     # BREAKS ON WEST SIDE
     ##################
+    '19th St': set(['Church St']),
+    '22nd St': set(['Potrero Ave', 'Missouri St']),
+    '26th St': set(['Connecticut St']),
     'Anza St': set(['32nd Ave']),
+    'Bay St': set(['Scott St']),
+    'Beach St': set(['Buchanan St']),
     'Clay St': set(['Laguna St']),
     'Ellis St': set(['Webster St']),
+    'Francisco St': set(['Polk St', 'Hyde St', 'Leavenworth St', 'Scott St']),
     'Golden Gate Ave': set(['Stanyan St']),
     'Grove St': set(['Scott St']),
+    'Jefferson St': set(['Scott St', 'Webster St']),
+    'Mason St': set(['Marina Blvd']),
     'McAllister St': set(['Parker Ave']),
+    'North Point St': set(['Scott St', 'Laguna St']),
+    "O'Farrell St": set(['Pierce St', 'Webster St']),
     'Pacheco St': set(['28th Ave', '41st Ave']),
     'Rivera St': set(['24th Ave']),
     'Quintara St': set(['39th Ave']),
+    'Vallejo St': set(['Leavenworth St', 'Jones St', 'Taylor St']),
     'Waller St': set(['Central Ave']),
     'Washington St': set(['Scott St']),
 
@@ -271,13 +285,25 @@ breaks = {
     # BREAKS ON SOUTH SIDE
     ##############################
     'Ashbury St': set(['Oak St']),
+    'Buchanan St': set(['Eddy St', 'Chestnut St']),
+    'Castro St': set(['Duncan St']),
     'Central Ave': set(['Oak St']),
     'Clayton St': set(['Oak St']),
     'Cole St': set(['Oak St']),
-    'Lyon St': set(['Turk Blvd', 'Oak St']),
-    'Octavia St': set(['Sacramento St']),
+    'Connecticut St': set(['25th St']),
+    'Hampshire St': set(['17th St']),
+    'Larkin St': set(['Chestnut St']),
+    'Lyon St': set(['Turk Blvd', 'Oak St', 'Bay St']),
+    'Mississippi St': set(['Cesar Chavez St', '25th St']),
+    'Missouri St': set(['Cesar Chavez St']),
+    'Octavia St': set(['Sacramento St', 'Golden Gate Ave', 'Post St']),
     'Pierce St': set(['Clay St', 'Hayes St']),
     'Shrader St': set(['Oak St']),
+    'Texas St': set(['25th St']),
+    'Utah St': set(['23rd St']),
+    'Vermont St': set(['23rd St']),
+    'Webster St': set(['Chestnut St']),
+    'York St': set(['Mariposa St']),
 
 
     # The Aves (and arguello/funston, lol)
@@ -343,6 +369,7 @@ curved_roads = {
     '15th Ave': [('Noriega St', 'Lawton St')],
     'Clayton St': [('Market St', '17th St')],
     'Market St': [('Clayton St', 'Castro St')],
+    'Marina Blvd': [('Fillmore St', 'Webster St')],
 }
 
 # These will be copied straight into the paths json object.
@@ -354,9 +381,88 @@ custom_paths = {
             'Baker St and Fell St',
             'San Francisco Bicycle Route 30 and Masonic Ave',
             'Kezar Dr and Stanyan St',
+            'Kezar Dr and John F Kennedy Dr',
+            'John F Kennedy Dr and Conservatory Dr East',
+            'John F Kennedy Dr and Nancy Pelosi Dr',
+            'John F Kennedy Dr and Conservatory Dr West',
+            '360 John F Kennedy Dr',
+            'John F Kennedy Dr and 8th Ave',
+            'John F Kennedy Dr and Hagiwara Tea Garden Dr',
+            '802 10th Ave',
+            'John F Kennedy Dr and Stow Lake Dr',
+            'John F Kennedy Drive and Transverse Dr',
+            '750 John F Kennedy Dr',
         ],
-        'type': 'path'
+        'type': 'path',
     },
+    'SF Bike Route 30 / JFK Dr to Ocean Beach': {
+        'path': [
+            '750 John F Kennedy Dr',
+            'John F Kennedy Drive and 30th Ave',
+            'John F Kennedy Drive and 36th Ave',
+            'John F Kennedy Drive and Chain of Lakes Dr East',
+            'John F Kennedy Drive and Chain of Lakes Dr West',
+            'John F Kennedy Drive and South Fork Dr',
+            'John F Kennedy Drive and 47th Ave',
+            'John F Kennedy Drive and Great Highway',
+        ],
+        'type': 'route'
+    },
+    'Kezar Drive Panhandle to Sunset': {
+        'path': [
+            'Kezar Dr and John F Kennedy Dr',
+            '700 Kezar Dr',
+            'Kezar Dr and Lincoln Way',
+        ],
+        'type': 'path',
+    },
+    '20th Ave Sunset to Richmond': {
+        'path': [
+            '20th Ave and Lincoln Way',
+            '700 Martin Luther King Junior Dr',
+            'Transverse Dr and San Francisco Bicycle Route 34',
+            'John F Kennedy Drive and Transverse Dr',
+            '399 Transverse Dr',
+            '22nd Ave and Fulton St',
+        ],
+        'type': 'route',
+    },
+    'SF Bike Route 34 / MLK and Middle Drives': {
+        'path': [
+            'Transverse Dr and San Francisco Bicycle Route 34',
+            'Middle Drive West and Overlook Drive',
+            'Middle Drive West and Metson Rd',
+            'Middle Drive West and Martin Luther King Junior Dr',
+            'Martin Luther King Junior Dr and Chain of Lakes Dr East',
+            'Martin Luther King Junior Dr and South Fork Dr',
+            'La Playa St and Lincoln Way',
+        ],
+        'type': 'route',
+    },
+    'MLK to JFK on South Fork Dr': {
+        'path': [
+            'Martin Luther King Junior Dr and South Fork Dr',
+            'John F Kennedy Drive and South Fork Dr',
+        ],
+        'type': 'route',
+    },
+    '8th Ave into GGP': {
+        'path': [
+            'Fulton St and 8th Ave',
+            'John F Kennedy Dr and 8th Ave',
+        ],
+        'type': 'route',
+    },
+    'Sunset Blvd into GGP': {
+        'path': [
+            'Sunset Blvd and Irving St',
+            '3600 Lincoln Way',
+            '1276 Martin Luther King Junior Dr',
+        ],
+        'type': 'route',
+    },
+
+    # Connectors for streets that change names.
     'Lincoln Way to Frederick St': {
         'path': [
             '2nd Ave and Lincoln Way',
@@ -383,8 +489,13 @@ custom_paths = {
 # WEST -> EAST
 # SOUTH -> NORTH
 route_directives = [
+    # 4 francisco
+    ('Francisco St', [('Octavia St', 'Polk St', 'path')]),
     # 5 embarc
     ('The Embarcadero', [('King St', 'Kearny St', 'path')]),
+    # 6 greenwich, green
+    ('Greenwich St', [('Lyon St', 'Octavia St', 'route')]),
+    ('Green St', [('Octavia St', 'Polk St', 'route')]),
     # 10 clement, 30th, lake, sacramento, clay, webster, broadway
     ('Clement St', [('45th Ave', '30th Ave', 'route')]),
     ('30th Ave', [('Clement St', 'Lake St', 'route')]),
@@ -466,8 +577,13 @@ route_directives = [
     ('23rd Ave', [('Lincoln Way', 'Lake St', 'route')]),
     # 85 34th Ave
     ('34th Ave', [('Vicente St', 'Irving St', 'route'), ('Cabrillo St', 'Clement St', 'route')]),
+    ('Irving St', [('Sunset Blvd', '34th Ave', 'route')]),
+    # 95 great highway
+    ('Great Highway', [('Vicente St', 'Fulton St', 'path'), ('Fulton St', 'Balboa St', 'route')]),
+    # 106 octavia
+    ('Octavia St', [('Green St', 'Bay St', 'route')]),
     # 330 8th Ave
-    ('8th Ave', [('Lincoln Way', 'Lake St', 'route')]),
+    ('8th Ave', [('Fulton St', 'Lake St', 'route')]),
 ]
 
 

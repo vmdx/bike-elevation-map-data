@@ -1,16 +1,51 @@
 {
-  "buildtimereadable": "2013-01-02-18:51",
-  "buildtimestamp": 1357181487,
+  "buildtimereadable": "2013-01-03-00:38",
+  "buildtimestamp": 1357202295,
   "custom_path_names": [
+    "SF Bike Route 30 / JFK Dr to Ocean Beach",
+    "20th Ave Sunset to Richmond",
+    "Sunset Blvd into GGP",
     "Lincoln Way to Frederick St",
     "The Panhandle / SF Bike Route 30",
+    "SF Bike Route 34 / MLK and Middle Drives",
+    "MLK to JFK on South Fork Dr",
     "Judah St to Parnassus Ave",
-    "Hyde/Grove to 8th/Mission"
+    "Kezar Drive Panhandle to Sunset",
+    "Hyde/Grove to 8th/Mission",
+    "8th Ave into GGP"
   ],
   "directions": {
     "17th St and Market St | Castro St and Market St": {
       "length": 17,
       "path": "goneFvchjVS]"
+    },
+    "360 John F Kennedy Dr | John F Kennedy Dr and 8th Ave": {
+      "length": 161,
+      "path": "_lpeFfwmjVQhAWtBK~ACdA"
+    },
+    "3600 Lincoln Way | 1276 Martin Luther King Junior Dr": {
+      "length": 506,
+      "path": "g|neFh_tjV@X@r@DDHHP@z@A^Ap@_@~@k@jA]SAeADqENcCHi@@@f@@B"
+    },
+    "399 Transverse Dr | Fulton St and 22nd Ave": {
+      "length": 173,
+      "path": "_gpeFpbqjV?BGI_@Y]KwAy@c@Co@FBv@"
+    },
+    "700 Kezar Dr | Kezar Dr and Lincoln Way": {
+      "length": 192,
+      "path": "{koeFhuljVV|@Vh@~AvBTV?L@HJXF^AP"
+    },
+    "700 Martin Luther King Junior Dr | Transverse Dr and San Francisco Bicycle Route 34": {
+      "length": 259,
+      "path": "}coeF|ppjVG]e@h@[d@o@l@y@l@cBbAaBr@"
+    },
+    "750 John F Kennedy Dr | John F Kennedy Drive and 30th Ave": {
+      "length": 744,
+      "path": "s}oeFveqjV?rAIvAYlCA`ABd@\\vBFn@@XEn@I^aAhCoAbDEPIh@Cp@R|CDzAAhBUxC"
+    },
+    "802 10th Ave | John F Kennedy Dr and Stow Lake Dr": {
+      "length": 602,
+      "path": "onpeFjqnjVPBBHVbBNx@X~@fDzFPQj@bA^t@Rl@Pn@Fb@DV?ZEv@_@pB_AzD"
     },
     "Clayton St and Market St | 17th St and Clayton St": {
       "length": 604,
@@ -24,13 +59,87 @@
       "length": 455,
       "path": "gtpeFtfijVTRDLFv@DPTd@VpBVbBAp@Gf@@bAN|Cb@zH"
     },
+    "Fulton St and 8th Ave | John F Kennedy Dr and 8th Ave": {
+      "length": 88,
+      "path": "wrpeFxbnjV|CK"
+    },
     "Grove St and Hyde St | 8th St and Mission St": {
       "length": 199,
       "path": "atqeFhcdjVx@kAbEqF"
     },
+    "Irving St and Sunset Blvd | 3600 Lincoln Way": {
+      "length": 262,
+      "path": "apneFv~sjVeABo@Ps@XyA|@k@@}@@SQCmA"
+    },
+    "John F Kennedy Dr and 8th Ave | John F Kennedy Dr and Hagiwara Tea Garden Dr": {
+      "length": 67,
+      "path": "ympeFlbnjVDxC"
+    },
+    "John F Kennedy Dr and Conservatory Dr East | John F Kennedy Dr and Nancy Pelosi Dr": {
+      "length": 201,
+      "path": "wcpeFrjljV}@`M"
+    },
+    "John F Kennedy Dr and Conservatory Dr West | 360 John F Kennedy Dr": {
+      "length": 186,
+      "path": "shpeFvjmjVq@dEy@hE"
+    },
+    "John F Kennedy Dr and Hagiwara Tea Garden Dr | 802 10th Ave": {
+      "length": 144,
+      "path": "smpeFfgnjVD|B@vAB\\@\\YDMB"
+    },
+    "John F Kennedy Dr and Nancy Pelosi Dr | John F Kennedy Dr and Conservatory Dr West": {
+      "length": 259,
+      "path": "uepeFtxljVWdCUrCQzBOxAMpA"
+    },
+    "John F Kennedy Dr and Stow Lake Dr | John F Kennedy Drive and Transverse Dr": {
+      "length": 567,
+      "path": "cepeFvtojVeAnDSbAEz@@zA\\|DZ|BXnA~@~Cf@hBXbAXnA"
+    },
+    "John F Kennedy Drive and 30th Ave | John F Kennedy Drive and 36th Ave": {
+      "length": 467,
+      "path": "acpeFdxrjVKlACnAAv@@^NhBFj@XtBbBtH?v@@bBBn@"
+    },
+    "John F Kennedy Drive and 36th Ave | John F Kennedy Drive and Chain of Lakes Dr East": {
+      "length": 552,
+      "path": "u~oeFhxsjVp@hAd@b@d@d@NHL^BHTjBLbALn@Z|Bd@nCbCbL"
+    },
+    "John F Kennedy Drive and 47th Ave | John F Kennedy Drive and Great Highway": null,
+    "John F Kennedy Drive and Chain of Lakes Dr East | John F Kennedy Drive and Chain of Lakes Dr West": {
+      "length": 199,
+      "path": "}qoeFb{tjVrAlGh@xC"
+    },
+    "John F Kennedy Drive and Chain of Lakes Dr West | John F Kennedy Drive and South Fork Dr": {
+      "length": 338,
+      "path": "_noeFjhujVhArHr@jFf@`E"
+    },
+    "John F Kennedy Drive and South Fork Dr | John F Kennedy Drive and 47th Ave": null,
+    "John F Kennedy Drive and Transverse Dr | 399 Transverse Dr": {
+      "length": 165,
+      "path": "q`peFlzpjVcBrASRSXU`@_@bAKZ"
+    },
+    "John F Kennedy Drive and Transverse Dr | 750 John F Kennedy Dr": {
+      "length": 168,
+      "path": "q`peFlzpjVdA|EP~ADj@"
+    },
+    "John F Kennedy Drive and Transverse Dr | John F Kennedy Drive and 30th Ave": {
+      "length": 911,
+      "path": "q`peFlzpjVdA|EP~ADr@?j@CfAC`@W~BErA@VFl@^dC@XCl@EV]jA}B`GIf@Cl@?\\Dr@PzCAtBE`AOdB"
+    },
     "Judah St and 5th Ave | Parnassus Ave and 4th Ave": {
       "length": 99,
       "path": "wmneF|imjVEe@s@mD"
+    },
+    "Kezar Dr and John F Kennedy Dr | 700 Kezar Dr": {
+      "length": 654,
+      "path": "icpeF~~kjV\\b@NJRHRDZ?PCNG`Bq@z@_@b@KXCr@?^Bb@JZRX\\DJ`@xBfDnP"
+    },
+    "Kezar Dr and John F Kennedy Dr | John F Kennedy Dr and Conservatory Dr East": {
+      "length": 167,
+      "path": "icpeF~~kjV?NBHF^GfEGTEp@Ch@"
+    },
+    "Kezar Dr and Stanyan St | Kezar Dr and John F Kennedy Dr": {
+      "length": 115,
+      "path": "wfpeFzxkjVVElA|DFJ"
     },
     "Lawton St and 15th Ave | Lawton St and Funston Ave": {
       "length": 182,
@@ -40,9 +149,45 @@
       "length": 296,
       "path": "{rmeFrsojVuELSEOSCSx@_I"
     },
+    "Lincoln Way and 20th Ave | 700 Martin Luther King Junior Dr": {
+      "length": 65,
+      "path": "o`oeFrppjVcA?k@D@B"
+    },
     "Lincoln Way and 2nd Ave | Frederick St and Arguello Blvd": {
       "length": 113,
       "path": "ifoeFnwljVLA?aAd@iCDW"
+    },
+    "Marina Blvd and Buchanan St | Marina Blvd and Laguna St": {
+      "length": 164,
+      "path": "mxveFtygjVIkB[sE@GFETE"
+    },
+    "Marina Blvd and Fillmore St | Marina Blvd and Buchanan St": {
+      "length": 385,
+      "path": "caweF`qhjVQoCCw@Bi@Je@bAoBjE}HH]@G"
+    },
+    "Martin Luther King Junior Dr and Chain of Lakes Dr East | Martin Luther King Junior Dr and South Fork Dr": {
+      "length": 294,
+      "path": "i}neFl}tjVg@rEm@|EYlBQhB"
+    },
+    "Martin Luther King Junior Dr and South Fork Dr | John F Kennedy Drive and South Fork Dr": {
+      "length": 235,
+      "path": "kaoeFvqujVm@hBc@jAmAhCk@`Aa@r@"
+    },
+    "Martin Luther King Junior Dr and South Fork Dr | Lincoln Way and La Playa St": {
+      "length": 519,
+      "path": "kaoeFvqujV?zEDnBHvAJhAX|At@pDf@lBz@xCJPPJf@@"
+    },
+    "Middle Drive West and Martin Luther King Junior Dr | Martin Luther King Junior Dr and Chain of Lakes Dr East": {
+      "length": 238,
+      "path": "a_oeF`mtjVZlBb@nBJbAAdBQbC"
+    },
+    "Middle Drive West and Metson Rd | Middle Drive West and Martin Luther King Junior Dr": {
+      "length": 521,
+      "path": "keoeFvksjVK\\GfAKnA[jHB|AJdAPn@^t@zAxC\\v@l@xAZP"
+    },
+    "Middle Drive West and Overlook Drive | Middle Drive West and Metson Rd": {
+      "length": 718,
+      "path": "isoeFn|qjV@|AJfBPdBh@`Fb@zB\\jA|AlEbBvEp@`Cd@nBRlABj@"
     },
     "Moraga St and 15th Ave | Lawton St and 15th Ave": {
       "length": 343,
@@ -55,6 +200,14 @@
     "San Francisco Bicycle Route 30 and Masonic Ave | Kezar Dr and Stanyan St": {
       "length": 771,
       "path": "kopeFtejjVRx@Xn@BZAl@Gv@Bj@Jt@JtCHx@J`@`@x@PbAAz@In@C`ABnAHhAHj@B\\@nAFdABp@DRVZNVBL?RDNPXFPFH@\\Fj@Fh@OBDJHX"
+    },
+    "Transverse Dr and San Francisco Bicycle Route 34 | John F Kennedy Drive and Transverse Dr": {
+      "length": 329,
+      "path": "wooeFbypjVcCyAUKa@Ma@Ia@?]Bc@N}Ax@yBxA"
+    },
+    "Transverse Dr and San Francisco Bicycle Route 34 | Middle Drive West and Overlook Drive": {
+      "length": 518,
+      "path": "wooeFbypjVw@~@OZKTETG^IfAEnDChKBvG?h@"
     }
   },
   "intersections": {
@@ -117,6 +270,11 @@
       "elevation": 12.0173282623291,
       "lat": 37.7743325,
       "lng": -122.4171372
+    },
+    "1276 Martin Luther King Junior Dr": {
+      "elevation": 37.75279998779297,
+      "lat": 37.7654188,
+      "lng": -122.4963617
     },
     "12th St and Folsom St": {
       "elevation": 6.913602352142334,
@@ -485,6 +643,11 @@
       "lat": 37.76597539999999,
       "lng": -122.4046482
     },
+    "16th St and Wisconsin St": {
+      "elevation": 4.575026512145996,
+      "lat": 37.7662727,
+      "lng": -122.3997998
+    },
     "17th St and Alabama St": {
       "elevation": 8.97299575805664,
       "lat": 37.7642007,
@@ -642,6 +805,11 @@
       "lat": 37.76148329999999,
       "lng": -122.4519655
     },
+    "17th St and Texas St": {
+      "elevation": 6.457528591156006,
+      "lat": 37.7651993,
+      "lng": -122.395807
+    },
     "17th St and Utah St": {
       "elevation": 21.9341869354248,
       "lat": 37.7645569,
@@ -661,6 +829,11 @@
       "elevation": 15.6064453125,
       "lat": 37.7646778,
       "lng": -122.4045215
+    },
+    "17th St and Wisconsin St": {
+      "elevation": 6.620029449462891,
+      "lat": 37.7649736,
+      "lng": -122.3996772
     },
     "18th St and 3rd St": {
       "elevation": 6.176817417144775,
@@ -823,6 +996,11 @@
       "elevation": 7.919875621795654,
       "lat": 37.7629989,
       "lng": -122.3897287
+    },
+    "18th St and Texas St": {
+      "elevation": 30.05122184753418,
+      "lat": 37.7626506,
+      "lng": -122.3955824
     },
     "18th St and Utah St": {
       "elevation": 30.12907791137695,
@@ -1016,6 +1194,11 @@
       "lat": 37.7617123,
       "lng": -122.3896182
     },
+    "19th St and Texas St": {
+      "elevation": 55.72874069213867,
+      "lat": 37.761359,
+      "lng": -122.395438
+    },
     "19th St and Valencia St": {
       "elevation": 16.16130447387695,
       "lat": 37.760097,
@@ -1030,6 +1213,11 @@
       "elevation": 58.30702972412109,
       "lat": 37.7608429,
       "lng": -122.4041366
+    },
+    "19th St and Wisconsin St": {
+      "elevation": 25.73372840881348,
+      "lat": 37.761126,
+      "lng": -122.399303
     },
     "19th St and York St": {
       "elevation": 13.93680477142334,
@@ -1213,6 +1401,11 @@
       "lat": 37.7604195,
       "lng": -122.3894922
     },
+    "20th St and Texas St": {
+      "elevation": 52.08250045776367,
+      "lat": 37.7600919,
+      "lng": -122.3953185
+    },
     "20th St and Valencia St": {
       "elevation": 19.33203506469727,
       "lat": 37.7584974,
@@ -1228,6 +1421,11 @@
       "lat": 37.7595713,
       "lng": -122.4040164
     },
+    "20th St and Wisconsin St": {
+      "elevation": 56.31229782104492,
+      "lat": 37.75986710000001,
+      "lng": -122.3991882
+    },
     "20th St and York St": {
       "elevation": 13.50091648101807,
       "lat": 37.7592494,
@@ -1237,6 +1435,11 @@
       "elevation": 11.03893756866455,
       "lat": 37.7574895,
       "lng": -122.4114281
+    },
+    "21st St and Bartlett St": {
+      "elevation": 20.9211540222168,
+      "lat": 37.756969,
+      "lng": -122.420011
     },
     "21st St and Bryant St": {
       "elevation": 11.92450523376465,
@@ -1283,6 +1486,11 @@
       "elevation": 101.8828582763672,
       "lat": 37.7554257,
       "lng": -122.4388695
+    },
+    "21st St and Fair Oaks St": {
+      "elevation": 55.75455856323242,
+      "lat": 37.7566954,
+      "lng": -122.4244722
     },
     "21st St and Florida St": {
       "elevation": 11.5419397354126,
@@ -1365,6 +1573,11 @@
       "lat": 37.75745,
       "lng": -122.39804
     },
+    "22nd St and Bartlett St": {
+      "elevation": 22.90426826477051,
+      "lat": 37.7553766,
+      "lng": -122.419857
+    },
     "22nd St and Bryant St": {
       "elevation": 14.2815580368042,
       "lat": 37.7560022,
@@ -1420,6 +1633,11 @@
       "elevation": 95.71651458740234,
       "lat": 37.7542277,
       "lng": -122.4387892
+    },
+    "22nd St and Fair Oaks St": {
+      "elevation": 37.05319213867188,
+      "lat": 37.7551019,
+      "lng": -122.4243086
     },
     "22nd St and Florida St": {
       "elevation": 14.16185855865479,
@@ -1517,6 +1735,11 @@
       "lat": 37.7578902,
       "lng": -122.3892485
     },
+    "22nd St and Texas St": {
+      "elevation": 17.16224098205566,
+      "lat": 37.75763740000001,
+      "lng": -122.3947287
+    },
     "22nd St and Valencia St": {
       "elevation": 24.5194206237793,
       "lat": 37.75530759999999,
@@ -1531,6 +1754,11 @@
       "elevation": 45.44001770019531,
       "lat": 37.7571246,
       "lng": -122.4031137
+    },
+    "22nd St and Wisconsin St": {
+      "elevation": 90.02278137207031,
+      "lat": 37.7573037,
+      "lng": -122.3989281
     },
     "22nd St and York St": {
       "elevation": 14.9192533493042,
@@ -1551,6 +1779,11 @@
       "elevation": 84.48085021972656,
       "lat": 37.7548299,
       "lng": -122.3977319
+    },
+    "23rd St and Bartlett St": {
+      "elevation": 23.75139617919922,
+      "lat": 37.753777,
+      "lng": -122.419715
     },
     "23rd St and Bryant St": {
       "elevation": 16.7657413482666,
@@ -1602,6 +1835,11 @@
       "elevation": 93.84305572509766,
       "lat": 37.7526362,
       "lng": -122.4386371
+    },
+    "23rd St and Fair Oaks St": {
+      "elevation": 35.21470260620117,
+      "lat": 37.7535078,
+      "lng": -122.4241502
     },
     "23rd St and Florida St": {
       "elevation": 15.82360458374023,
@@ -1714,6 +1952,11 @@
       "lat": 37.7544539,
       "lng": -122.403523
     },
+    "23rd St and Wisconsin St": {
+      "elevation": 84.42362976074219,
+      "lat": 37.7547717,
+      "lng": -122.3986973
+    },
     "23rd St and York St": {
       "elevation": 17.58395957946777,
       "lat": 37.7544598,
@@ -1728,6 +1971,11 @@
       "elevation": 16.22402000427246,
       "lat": 37.75268579999999,
       "lng": -122.4109804
+    },
+    "24th St and Bartlett St": {
+      "elevation": 24.37467193603516,
+      "lat": 37.7521725,
+      "lng": -122.4195658
     },
     "24th St and Bryant St": {
       "elevation": 15.99456310272217,
@@ -1774,6 +2022,11 @@
       "elevation": 83.71087646484375,
       "lat": 37.7510304,
       "lng": -122.4384811
+    },
+    "24th St and Fair Oaks St": {
+      "elevation": 42.99799728393555,
+      "lat": 37.7519074,
+      "lng": -122.4239929
     },
     "24th St and Florida St": {
       "elevation": 16.03071212768555,
@@ -1886,6 +2139,11 @@
       "lat": 37.7510906,
       "lng": -122.410825
     },
+    "25th St and Bartlett St": {
+      "elevation": 23.44521713256836,
+      "lat": 37.7505769,
+      "lng": -122.4194139
+    },
     "25th St and Bryant St": {
       "elevation": 14.61919116973877,
       "lat": 37.751201,
@@ -1931,6 +2189,11 @@
       "elevation": 96.42505645751953,
       "lat": 37.7494363,
       "lng": -122.4383248
+    },
+    "25th St and Fair Oaks St": {
+      "elevation": 48.75151443481445,
+      "lat": 37.7503114,
+      "lng": -122.4238364
     },
     "25th St and Florida St": {
       "elevation": 14.75500106811523,
@@ -2013,6 +2276,11 @@
       "lat": 37.752778,
       "lng": -122.388753
     },
+    "25th St and Texas St": {
+      "elevation": 41.70545959472656,
+      "lat": 37.7524294,
+      "lng": -122.3945404
+    },
     "25th St and Utah St": {
       "elevation": 16.04467964172363,
       "lat": 37.7518027,
@@ -2033,6 +2301,11 @@
       "lat": 37.7519137,
       "lng": -122.403392
     },
+    "25th St and Wisconsin St": {
+      "elevation": 52.99341583251953,
+      "lat": 37.7521939,
+      "lng": -122.398452
+    },
     "25th St and York St": {
       "elevation": 14.64975261688232,
       "lat": 37.7512552,
@@ -2047,6 +2320,11 @@
       "elevation": 14.79934120178223,
       "lat": 37.7494998,
       "lng": -122.4106736
+    },
+    "26th St and Bartlett St": {
+      "elevation": 22.98548316955566,
+      "lat": 37.7489715,
+      "lng": -122.4192551
     },
     "26th St and Bryant St": {
       "elevation": 12.73113536834717,
@@ -2093,6 +2371,11 @@
       "elevation": 118.9010696411133,
       "lat": 37.7478303,
       "lng": -122.4381787
+    },
+    "26th St and Fair Oaks St": {
+      "elevation": 37.95673751831055,
+      "lat": 37.7487092,
+      "lng": -122.4237031
     },
     "26th St and Florida St": {
       "elevation": 13.76280975341797,
@@ -2179,6 +2462,11 @@
       "elevation": 14.72406101226807,
       "lat": 37.7504567,
       "lng": -122.4027945
+    },
+    "26th St and Wisconsin St": {
+      "elevation": 34.24513626098633,
+      "lat": 37.7510638,
+      "lng": -122.3983373
     },
     "26th St and York St": {
       "elevation": 11.8006591796875,
@@ -2381,6 +2669,21 @@
       "lat": 37.74195,
       "lng": -122.4289045
     },
+    "360 John F Kennedy Dr": {
+      "elevation": 76.12325286865234,
+      "lat": 37.7723018,
+      "lng": -122.4640509
+    },
+    "3600 Lincoln Way": {
+      "elevation": 38.60820007324219,
+      "lat": 37.7646923,
+      "lng": -122.4960489
+    },
+    "399 Transverse Dr": {
+      "elevation": 67.6398696899414,
+      "lat": 37.7715045,
+      "lng": -122.4812189
+    },
     "3rd St and Brannan St": {
       "elevation": 6.550912857055664,
       "lat": 37.7800842,
@@ -2556,6 +2859,21 @@
       "lat": 37.7736382,
       "lng": -122.3994426
     },
+    "700 Kezar Dr": {
+      "elevation": 79.22196960449219,
+      "lat": 37.7671696,
+      "lng": -122.4586037
+    },
+    "700 Martin Luther King Junior Dr": {
+      "elevation": 65.54248046875,
+      "lat": 37.765899,
+      "lng": -122.4783892
+    },
+    "750 John F Kennedy Dr": {
+      "elevation": 60.21791839599609,
+      "lat": 37.77000810000001,
+      "lng": -122.4817149
+    },
     "7th St and Brannan St": {
       "elevation": 4.895364284515381,
       "lat": 37.7730512,
@@ -2600,6 +2918,11 @@
       "elevation": 3.496946573257446,
       "lat": 37.7718151,
       "lng": -122.4016814
+    },
+    "802 10th Ave": {
+      "elevation": 73.31571197509766,
+      "lat": 37.7727077,
+      "lng": -122.4681192
     },
     "8th St and Brannan St": {
       "elevation": 3.408714294433594,
@@ -4576,6 +4899,11 @@
       "elevation": 13.84099864959717,
       "lat": 37.748364,
       "lng": -122.4105675
+    },
+    "Cesar Chavez St and Bartlett St": {
+      "elevation": 20.79463195800781,
+      "lat": 37.7481837,
+      "lng": -122.4191934
     },
     "Cesar Chavez St and Bryant St": {
       "elevation": 11.61640453338623,
@@ -9068,6 +9396,71 @@
       "lng": -122.432918,
       "time": 1353179002
     },
+    "Jefferson St and Baker St": {
+      "elevation": 3.11635947227478,
+      "lat": 37.8042259,
+      "lng": -122.447105
+    },
+    "Jefferson St and Broderick St": {
+      "elevation": 3.894567251205444,
+      "lat": 37.8044332,
+      "lng": -122.4454575
+    },
+    "Jefferson St and Divisadero St": {
+      "elevation": 3.875490427017212,
+      "lat": 37.8046424,
+      "lng": -122.4438037
+    },
+    "Jefferson St and Fillmore St": {
+      "elevation": 3.954861879348755,
+      "lat": 37.8054927,
+      "lng": -122.4372035
+    },
+    "Jefferson St and Hyde St": {
+      "elevation": 2.71754264831543,
+      "lat": 37.8076077,
+      "lng": -122.4207678
+    },
+    "Jefferson St and Jones St": {
+      "elevation": 2.429348468780518,
+      "lat": 37.808028,
+      "lng": -122.4174498
+    },
+    "Jefferson St and Leavenworth St": {
+      "elevation": 2.852888345718384,
+      "lat": 37.8078146,
+      "lng": -122.4191022
+    },
+    "Jefferson St and Mason St": {
+      "elevation": 2.679060459136963,
+      "lat": 37.8084429,
+      "lng": -122.4141848
+    },
+    "Jefferson St and Powell St": {
+      "elevation": 2.716302156448364,
+      "lat": 37.808611,
+      "lng": -122.4125379
+    },
+    "Jefferson St and Scott St": {
+      "elevation": 3.605118274688721,
+      "lat": 37.8048585,
+      "lng": -122.4421245
+    },
+    "Jefferson St and Taylor St": {
+      "elevation": 2.613213777542114,
+      "lat": 37.8082428,
+      "lng": -122.4158057
+    },
+    "Jefferson St and The Embarcadero": {
+      "elevation": 2.716302156448364,
+      "lat": 37.808611,
+      "lng": -122.4125379
+    },
+    "Jefferson St and Webster St": {
+      "elevation": 3.597857236862183,
+      "lat": 37.805693,
+      "lng": -122.4355411
+    },
     "Jersey St and Castro St": {
       "elevation": 60.98672866821289,
       "lat": 37.7504967,
@@ -9107,6 +9500,76 @@
       "elevation": 46.84169387817383,
       "lat": 37.7507634,
       "lng": -122.4295802
+    },
+    "John F Kennedy Dr and 8th Ave": {
+      "elevation": 75.52294158935547,
+      "lat": 37.7726114,
+      "lng": -122.4658347
+    },
+    "John F Kennedy Dr and Conservatory Dr East": {
+      "elevation": 76.34135437011719,
+      "lat": 37.7710042,
+      "lng": -122.4569049
+    },
+    "John F Kennedy Dr and Conservatory Dr West": {
+      "elevation": 73.6490249633789,
+      "lat": 37.77178310000001,
+      "lng": -122.4620442
+    },
+    "John F Kennedy Dr and Hagiwara Tea Garden Dr": {
+      "elevation": 70.91136932373047,
+      "lat": 37.7725763,
+      "lng": -122.4665981
+    },
+    "John F Kennedy Dr and Nancy Pelosi Dr": {
+      "elevation": 76.37419891357422,
+      "lat": 37.7713146,
+      "lng": -122.4591547
+    },
+    "John F Kennedy Dr and Stow Lake Dr": {
+      "elevation": 77.02796936035156,
+      "lat": 37.771224,
+      "lng": -122.4738817
+    },
+    "John F Kennedy Drive and 30th Ave": {
+      "elevation": 40.50931167602539,
+      "lat": 37.7708901,
+      "lng": -122.4897936
+    },
+    "John F Kennedy Drive and 36th Ave": {
+      "elevation": 39.57952499389648,
+      "lat": 37.7701854,
+      "lng": -122.4949301
+    },
+    "John F Kennedy Drive and 47th Ave": {
+      "elevation": 13.21810340881348,
+      "lat": 37.7692605,
+      "lng": -122.5083294
+    },
+    "John F Kennedy Drive and Chain of Lakes Dr East": {
+      "elevation": 25.97708702087402,
+      "lat": 37.7681508,
+      "lng": -122.5004974
+    },
+    "John F Kennedy Drive and Chain of Lakes Dr West": {
+      "elevation": 25.90619277954102,
+      "lat": 37.7675197,
+      "lng": -122.5026204
+    },
+    "John F Kennedy Drive and Great Highway": {
+      "elevation": 6.124646186828613,
+      "lat": 37.7704274,
+      "lng": -122.5110287
+    },
+    "John F Kennedy Drive and South Fork Dr": {
+      "elevation": 20.21167182922363,
+      "lat": 37.7666873,
+      "lng": -122.5063127
+    },
+    "John F Kennedy Drive and Transverse Dr": {
+      "elevation": 67.52959442138672,
+      "lat": 37.7704899,
+      "lng": -122.4799069
     },
     "Jones St and Columbus Ave": {
       "elevation": 7.093727111816406,
@@ -9402,6 +9865,16 @@
       "elevation": 2.995613574981689,
       "lat": 37.8073778,
       "lng": -122.407368
+    },
+    "Kezar Dr and John F Kennedy Dr": {
+      "elevation": 76.45042419433594,
+      "lat": 37.7709333,
+      "lng": -122.4550429
+    },
+    "Kezar Dr and Lincoln Way": {
+      "elevation": 82.6341323852539,
+      "lat": 37.7662507,
+      "lng": -122.460352
     },
     "Kezar Dr and Stanyan St": {
       "elevation": 77.54386138916016,
@@ -10642,6 +11115,51 @@
       "lat": 37.7918484,
       "lng": -122.3949553
     },
+    "Marina Blvd and Baker St": {
+      "elevation": 1.612667441368103,
+      "lat": 37.8051608,
+      "lng": -122.4473154
+    },
+    "Marina Blvd and Broderick St": {
+      "elevation": 1.21028733253479,
+      "lat": 37.805373,
+      "lng": -122.4456538
+    },
+    "Marina Blvd and Buchanan St": {
+      "elevation": 4.68834400177002,
+      "lat": 37.8050349,
+      "lng": -122.4337099
+    },
+    "Marina Blvd and Divisadero St": {
+      "elevation": 1.321372985839844,
+      "lat": 37.805587,
+      "lng": -122.4440002
+    },
+    "Marina Blvd and Fillmore St": {
+      "elevation": 2.115375995635986,
+      "lat": 37.806422,
+      "lng": -122.4374516
+    },
+    "Marina Blvd and Laguna St": {
+      "elevation": 7.027563095092773,
+      "lat": 37.8050586,
+      "lng": -122.432007
+    },
+    "Marina Blvd and Lyon St": {
+      "elevation": 2.047200441360474,
+      "lat": 37.80468,
+      "lng": -122.4483012
+    },
+    "Marina Blvd and Mason St": {
+      "elevation": 2.042117357254028,
+      "lat": 37.80512119999999,
+      "lng": -122.4478757
+    },
+    "Marina Blvd and Scott St": {
+      "elevation": 1.405961394309998,
+      "lat": 37.8058106,
+      "lng": -122.4422274
+    },
     "Mariposa St and 3rd St": {
       "elevation": 4.793055057525635,
       "lat": 37.7643389,
@@ -10742,6 +11260,11 @@
       "lat": 37.7642773,
       "lng": -122.3898725
     },
+    "Mariposa St and Texas St": {
+      "elevation": 14.64957141876221,
+      "lat": 37.7639349,
+      "lng": -122.3957015
+    },
     "Mariposa St and Utah St": {
       "elevation": 32.32037734985352,
       "lat": 37.7632755,
@@ -10761,6 +11284,16 @@
       "elevation": 15.77250194549561,
       "lat": 37.7752863,
       "lng": -122.4192316
+    },
+    "Martin Luther King Junior Dr and Chain of Lakes Dr East": {
+      "elevation": 26.93000411987305,
+      "lat": 37.7648525,
+      "lng": -122.5008729
+    },
+    "Martin Luther King Junior Dr and South Fork Dr": {
+      "elevation": 24.84329986572266,
+      "lat": 37.7654988,
+      "lng": -122.5041156
     },
     "Mason St and Columbus Ave": {
       "elevation": 13.22914409637451,
@@ -10951,6 +11484,21 @@
       "lat": 37.7788554,
       "lng": -122.4301279,
       "time": 1352424677
+    },
+    "Middle Drive West and Martin Luther King Junior Dr": {
+      "elevation": 31.64351463317871,
+      "lat": 37.76513080000001,
+      "lng": -122.4982529
+    },
+    "Middle Drive West and Metson Rd": {
+      "elevation": 47.3961067199707,
+      "lat": 37.7661377,
+      "lng": -122.4929191
+    },
+    "Middle Drive West and Overlook Drive": {
+      "elevation": 56.58158874511719,
+      "lat": 37.7683747,
+      "lng": -122.4853588
     },
     "Mission St and Van Ness Ave": {
       "elevation": 10.89327907562256,
@@ -14582,6 +15130,11 @@
       "lat": 37.7818191,
       "lng": -122.3884249
     },
+    "Transverse Dr and San Francisco Bicycle Route 34": {
+      "elevation": 64.05060577392578,
+      "lat": 37.7678004,
+      "lng": -122.4796982
+    },
     "Trumbull St and Mission St": {
       "elevation": 39.25171279907227,
       "lat": 37.7307904,
@@ -16081,6 +16634,7 @@
       "16th St and Rhode Island St",
       "16th St and De Haro St",
       "16th St and Carolina St",
+      "16th St and Wisconsin St",
       "16th St and Arkansas St",
       "16th St and Connecticut St",
       "16th St and Missouri St",
@@ -16144,9 +16698,11 @@
       "17th St and Rhode Island St",
       "17th St and De Haro St",
       "17th St and Carolina St",
+      "17th St and Wisconsin St",
       "17th St and Arkansas St",
       "17th St and Connecticut St",
       "17th St and Missouri St",
+      "17th St and Texas St",
       "17th St and Mississippi St",
       "17th St and Pennsylvania Ave"
     ],
@@ -16208,6 +16764,7 @@
       "18th St and Arkansas St",
       "18th St and Connecticut St",
       "18th St and Missouri St",
+      "18th St and Texas St",
       "18th St and Mississippi St",
       "18th St and Pennsylvania Ave",
       "18th St and Minnesota St",
@@ -16240,6 +16797,7 @@
       "19th St and Noe St",
       "19th St and Sanchez St",
       "19th St and Church St",
+      "--BREAK",
       "19th St and Dolores St",
       "19th St and Guerrero St",
       "19th St and Valencia St",
@@ -16260,9 +16818,11 @@
       "19th St and Rhode Island St",
       "19th St and De Haro St",
       "19th St and Carolina St",
+      "19th St and Wisconsin St",
       "19th St and Arkansas St",
       "19th St and Connecticut St",
       "19th St and Missouri St",
+      "19th St and Texas St",
       "19th St and Mississippi St",
       "19th St and Pennsylvania Ave",
       "19th St and Indiana St",
@@ -16303,6 +16863,14 @@
       "Clement St and 20th Ave",
       "Lake St and 20th Ave"
     ],
+    "20th Ave Sunset to Richmond": [
+      "Lincoln Way and 20th Ave",
+      "700 Martin Luther King Junior Dr",
+      "Transverse Dr and San Francisco Bicycle Route 34",
+      "John F Kennedy Drive and Transverse Dr",
+      "399 Transverse Dr",
+      "Fulton St and 22nd Ave"
+    ],
     "20th St": [
       "20th St and Douglass St",
       "20th St and Diamond St",
@@ -16330,9 +16898,11 @@
       "20th St and Rhode Island St",
       "20th St and De Haro St",
       "20th St and Carolina St",
+      "20th St and Wisconsin St",
       "20th St and Arkansas St",
       "20th St and Connecticut St",
       "20th St and Missouri St",
+      "20th St and Texas St",
       "20th St and Mississippi St",
       "20th St and Pennsylvania Ave",
       "20th St and Tennessee St",
@@ -16374,8 +16944,10 @@
       "21st St and Church St",
       "21st St and Chattanooga St",
       "21st St and Dolores St",
+      "21st St and Fair Oaks St",
       "21st St and Guerrero St",
       "21st St and Valencia St",
+      "21st St and Bartlett St",
       "21st St and Mission St",
       "21st St and Capp St",
       "21st St and Van Ness Ave",
@@ -16424,8 +16996,10 @@
       "22nd St and Church St",
       "22nd St and Chattanooga St",
       "22nd St and Dolores St",
+      "22nd St and Fair Oaks St",
       "22nd St and Guerrero St",
       "22nd St and Valencia St",
+      "22nd St and Bartlett St",
       "22nd St and Mission St",
       "22nd St and Capp St",
       "22nd St and Van Ness Ave",
@@ -16438,13 +17012,17 @@
       "22nd St and York St",
       "22nd St and Hampshire St",
       "22nd St and Potrero Ave",
+      "--BREAK",
       "22nd St and Vermont St",
       "22nd St and Kansas St",
       "22nd St and Rhode Island St",
       "22nd St and De Haro St",
       "22nd St and Carolina St",
+      "22nd St and Wisconsin St",
       "22nd St and Arkansas St",
       "22nd St and Missouri St",
+      "--BREAK",
+      "22nd St and Texas St",
       "22nd St and Mississippi St",
       "22nd St and Pennsylvania Ave",
       "22nd St and Indiana St",
@@ -16486,8 +17064,10 @@
       "23rd St and Church St",
       "23rd St and Chattanooga St",
       "23rd St and Dolores St",
+      "23rd St and Fair Oaks St",
       "23rd St and Guerrero St",
       "23rd St and Valencia St",
+      "23rd St and Bartlett St",
       "23rd St and Mission St",
       "23rd St and Capp St",
       "23rd St and Van Ness Ave",
@@ -16506,6 +17086,7 @@
       "23rd St and Rhode Island St",
       "23rd St and De Haro St",
       "23rd St and Carolina St",
+      "23rd St and Wisconsin St",
       "23rd St and Arkansas St",
       "23rd St and Missouri St",
       "23rd St and Pennsylvania Ave",
@@ -16549,8 +17130,10 @@
       "24th St and Church St",
       "24th St and Chattanooga St",
       "24th St and Dolores St",
+      "24th St and Fair Oaks St",
       "24th St and Guerrero St",
       "24th St and Valencia St",
+      "24th St and Bartlett St",
       "24th St and Mission St",
       "24th St and Capp St",
       "24th St and Van Ness Ave",
@@ -16606,8 +17189,10 @@
       "25th St and Sanchez St",
       "25th St and Church St",
       "25th St and Dolores St",
+      "25th St and Fair Oaks St",
       "25th St and Guerrero St",
       "25th St and Valencia St",
+      "25th St and Bartlett St",
       "25th St and Mission St",
       "25th St and Capp St",
       "25th St and Van Ness Ave",
@@ -16625,7 +17210,9 @@
       "25th St and Kansas St",
       "25th St and Rhode Island St",
       "25th St and De Haro St",
+      "25th St and Wisconsin St",
       "25th St and Connecticut St",
+      "25th St and Texas St",
       "25th St and Mississippi St",
       "25th St and Pennsylvania Ave",
       "25th St and Indiana St",
@@ -16665,8 +17252,10 @@
       "26th St and Sanchez St",
       "26th St and Church St",
       "26th St and Dolores St",
+      "26th St and Fair Oaks St",
       "26th St and Guerrero St",
       "26th St and Valencia St",
+      "26th St and Bartlett St",
       "26th St and Mission St",
       "26th St and Capp St",
       "26th St and Van Ness Ave",
@@ -16682,7 +17271,9 @@
       "26th St and Kansas St",
       "26th St and Rhode Island St",
       "26th St and De Haro St",
+      "26th St and Wisconsin St",
       "26th St and Connecticut St",
+      "--BREAK",
       "26th St and Indiana St",
       "26th St and Minnesota St",
       "26th St and Tennessee St",
@@ -16836,6 +17427,7 @@
       "Irving St and 30th Ave",
       "Lincoln Way and 30th Ave",
       "--BREAK",
+      "John F Kennedy Drive and 30th Ave",
       "Fulton St and 30th Ave",
       "Cabrillo St and 30th Ave",
       "Balboa St and 30th Ave",
@@ -16991,6 +17583,7 @@
       "Irving St and 36th Ave",
       "Lincoln Way and 36th Ave",
       "--BREAK",
+      "John F Kennedy Drive and 36th Ave",
       "Fulton St and 36th Ave",
       "Cabrillo St and 36th Ave",
       "Balboa St and 36th Ave",
@@ -17288,6 +17881,7 @@
       "Irving St and 47th Ave",
       "Lincoln Way and 47th Ave",
       "--BREAK",
+      "John F Kennedy Drive and 47th Ave",
       "Fulton St and 47th Ave",
       "Cabrillo St and 47th Ave",
       "Balboa St and 47th Ave",
@@ -17432,6 +18026,7 @@
       "Irving St and 8th Ave",
       "Lincoln Way and 8th Ave",
       "--BREAK",
+      "John F Kennedy Dr and 8th Ave",
       "Fulton St and 8th Ave",
       "Cabrillo St and 8th Ave",
       "Balboa St and 8th Ave",
@@ -17439,6 +18034,10 @@
       "Geary Blvd and 8th Ave",
       "Clement St and 8th Ave",
       "Lake St and 8th Ave"
+    ],
+    "8th Ave into GGP": [
+      "Fulton St and 8th Ave",
+      "John F Kennedy Dr and 8th Ave"
     ],
     "8th St": [
       "8th St and Mission St",
@@ -17666,7 +18265,9 @@
       "Francisco St and Baker St",
       "Bay St and Baker St",
       "North Point St and Baker St",
-      "Beach St and Baker St"
+      "Beach St and Baker St",
+      "Jefferson St and Baker St",
+      "Marina Blvd and Baker St"
     ],
     "Balboa St": [
       "Balboa St and Great Highway",
@@ -17720,6 +18321,15 @@
       "Balboa St and 2nd Ave",
       "Balboa St and Arguello Blvd"
     ],
+    "Bartlett St": [
+      "Cesar Chavez St and Bartlett St",
+      "26th St and Bartlett St",
+      "25th St and Bartlett St",
+      "24th St and Bartlett St",
+      "23rd St and Bartlett St",
+      "22nd St and Bartlett St",
+      "21st St and Bartlett St"
+    ],
     "Battery St": [
       "Battery St and Market St",
       "Bush St and Battery St",
@@ -17743,6 +18353,7 @@
       "Bay St and Broderick St",
       "Bay St and Divisadero St",
       "Bay St and Scott St",
+      "--BREAK",
       "Bay St and Fillmore St",
       "Bay St and Webster St",
       "Bay St and Buchanan St",
@@ -17773,6 +18384,7 @@
       "Beach St and Fillmore St",
       "Beach St and Webster St",
       "Beach St and Buchanan St",
+      "--BREAK",
       "Beach St and Polk St",
       "Beach St and Larkin St",
       "Beach St and Hyde St",
@@ -17902,7 +18514,9 @@
       "Francisco St and Broderick St",
       "Bay St and Broderick St",
       "North Point St and Broderick St",
-      "Beach St and Broderick St"
+      "Beach St and Broderick St",
+      "Jefferson St and Broderick St",
+      "Marina Blvd and Broderick St"
     ],
     "Bryant St": [
       "Cesar Chavez St and Bryant St",
@@ -17951,6 +18565,7 @@
       "Golden Gate Ave and Buchanan St",
       "Turk St and Buchanan St",
       "Eddy St and Buchanan St",
+      "--BREAK",
       "Geary Blvd and Buchanan St",
       "Sutter St and Buchanan St",
       "Bush St and Buchanan St",
@@ -17968,9 +18583,11 @@
       "Greenwich St and Buchanan St",
       "Lombard St and Buchanan St",
       "Chestnut St and Buchanan St",
+      "--BREAK",
       "Bay St and Buchanan St",
       "North Point St and Buchanan St",
-      "Beach St and Buchanan St"
+      "Beach St and Buchanan St",
+      "Marina Blvd and Buchanan St"
     ],
     "Bush St": [
       "Bush St and Presidio Ave",
@@ -18114,6 +18731,7 @@
       "29th St and Castro St",
       "28th St and Castro St",
       "Duncan St and Castro St",
+      "--BREAK",
       "27th St and Castro St",
       "Cesar Chavez St and Castro St",
       "26th St and Castro St",
@@ -18160,6 +18778,7 @@
       "Cesar Chavez St and Dolores St",
       "Cesar Chavez St and Guerrero St",
       "Cesar Chavez St and Valencia St",
+      "Cesar Chavez St and Bartlett St",
       "Cesar Chavez St and Mission St",
       "Cesar Chavez St and Van Ness Ave",
       "Cesar Chavez St and Shotwell St",
@@ -18434,6 +19053,7 @@
       "Cesar Chavez St and Connecticut St",
       "26th St and Connecticut St",
       "25th St and Connecticut St",
+      "--BREAK",
       "20th St and Connecticut St",
       "19th St and Connecticut St",
       "18th St and Connecticut St",
@@ -18543,7 +19163,9 @@
       "Francisco St and Divisadero St",
       "Bay St and Divisadero St",
       "North Point St and Divisadero St",
-      "Beach St and Divisadero St"
+      "Beach St and Divisadero St",
+      "Jefferson St and Divisadero St",
+      "Marina Blvd and Divisadero St"
     ],
     "Division St": [
       "Division St and Florida St",
@@ -18708,6 +19330,14 @@
     "Excelsior Ave": [
       "Excelsior Ave and Mission St"
     ],
+    "Fair Oaks St": [
+      "26th St and Fair Oaks St",
+      "25th St and Fair Oaks St",
+      "24th St and Fair Oaks St",
+      "23rd St and Fair Oaks St",
+      "22nd St and Fair Oaks St",
+      "21st St and Fair Oaks St"
+    ],
     "Fell St": [
       "Fell St and Stanyan St",
       "Fell St and Shrader St",
@@ -18804,7 +19434,9 @@
       "Chestnut St and Fillmore St",
       "Bay St and Fillmore St",
       "North Point St and Fillmore St",
-      "Beach St and Fillmore St"
+      "Beach St and Fillmore St",
+      "Jefferson St and Fillmore St",
+      "Marina Blvd and Fillmore St"
     ],
     "Florida St": [
       "Cesar Chavez St and Florida St",
@@ -18865,13 +19497,17 @@
       "Francisco St and Broderick St",
       "Francisco St and Divisadero St",
       "Francisco St and Scott St",
+      "--BREAK",
       "Francisco St and Laguna St",
       "Francisco St and Octavia St",
       "Francisco St and Gough St",
       "Francisco St and Franklin St",
       "Francisco St and Polk St",
+      "--BREAK",
       "Francisco St and Hyde St",
+      "--BREAK",
       "Francisco St and Leavenworth St",
+      "--BREAK",
       "Francisco St and Jones St",
       "Francisco St and Columbus Ave",
       "Francisco St and Taylor St",
@@ -19252,6 +19888,7 @@
       "Judah St and Great Highway",
       "Irving St and Great Highway",
       "Lincoln Way and Great Highway",
+      "John F Kennedy Drive and Great Highway",
       "Fulton St and Great Highway",
       "Balboa St and Great Highway"
     ],
@@ -19403,6 +20040,7 @@
       "18th St and Hampshire St",
       "Mariposa St and Hampshire St",
       "17th St and Hampshire St",
+      "--BREAK",
       "15th St and Hampshire St",
       "Alameda St and Hampshire St"
     ],
@@ -19555,7 +20193,8 @@
       "Francisco St and Hyde St",
       "Bay St and Hyde St",
       "North Point St and Hyde St",
-      "Beach St and Hyde St"
+      "Beach St and Hyde St",
+      "Jefferson St and Hyde St"
     ],
     "Hyde/Grove to 8th/Mission": [
       "Grove St and Hyde St",
@@ -19680,6 +20319,23 @@
       "Jackson St and Davis St",
       "Jackson St and Drumm St"
     ],
+    "Jefferson St": [
+      "Jefferson St and Baker St",
+      "Jefferson St and Broderick St",
+      "Jefferson St and Divisadero St",
+      "Jefferson St and Scott St",
+      "--BREAK",
+      "Jefferson St and Fillmore St",
+      "Jefferson St and Webster St",
+      "--BREAK",
+      "Jefferson St and Hyde St",
+      "Jefferson St and Leavenworth St",
+      "Jefferson St and Jones St",
+      "Jefferson St and Taylor St",
+      "Jefferson St and Mason St",
+      "Jefferson St and Powell St",
+      "Jefferson St and The Embarcadero"
+    ],
     "Jersey St": [
       "Jersey St and Douglass St",
       "Jersey St and Diamond St",
@@ -19720,7 +20376,8 @@
       "Jones St and Columbus Ave",
       "Bay St and Jones St",
       "North Point St and Jones St",
-      "Beach St and Jones St"
+      "Beach St and Jones St",
+      "Jefferson St and Jones St"
     ],
     "Jordan Ave": [
       "Geary Blvd and Jordan Ave",
@@ -19817,6 +20474,11 @@
       "Bay St and Kearny St",
       "North Point St and Kearny St",
       "Kearny St and The Embarcadero"
+    ],
+    "Kezar Drive Panhandle to Sunset": [
+      "Kezar Dr and John F Kennedy Dr",
+      "700 Kezar Dr",
+      "Kezar Dr and Lincoln Way"
     ],
     "King St": [
       "7th St and King St",
@@ -19921,7 +20583,8 @@
       "Chestnut St and Laguna St",
       "Francisco St and Laguna St",
       "Bay St and Laguna St",
-      "North Point St and Laguna St"
+      "North Point St and Laguna St",
+      "Marina Blvd and Laguna St"
     ],
     "Lake St": [
       "Lake St and 30th Ave",
@@ -19984,6 +20647,7 @@
       "Greenwich St and Larkin St",
       "Lombard St and Larkin St",
       "Chestnut St and Larkin St",
+      "--BREAK",
       "Bay St and Larkin St",
       "North Point St and Larkin St",
       "Beach St and Larkin St"
@@ -20071,7 +20735,8 @@
       "Bay St and Leavenworth St",
       "North Point St and Leavenworth St",
       "Leavenworth St and Columbus Ave",
-      "Beach St and Leavenworth St"
+      "Beach St and Leavenworth St",
+      "Jefferson St and Leavenworth St"
     ],
     "Lincoln Way": [
       "Lincoln Way and Great Highway",
@@ -20121,6 +20786,7 @@
       "Lincoln Way and 6th Ave",
       "Lincoln Way and 5th Ave",
       "Lincoln Way and 4th Ave",
+      "Kezar Dr and Lincoln Way",
       "Lincoln Way and 3rd Ave",
       "Lincoln Way and 2nd Ave"
     ],
@@ -20199,7 +20865,13 @@
       "Lombard St and Lyon St",
       "Chestnut St and Lyon St",
       "Francisco St and Lyon St",
-      "Bay St and Lyon St"
+      "Bay St and Lyon St",
+      "--BREAK",
+      "Marina Blvd and Lyon St"
+    ],
+    "MLK to JFK on South Fork Dr": [
+      "Martin Luther King Junior Dr and South Fork Dr",
+      "John F Kennedy Drive and South Fork Dr"
     ],
     "Main St": [
       "Main St and Mission St",
@@ -20214,6 +20886,17 @@
       "Clay St and Maple St",
       "Washington St and Maple St",
       "Jackson St and Maple St"
+    ],
+    "Marina Blvd": [
+      "Marina Blvd and Lyon St",
+      "Marina Blvd and Mason St",
+      "Marina Blvd and Baker St",
+      "Marina Blvd and Broderick St",
+      "Marina Blvd and Divisadero St",
+      "Marina Blvd and Scott St",
+      "Marina Blvd and Fillmore St",
+      "Marina Blvd and Buchanan St",
+      "Marina Blvd and Laguna St"
     ],
     "Mariposa St": [
       "Mariposa St and Harrison St",
@@ -20232,6 +20915,7 @@
       "Mariposa St and Arkansas St",
       "Mariposa St and Connecticut St",
       "Mariposa St and Missouri St",
+      "Mariposa St and Texas St",
       "Mariposa St and Mississippi St",
       "Mariposa St and Pennsylvania Ave",
       "Mariposa St and Indiana St",
@@ -20297,34 +20981,37 @@
       "Spear St and Market St"
     ],
     "Mason St": [
-      "Mason St and Market St",
-      "Turk St and Mason St",
-      "Eddy St and Mason St",
-      "Ellis St and Mason St",
-      "O'Farrell St and Mason St",
-      "Geary St and Mason St",
-      "Post St and Mason St",
-      "Sutter St and Mason St",
-      "Bush St and Mason St",
-      "Pine St and Mason St",
-      "Sacramento St and Mason St",
-      "Clay St and Mason St",
-      "Washington St and Mason St",
-      "Jackson St and Mason St",
-      "Pacific Ave and Mason St",
-      "Broadway St and Mason St",
-      "Vallejo St and Mason St",
-      "Green St and Mason St",
-      "Union St and Mason St",
-      "Filbert St and Mason St",
-      "Greenwich St and Mason St",
-      "Mason St and Columbus Ave",
-      "Lombard St and Mason St",
-      "Chestnut St and Mason St",
-      "Francisco St and Mason St",
-      "Bay St and Mason St",
+      "Marina Blvd and Mason St",
+      "--BREAK",
+      "Jefferson St and Mason St",
+      "Beach St and Mason St",
       "North Point St and Mason St",
-      "Beach St and Mason St"
+      "Bay St and Mason St",
+      "Francisco St and Mason St",
+      "Chestnut St and Mason St",
+      "Lombard St and Mason St",
+      "Mason St and Columbus Ave",
+      "Greenwich St and Mason St",
+      "Filbert St and Mason St",
+      "Union St and Mason St",
+      "Green St and Mason St",
+      "Vallejo St and Mason St",
+      "Broadway St and Mason St",
+      "Pacific Ave and Mason St",
+      "Jackson St and Mason St",
+      "Washington St and Mason St",
+      "Clay St and Mason St",
+      "Sacramento St and Mason St",
+      "Pine St and Mason St",
+      "Bush St and Mason St",
+      "Sutter St and Mason St",
+      "Post St and Mason St",
+      "Geary St and Mason St",
+      "O'Farrell St and Mason St",
+      "Ellis St and Mason St",
+      "Eddy St and Mason St",
+      "Turk St and Mason St",
+      "Mason St and Market St"
     ],
     "Masonic Ave": [
       "Frederick St and Masonic Ave",
@@ -20451,7 +21138,9 @@
     ],
     "Mississippi St": [
       "Cesar Chavez St and Mississippi St",
+      "--BREAK",
       "25th St and Mississippi St",
+      "--BREAK",
       "22nd St and Mississippi St",
       "20th St and Mississippi St",
       "19th St and Mississippi St",
@@ -20462,6 +21151,7 @@
     ],
     "Missouri St": [
       "Cesar Chavez St and Missouri St",
+      "--BREAK",
       "23rd St and Missouri St",
       "22nd St and Missouri St",
       "20th St and Missouri St",
@@ -20623,10 +21313,12 @@
       "North Point St and Broderick St",
       "North Point St and Divisadero St",
       "North Point St and Scott St",
+      "--BREAK",
       "North Point St and Fillmore St",
       "North Point St and Webster St",
       "North Point St and Buchanan St",
       "North Point St and Laguna St",
+      "--BREAK",
       "North Point St and Van Ness Ave",
       "North Point St and Polk St",
       "North Point St and Larkin St",
@@ -20649,9 +21341,11 @@
       "O'Farrell St and Divisadero St",
       "O'Farrell St and Scott St",
       "O'Farrell St and Pierce St",
+      "--BREAK",
       "O'Farrell St and Steiner St",
       "O'Farrell St and Fillmore St",
       "O'Farrell St and Webster St",
+      "--BREAK",
       "O'Farrell St and Gough St",
       "O'Farrell St and Franklin St",
       "O'Farrell St and Polk St",
@@ -20710,7 +21404,9 @@
       "Fulton St and Octavia St",
       "McAllister St and Octavia St",
       "Golden Gate Ave and Octavia St",
+      "--BREAK",
       "Post St and Octavia St",
+      "--BREAK",
       "Sutter St and Octavia St",
       "Bush St and Octavia St",
       "Pine St and Octavia St",
@@ -21099,7 +21795,8 @@
       "Bay St and Powell St",
       "North Point St and Powell St",
       "Beach St and Powell St",
-      "Powell St and The Embarcadero"
+      "Powell St and The Embarcadero",
+      "Jefferson St and Powell St"
     ],
     "Presidio Ave": [
       "Post St and Presidio Ave",
@@ -21223,6 +21920,25 @@
     ],
     "Russia Ave": [
       "Russia Ave and Mission St"
+    ],
+    "SF Bike Route 30 / JFK Dr to Ocean Beach": [
+      "750 John F Kennedy Dr",
+      "John F Kennedy Drive and 30th Ave",
+      "John F Kennedy Drive and 36th Ave",
+      "John F Kennedy Drive and Chain of Lakes Dr East",
+      "John F Kennedy Drive and Chain of Lakes Dr West",
+      "John F Kennedy Drive and South Fork Dr",
+      "John F Kennedy Drive and 47th Ave",
+      "John F Kennedy Drive and Great Highway"
+    ],
+    "SF Bike Route 34 / MLK and Middle Drives": [
+      "Transverse Dr and San Francisco Bicycle Route 34",
+      "Middle Drive West and Overlook Drive",
+      "Middle Drive West and Metson Rd",
+      "Middle Drive West and Martin Luther King Junior Dr",
+      "Martin Luther King Junior Dr and Chain of Lakes Dr East",
+      "Martin Luther King Junior Dr and South Fork Dr",
+      "Lincoln Way and La Playa St"
     ],
     "Sacramento St": [
       "Sacramento St and Arguello Blvd",
@@ -21388,7 +22104,9 @@
       "Francisco St and Scott St",
       "Bay St and Scott St",
       "North Point St and Scott St",
-      "Beach St and Scott St"
+      "Beach St and Scott St",
+      "Jefferson St and Scott St",
+      "Marina Blvd and Scott St"
     ],
     "Shotwell St": [
       "Cesar Chavez St and Shotwell St",
@@ -21559,6 +22277,11 @@
       "Judah St and Sunset Blvd",
       "Irving St and Sunset Blvd"
     ],
+    "Sunset Blvd into GGP": [
+      "Irving St and Sunset Blvd",
+      "3600 Lincoln Way",
+      "1276 Martin Luther King Junior Dr"
+    ],
     "Sutter St": [
       "Sutter St and Presidio Ave",
       "Sutter St and Lyon St",
@@ -21661,6 +22384,7 @@
       "Bay St and Taylor St",
       "North Point St and Taylor St",
       "Beach St and Taylor St",
+      "Jefferson St and Taylor St",
       "Taylor St and The Embarcadero"
     ],
     "Tennessee St": [
@@ -21678,6 +22402,16 @@
     "Terra Vista Ave": [
       "Terra Vista Ave and Baker St",
       "Terra Vista Ave and St Joseph's Ave"
+    ],
+    "Texas St": [
+      "25th St and Texas St",
+      "--BREAK",
+      "22nd St and Texas St",
+      "20th St and Texas St",
+      "19th St and Texas St",
+      "18th St and Texas St",
+      "Mariposa St and Texas St",
+      "17th St and Texas St"
     ],
     "The Embarcadero": [
       "King St and The Embarcadero",
@@ -21698,12 +22432,24 @@
       "Grant Ave and The Embarcadero",
       "Beach St and The Embarcadero",
       "Powell St and The Embarcadero",
+      "Jefferson St and The Embarcadero",
       "Taylor St and The Embarcadero"
     ],
     "The Panhandle / SF Bike Route 30": [
       "Fell St and Baker St",
       "San Francisco Bicycle Route 30 and Masonic Ave",
-      "Kezar Dr and Stanyan St"
+      "Kezar Dr and Stanyan St",
+      "Kezar Dr and John F Kennedy Dr",
+      "John F Kennedy Dr and Conservatory Dr East",
+      "John F Kennedy Dr and Nancy Pelosi Dr",
+      "John F Kennedy Dr and Conservatory Dr West",
+      "360 John F Kennedy Dr",
+      "John F Kennedy Dr and 8th Ave",
+      "John F Kennedy Dr and Hagiwara Tea Garden Dr",
+      "802 10th Ave",
+      "John F Kennedy Dr and Stow Lake Dr",
+      "John F Kennedy Drive and Transverse Dr",
+      "750 John F Kennedy Dr"
     ],
     "Townsend St": [
       "8th St and Townsend St",
@@ -21825,6 +22571,7 @@
       "25th St and Utah St",
       "24th St and Utah St",
       "23rd St and Utah St",
+      "--BREAK",
       "18th St and Utah St",
       "Mariposa St and Utah St",
       "17th St and Utah St",
@@ -21869,8 +22616,11 @@
       "Vallejo St and Larkin St",
       "Vallejo St and Hyde St",
       "Vallejo St and Leavenworth St",
+      "--BREAK",
       "Vallejo St and Jones St",
+      "--BREAK",
       "Vallejo St and Taylor St",
+      "--BREAK",
       "Vallejo St and Mason St",
       "Vallejo St and Powell St",
       "Vallejo St and Stockton St",
@@ -21934,6 +22684,7 @@
       "25th St and Vermont St",
       "24th St and Vermont St",
       "23rd St and Vermont St",
+      "--BREAK",
       "22nd St and Vermont St",
       "20th St and Vermont St",
       "19th St and Vermont St",
@@ -22087,14 +22838,26 @@
       "Greenwich St and Webster St",
       "Lombard St and Webster St",
       "Chestnut St and Webster St",
+      "--BREAK",
       "Bay St and Webster St",
       "North Point St and Webster St",
-      "Beach St and Webster St"
+      "Beach St and Webster St",
+      "Jefferson St and Webster St"
     ],
     "Willard St": [
       "Parnassus Ave and Willard St",
       "Carl St and Willard St",
       "Frederick St and Willard St"
+    ],
+    "Wisconsin St": [
+      "26th St and Wisconsin St",
+      "25th St and Wisconsin St",
+      "23rd St and Wisconsin St",
+      "22nd St and Wisconsin St",
+      "20th St and Wisconsin St",
+      "19th St and Wisconsin St",
+      "17th St and Wisconsin St",
+      "16th St and Wisconsin St"
     ],
     "Wood St": [
       "Anza St and Wood St"
@@ -22111,12 +22874,12 @@
       "19th St and York St",
       "18th St and York St",
       "Mariposa St and York St",
+      "--BREAK",
       "Alameda St and York St"
     ]
   },
   "route_directives": {
     "--BREAK | Fulton St and 23rd Ave": "route",
-    "--BREAK | Fulton St and 8th Ave": "route",
     "10th St and Folsom St | 9th St and Folsom St": "path",
     "10th St and Howard St | 9th St and Howard St": "path",
     "10th St and Market St | Polk St and Market St": "path",
@@ -22188,10 +22951,12 @@
     "21st St and Potrero Ave | 20th St and Potrero Ave": "path",
     "21st St and Valencia St | 20th St and Valencia St": "path",
     "22nd St and Alabama St | 22nd St and Florida St": "route",
+    "22nd St and Bartlett St | 22nd St and Mission St": "route",
     "22nd St and Bryant St | 22nd St and York St": "route",
     "22nd St and Capp St | 22nd St and Van Ness Ave": "route",
     "22nd St and Chattanooga St | 22nd St and Dolores St": "route",
-    "22nd St and Dolores St | 22nd St and Guerrero St": "route",
+    "22nd St and Dolores St | 22nd St and Fair Oaks St": "route",
+    "22nd St and Fair Oaks St | 22nd St and Guerrero St": "route",
     "22nd St and Florida St | 22nd St and Bryant St": "route",
     "22nd St and Folsom St | 22nd St and Harrison St": "route",
     "22nd St and Guerrero St | 22nd St and Valencia St": "route",
@@ -22202,7 +22967,7 @@
     "22nd St and Potrero Ave | 21st St and Potrero Ave": "path",
     "22nd St and Shotwell St | 22nd St and Folsom St": "route",
     "22nd St and Valencia St | 21st St and Valencia St": "path",
-    "22nd St and Valencia St | 22nd St and Mission St": "route",
+    "22nd St and Valencia St | 22nd St and Bartlett St": "route",
     "22nd St and Van Ness Ave | 22nd St and Shotwell St": "route",
     "22nd St and York St | 22nd St and Hampshire St": "route",
     "23rd St and Chattanooga St | 22nd St and Chattanooga St": "route",
@@ -22229,6 +22994,9 @@
     "2nd St and Market St | Sansome St and Market St": "route",
     "2nd St and Mission St | 2nd St and Howard St": "route",
     "2nd St and Townsend St | 2nd St and King St": "route",
+    "360 John F Kennedy Dr | John F Kennedy Dr and 8th Ave": "path",
+    "3600 Lincoln Way | 1276 Martin Luther King Junior Dr": "route",
+    "399 Transverse Dr | Fulton St and 22nd Ave": "route",
     "3rd St and Folsom St | 2nd St and Folsom St": "path",
     "3rd St and Howard St | New Montgomery St and Howard St": "path",
     "3rd St and Market St | Geary St and Market St": "route",
@@ -22248,6 +23016,9 @@
     "6th St and Folsom St | 5th St and Folsom St": "path",
     "6th St and Howard St | 5th St and Howard St": "path",
     "6th St and Market St | Mason St and Market St": "route",
+    "700 Kezar Dr | Kezar Dr and Lincoln Way": "path",
+    "700 Martin Luther King Junior Dr | Transverse Dr and San Francisco Bicycle Route 34": "route",
+    "750 John F Kennedy Dr | John F Kennedy Drive and 30th Ave": "route",
     "7th St and Brannan St | 7th St and Townsend St": "path",
     "7th St and Bryant St | 7th St and Brannan St": "path",
     "7th St and Folsom St | 6th St and Folsom St": "path",
@@ -22258,6 +23029,7 @@
     "7th St and Market St | 7th St and Mission St": "path",
     "7th St and Market St | Jones St and Market St": "route",
     "7th St and Mission St | 7th St and Howard St": "path",
+    "802 10th Ave | John F Kennedy Dr and Stow Lake Dr": "path",
     "8th St and Brannan St | 8th St and Townsend St": "path",
     "8th St and Bryant St | 8th St and Brannan St": "path",
     "8th St and Folsom St | 7th St and Folsom St": "path",
@@ -22379,6 +23151,7 @@
     "Castro St and Market St | Noe St and Market St": "path",
     "Cesar Chavez St and 3rd St | Cesar Chavez St and Illinois St": "route",
     "Cesar Chavez St and Alabama St | Cesar Chavez St and Florida St": "route",
+    "Cesar Chavez St and Bartlett St | Cesar Chavez St and Mission St": "route",
     "Cesar Chavez St and Bryant St | Cesar Chavez St and York St": "route",
     "Cesar Chavez St and Church St | Cesar Chavez St and Dolores St": "route",
     "Cesar Chavez St and Connecticut St | Cesar Chavez St and Missouri St": "route",
@@ -22401,11 +23174,12 @@
     "Cesar Chavez St and Shotwell St | Cesar Chavez St and Folsom St": "route",
     "Cesar Chavez St and Tennessee St | Cesar Chavez St and 3rd St": "path",
     "Cesar Chavez St and Valencia St | 26th St and Valencia St": "path",
-    "Cesar Chavez St and Valencia St | Cesar Chavez St and Mission St": "route",
+    "Cesar Chavez St and Valencia St | Cesar Chavez St and Bartlett St": "route",
     "Cesar Chavez St and Van Ness Ave | Cesar Chavez St and Shotwell St": "route",
     "Cesar Chavez St and Vermont St | Cesar Chavez St and Kansas St": "route",
     "Cesar Chavez St and York St | Cesar Chavez St and Hampshire St": "route",
     "Chestnut St and Columbus Ave | Lombard St and Columbus Ave": "route",
+    "Chestnut St and Octavia St | Francisco St and Octavia St": "route",
     "Chestnut St and Polk St | Francisco St and Polk St": "path",
     "Church St and Market St | 14th St and Market St": "path",
     "Clay St and Arguello Blvd | Washington St and Arguello Blvd": "path",
@@ -22470,11 +23244,16 @@
     "Fell St and Divisadero St | Fell St and Scott St": "path",
     "Fell St and Market St | 10th St and Market St": "path",
     "Filbert St and Columbus Ave | Powell St and Columbus Ave": "route",
+    "Filbert St and Octavia St | Greenwich St and Octavia St": "route",
     "Filbert St and Polk St | Greenwich St and Polk St": "path",
     "Filbert St and Steiner St | Greenwich St and Steiner St": "route",
     "Filbert St and The Embarcadero | Battery St and The Embarcadero": "path",
     "Folsom St and The Embarcadero | Howard St and The Embarcadero": "path",
     "Francisco St and Columbus Ave | Taylor St and Columbus Ave": "route",
+    "Francisco St and Franklin St | Francisco St and Polk St": "path",
+    "Francisco St and Gough St | Francisco St and Franklin St": "path",
+    "Francisco St and Octavia St | Bay St and Octavia St": "route",
+    "Francisco St and Octavia St | Francisco St and Gough St": "path",
     "Francisco St and Polk St | Bay St and Polk St": "path",
     "Franklin St and Market St | 12th St and Market St": "path",
     "Fremont St and Folsom St | Beale St and Folsom St": "path",
@@ -22483,7 +23262,9 @@
     "Front St and Market St | Fremont St and Market St": "route",
     "Fulton St and 23rd Ave | Cabrillo St and 23rd Ave": "route",
     "Fulton St and 8th Ave | Cabrillo St and 8th Ave": "route",
+    "Fulton St and 8th Ave | John F Kennedy Dr and 8th Ave": "route",
     "Fulton St and Arguello Blvd | McAllister St and Arguello Blvd": "path",
+    "Fulton St and Great Highway | Balboa St and Great Highway": "route",
     "Fulton St and Steiner St | McAllister St and Steiner St": "route",
     "Geary Blvd and 15th Ave | Clement St and 15th Ave": "route",
     "Geary Blvd and 23rd Ave | Clement St and 23rd Ave": "route",
@@ -22502,11 +23283,28 @@
     "Grant Ave and Columbus Ave | Broadway St and Columbus Ave": "route",
     "Grant Ave and Market St | 3rd St and Market St": "route",
     "Green St and Columbus Ave | Stockton St and Columbus Ave": "route",
+    "Green St and Franklin St | Green St and Van Ness Ave": "route",
+    "Green St and Gough St | Green St and Franklin St": "route",
+    "Green St and Octavia St | Green St and Gough St": "route",
+    "Green St and Octavia St | Union St and Octavia St": "route",
     "Green St and Polk St | Union St and Polk St": "route",
     "Green St and Steiner St | Union St and Steiner St": "route",
     "Green St and The Embarcadero | Filbert St and The Embarcadero": "path",
+    "Green St and Van Ness Ave | Green St and Polk St": "route",
+    "Greenwich St and Baker St | Greenwich St and Broderick St": "route",
+    "Greenwich St and Broderick St | Greenwich St and Divisadero St": "route",
+    "Greenwich St and Buchanan St | Greenwich St and Laguna St": "route",
     "Greenwich St and Columbus Ave | Filbert St and Columbus Ave": "route",
+    "Greenwich St and Divisadero St | Greenwich St and Scott St": "route",
+    "Greenwich St and Fillmore St | Greenwich St and Webster St": "route",
+    "Greenwich St and Laguna St | Greenwich St and Octavia St": "route",
+    "Greenwich St and Lyon St | Greenwich St and Baker St": "route",
+    "Greenwich St and Octavia St | Lombard St and Octavia St": "route",
+    "Greenwich St and Pierce St | Greenwich St and Steiner St": "route",
     "Greenwich St and Polk St | Lombard St and Polk St": "path",
+    "Greenwich St and Scott St | Greenwich St and Pierce St": "route",
+    "Greenwich St and Steiner St | Greenwich St and Fillmore St": "route",
+    "Greenwich St and Webster St | Greenwich St and Buchanan St": "route",
     "Grove St and Hyde St | 8th St and Mission St": "path",
     "Grove St and Polk St | McAllister St and Polk St": "path",
     "Haight St and Scott St | Haight St and Pierce St": "route",
@@ -22520,6 +23318,11 @@
     "Hermann St and Steiner St | Germania St and Steiner St": "route",
     "Howard St and The Embarcadero | Broadway St and The Embarcadero": "path",
     "Irving St and 20th Ave | Lincoln Way and 20th Ave": "route",
+    "Irving St and 35th Ave | Irving St and 34th Ave": "route",
+    "Irving St and 36th Ave | Irving St and 35th Ave": "route",
+    "Irving St and Great Highway | Lincoln Way and Great Highway": "path",
+    "Irving St and Sunset Blvd | 3600 Lincoln Way": "route",
+    "Irving St and Sunset Blvd | Irving St and 36th Ave": "route",
     "Jackson St and Columbus Ave | Montgomery St and Columbus Ave": "route",
     "Jackson St and Polk St | Pacific Ave and Polk St": "route",
     "Jackson St and Steiner St | Pacific Ave and Steiner St": "route",
@@ -22530,11 +23333,30 @@
     "Jersey St and Diamond St | Jersey St and Castro St": "route",
     "Jersey St and Noe St | Jersey St and Sanchez St": "route",
     "Jersey St and Sanchez St | Jersey St and Church St": "route",
+    "John F Kennedy Dr and 8th Ave | John F Kennedy Dr and Hagiwara Tea Garden Dr": "path",
+    "John F Kennedy Dr and Conservatory Dr East | John F Kennedy Dr and Nancy Pelosi Dr": "path",
+    "John F Kennedy Dr and Conservatory Dr West | 360 John F Kennedy Dr": "path",
+    "John F Kennedy Dr and Hagiwara Tea Garden Dr | 802 10th Ave": "path",
+    "John F Kennedy Dr and Nancy Pelosi Dr | John F Kennedy Dr and Conservatory Dr West": "path",
+    "John F Kennedy Dr and Stow Lake Dr | John F Kennedy Drive and Transverse Dr": "path",
+    "John F Kennedy Drive and 30th Ave | John F Kennedy Drive and 36th Ave": "route",
+    "John F Kennedy Drive and 36th Ave | John F Kennedy Drive and Chain of Lakes Dr East": "route",
+    "John F Kennedy Drive and 47th Ave | John F Kennedy Drive and Great Highway": "route",
+    "John F Kennedy Drive and Chain of Lakes Dr East | John F Kennedy Drive and Chain of Lakes Dr West": "route",
+    "John F Kennedy Drive and Chain of Lakes Dr West | John F Kennedy Drive and South Fork Dr": "route",
+    "John F Kennedy Drive and Great Highway | Fulton St and Great Highway": "path",
+    "John F Kennedy Drive and South Fork Dr | John F Kennedy Drive and 47th Ave": "route",
+    "John F Kennedy Drive and Transverse Dr | 399 Transverse Dr": "route",
+    "John F Kennedy Drive and Transverse Dr | 750 John F Kennedy Dr": "path",
     "Jones St and Columbus Ave | Francisco St and Columbus Ave": "route",
     "Jones St and Market St | McAllister St and Market St": "route",
     "Judah St and 20th Ave | Irving St and 20th Ave": "route",
     "Judah St and 34th Ave | Irving St and 34th Ave": "route",
+    "Judah St and Great Highway | Irving St and Great Highway": "path",
     "Kearny St and Columbus Ave | Jackson St and Columbus Ave": "route",
+    "Kezar Dr and John F Kennedy Dr | 700 Kezar Dr": "path",
+    "Kezar Dr and John F Kennedy Dr | John F Kennedy Dr and Conservatory Dr East": "path",
+    "Kezar Dr and Stanyan St | Kezar Dr and John F Kennedy Dr": "path",
     "King St and The Embarcadero | Townsend St and The Embarcadero": "path",
     "Kirkham St and 10th Ave | Kirkham St and 9th Ave": "route",
     "Kirkham St and 11th Ave | Kirkham St and 10th Ave": "route",
@@ -22579,6 +23401,7 @@
     "Kirkham St and 8th Ave | Kirkham St and 7th Ave": "route",
     "Kirkham St and 9th Ave | Kirkham St and 8th Ave": "route",
     "Kirkham St and Funston Ave | Kirkham St and 12th Ave": "route",
+    "Kirkham St and Great Highway | Judah St and Great Highway": "path",
     "Kirkham St and Great Highway | Kirkham St and La Playa St": "route",
     "Kirkham St and La Playa St | Kirkham St and 48th Ave": "route",
     "Kirkham St and Sunset Blvd | Kirkham St and 36th Ave": "route",
@@ -22617,9 +23440,12 @@
     "Larkin St and Market St | 9th St and Market St": "path",
     "Lawton St and 20th Ave | Kirkham St and 20th Ave": "route",
     "Lawton St and 34th Ave | Kirkham St and 34th Ave": "route",
+    "Lawton St and Great Highway | Kirkham St and Great Highway": "path",
+    "Lincoln Way and 20th Ave | 700 Martin Luther King Junior Dr": "route",
     "Lincoln Way and 23rd Ave | --BREAK": "route",
-    "Lincoln Way and 8th Ave | --BREAK": "route",
+    "Lincoln Way and Great Highway | John F Kennedy Drive and Great Highway": "path",
     "Lombard St and Columbus Ave | Mason St and Columbus Ave": "route",
+    "Lombard St and Octavia St | Chestnut St and Octavia St": "route",
     "Lombard St and Polk St | Chestnut St and Polk St": "path",
     "Lombard St and The Embarcadero | Bay St and The Embarcadero": "path",
     "Main St and Folsom St | Spear St and Folsom St": "path",
@@ -22627,6 +23453,9 @@
     "Mariposa St and Harrison St | 17th St and Harrison St": "path",
     "Mariposa St and Potrero Ave | 17th St and Potrero Ave": "path",
     "Market St and Van Ness Ave | 11th St and Market St": "path",
+    "Martin Luther King Junior Dr and Chain of Lakes Dr East | Martin Luther King Junior Dr and South Fork Dr": "route",
+    "Martin Luther King Junior Dr and South Fork Dr | John F Kennedy Drive and South Fork Dr": "route",
+    "Martin Luther King Junior Dr and South Fork Dr | Lincoln Way and La Playa St": "route",
     "Mason St and Columbus Ave | Greenwich St and Columbus Ave": "route",
     "Mason St and Market St | Turk St and Market St": "route",
     "McAllister St and 7th St | 7th St and Market St": "route",
@@ -22654,13 +23483,18 @@
     "McAllister St and Steiner St | Golden Gate Ave and Steiner St": "route",
     "McAllister St and Steiner St | McAllister St and Fillmore St": "route",
     "McAllister St and Webster St | McAllister St and Buchanan St": "route",
+    "Middle Drive West and Martin Luther King Junior Dr | Martin Luther King Junior Dr and Chain of Lakes Dr East": "route",
+    "Middle Drive West and Metson Rd | Middle Drive West and Martin Luther King Junior Dr": "route",
+    "Middle Drive West and Overlook Drive | Middle Drive West and Metson Rd": "route",
     "Montgomery St and Market St | 2nd St and Market St": "route",
     "Moraga St and 20th Ave | Lawton St and 20th Ave": "route",
     "Moraga St and 34th Ave | Lawton St and 34th Ave": "route",
+    "Moraga St and Great Highway | Lawton St and Great Highway": "path",
     "New Montgomery St and Howard St | 2nd St and Howard St": "path",
     "Noe St and Market St | 16th St and Market St": "path",
     "Noriega St and 20th Ave | Moraga St and 20th Ave": "route",
     "Noriega St and 34th Ave | Moraga St and 34th Ave": "route",
+    "Noriega St and Great Highway | Moraga St and Great Highway": "path",
     "North Point St and Columbus Ave | Bay St and Columbus Ave": "route",
     "North Point St and Polk St | Beach St and Polk St": "path",
     "North Point St and The Embarcadero | Kearny St and The Embarcadero": "path",
@@ -22671,8 +23505,10 @@
     "Octavia St and Market St | Octavia Blvd and Market St": "path",
     "Ortega St and 20th Ave | Noriega St and 20th Ave": "route",
     "Ortega St and 34th Ave | Noriega St and 34th Ave": "route",
+    "Ortega St and Great Highway | Noriega St and Great Highway": "path",
     "Pacheco St and 20th Ave | Ortega St and 20th Ave": "route",
     "Pacheco St and 34th Ave | Ortega St and 34th Ave": "route",
+    "Pacheco St and Great Highway | Ortega St and Great Highway": "path",
     "Pacific Ave and Columbus Ave | Kearny St and Columbus Ave": "route",
     "Pacific Ave and Polk St | Broadway St and Polk St": "route",
     "Pacific Ave and Steiner St | Broadway St and Steiner St": "route",
@@ -22735,8 +23571,10 @@
     "Powell St and Market St | Stockton St and Market St": "route",
     "Quintara St and 20th Ave | Pacheco St and 20th Ave": "route",
     "Quintara St and 34th Ave | Pacheco St and 34th Ave": "route",
+    "Quintara St and Great Highway | Pacheco St and Great Highway": "path",
     "Rivera St and 20th Ave | Quintara St and 20th Ave": "route",
     "Rivera St and 34th Ave | Quintara St and 34th Ave": "route",
+    "Rivera St and Great Highway | Quintara St and Great Highway": "path",
     "Sacramento St and Arguello Blvd | Lake St and Arguello Blvd": "path",
     "Sacramento St and Arguello Blvd | Sacramento St and Cherry St": "route",
     "Sacramento St and Cherry St | Clay St and Cherry St": "route",
@@ -22748,6 +23586,7 @@
     "Sansome St and Market St | Sutter St and Market St": "route",
     "Santiago St and 20th Ave | Rivera St and 20th Ave": "route",
     "Santiago St and 34th Ave | Rivera St and 34th Ave": "route",
+    "Santiago St and Great Highway | Rivera St and Great Highway": "path",
     "Spear St and Folsom St | Steuart St and Folsom St": "path",
     "Spear St and Howard St | Steuart St and Howard St": "route",
     "Steuart St and Folsom St | Folsom St and The Embarcadero": "path",
@@ -22780,9 +23619,12 @@
     "Sutter St and Webster St | Sutter St and Buchanan St": "route",
     "Taraval St and 20th Ave | Santiago St and 20th Ave": "route",
     "Taraval St and 34th Ave | Santiago St and 34th Ave": "route",
+    "Taraval St and Great Highway | Santiago St and Great Highway": "path",
     "Taylor St and Columbus Ave | Chestnut St and Columbus Ave": "route",
     "Taylor St and Market St | Golden Gate Ave and Market St": "route",
     "Townsend St and The Embarcadero | Brannan St and The Embarcadero": "path",
+    "Transverse Dr and San Francisco Bicycle Route 34 | John F Kennedy Drive and Transverse Dr": "route",
+    "Transverse Dr and San Francisco Bicycle Route 34 | Middle Drive West and Overlook Drive": "route",
     "Turk Blvd and Arguello Blvd | Edward St and Arguello Blvd": "path",
     "Turk Blvd and Arguello Blvd | Turk Blvd and Stanyan St": "path",
     "Turk Blvd and Parker Ave | Turk Blvd and Masonic Ave": "path",
@@ -22792,7 +23634,9 @@
     "Turk St and Steiner St | Eddy St and Steiner St": "route",
     "Ulloa St and 20th Ave | Taraval St and 20th Ave": "route",
     "Ulloa St and 34th Ave | Taraval St and 34th Ave": "route",
+    "Ulloa St and Great Highway | Taraval St and Great Highway": "path",
     "Union St and Columbus Ave | Green St and Columbus Ave": "route",
+    "Union St and Octavia St | Filbert St and Octavia St": "route",
     "Union St and Polk St | Filbert St and Polk St": "path",
     "Union St and Steiner St | Filbert St and Steiner St": "route",
     "Vallejo St and Columbus Ave | Grant Ave and Columbus Ave": "route",
@@ -22834,6 +23678,7 @@
     "Vicente St and 45th Ave | Vicente St and 44th Ave": "route",
     "Vicente St and 46th Ave | Vicente St and 45th Ave": "route",
     "Vicente St and 47th Ave | Vicente St and 46th Ave": "route",
+    "Vicente St and Great Highway | Ulloa St and Great Highway": "path",
     "Vicente St and Great Highway | Vicente St and 47th Ave": "route",
     "Vicente St and Sunset Blvd | Vicente St and 36th Ave": "route",
     "Waller St and Pierce St | Haight St and Pierce St": "route",
