@@ -1,19 +1,38 @@
 """
-Breaks are defined as intersections where there should be
-no path connecting that intersection with the next one.
+This is a data file for thebikemap.com.
 
-Breaks always go from west -> east, or south -> north.
+This Python file defines variables documented below.
 
-For example: there is a break on 2nd Ave at Lincoln Way, since
-you can't get to 2nd Ave @ Fulton (the next intersection)
-without taking a turn. Lincoln is the south intersection, hence,
-south -> north.
+* city
+    A string for what city this file defines.
 
+* regions
+    A list of regions. Each region consists of a list of buckets.
+    A bucket is a list of non intersecting streets.
 
+* breaks
+    Breaks are defined as intersections where there should be
+    no path connecting that intersection with the next one.
 
-Each region is a list of buckets.
-Each bucket contains a set of paths.
-For a region, the paths in one bucket are all parallel and never intersect.
+    Breaks must be defined from west -> east, or south -> north.
+
+    For example: there is a break on 2nd Ave at Lincoln Way, since
+    you can't get to 2nd Ave @ Fulton (the next intersection)
+    without taking a turn. Lincoln is the south intersection, hence,
+    south -> north.
+
+* custom_paths
+    Custom paths are nonstandard paths that cannot be defined by simple
+    street intersections. For example - the Panhandle bike route in SF.
+
+* curved_roads
+    Curved roads define roads that curve in the city. By default, the
+    map will attempt to draw a straight line between intersections. This
+    does not work on curved roads.
+
+* route_directives
+    This defines portions of roads that are designated as bike routes, or
+    routes with bike paths.
 """
 
 city = 'San Francisco, CA'
@@ -35,7 +54,7 @@ regions = [
             # Div -> Masonic
             'Divisadero St', "Broderick St", 'Baker St', 'Lyon St', 'Central Ave', 'Masonic Ave',
             # Masonic -> Stanyan
-            'Ashbury St', 'Clayton St', 'Belvedere St', 'Parker Ave', 'Cole St', 'Shrader St', 'Stanyan St',
+            'Ashbury St', 'Clayton St', 'Belvedere St', 'Parker Ave', 'Cole St', 'Shrader St', 'Stanyan St', 'Arguello Blvd',
         ],
     ],
     # Richmond/Sunset
@@ -49,7 +68,7 @@ regions = [
             'Kirkham St', 'Lawton St', 'Moraga St',
             'Noriega St', 'Ortega St', 'Pacheco St',
             'Quintara St', 'Rivera St', 'Santiago St',
-            'Taraval St', 'Ulloa St',
+            'Taraval St', 'Ulloa St', 'Vicente St',
         ],
 
         # south -> north streets
@@ -58,6 +77,7 @@ regions = [
             '2nd Ave', '3rd Ave', '4th Ave', '5th Ave', '6th Ave', '7th Ave', '8th Ave', '9th Ave', '10th Ave', '11th Ave', '12th Ave', '14th Ave', '15th Ave', '16th Ave', '17th Ave', '18th Ave', '19th Ave', '20th Ave', '21st Ave', '22nd Ave', '23rd Ave', '24th Ave', '25th Ave', '26th Ave', '27th Ave', '28th Ave', '29th Ave', '30th Ave', '31st Ave', '32nd Ave', '33rd Ave', '34th Ave', '35th Ave', '36th Ave', '37th Ave', '38th Ave', '39th Ave', '40th Ave', '41st Ave', '42nd Ave', '43rd Ave', '44th Ave', '45th Ave', '46th Ave', '47th Ave', '48th Ave',
             # other streets
             'Arguello Blvd', 'Sunset Blvd', 'Funston Ave', 'Park Presidio Blvd', 'Willard St',
+            'La Playa St', 'Great Highway',
         ],
     ],
 
@@ -79,6 +99,7 @@ regions = [
 
         # south -> north streets
         [
+            'Masonic Ave', 'Presidio Ave',
             'Lyon St', 'Baker St', 'Broderick St', 'Divisadero St',
             'Scott St', 'Pierce St', 'Steiner St', 'Fillmore St',
             'Webster St', 'Buchanan St', 'Laguna St', 'Octavia Blvd', 'Octavia St',
@@ -86,8 +107,10 @@ regions = [
             'Polk St', 'Larkin St', 'Hyde St', 'Leavenworth St',
             'Jones St', 'Taylor St', 'Mason St',
             'Powell St', 'Stockton St', 'Grant Ave',
-            'Montgomery St', 'Sansome St',
+            'Kearny St', 'Montgomery St', 'Sansome St',
             'Battery St', 'Front St', 'Davis St', 'Drumm St',
+            # there are some tiny north south streets above market...
+            '7th St', 'Cyril Magnin St'
         ],
         # weirdo diagonal streets
         [
@@ -176,7 +199,8 @@ regions = [
     [
         # northwest->southeast streets
         [
-            'Spear St', 'Main St', 'Beale St', 'Fremont St',
+            'Steuart St', 'Spear St',
+            'Main St', 'Beale St', 'Fremont St',
             '1st St', '2nd St', 'New Montgomery St', '3rd St',
             '4th St', '5th St', '6th St', '7th St', '8th St',
             '9th St', '10th St', '11th St', '12th St'
@@ -189,7 +213,7 @@ regions = [
             'Townsend St', 'King St'
         ],
 
-        ['Van Ness Ave'],
+        ['Van Ness Ave', 'The Embarcadero'],
 
     ],
 
@@ -202,6 +226,8 @@ regions = [
             '19th St', '20th St', '21st St', '22nd St', '23rd St', '24th St',
             '25th St', '26th St', 'Cesar Chavez St', '27th St', '28th St',
             'Clipper St', 'Elizabeth St', '29th St', 'Day St', '30th St',
+            # weird noe streets
+            'Jersey St', 'Duncan St', 'Alvarado St',
         ],
 
         # north->south streets
@@ -214,7 +240,7 @@ regions = [
             'Kansas St', 'Rhode Island St', 'De Haro St', 'Carolina St',
             'Arkansas St', 'Connecticut St', 'Missouri St', 'Mississippi St',
             'Pennsylvania Ave', 'Indiana St', 'Minnesota St', 'Tennessee St',
-            '3rd St', 'Illinois St'
+            '3rd St', 'Illinois St', 'Chattanooga St',
         ],
 
     ],
@@ -227,29 +253,30 @@ breaks = {
     # west -> east streets
     # BREAKS ON WEST SIDE
     ##################
-    'Golden Gate Ave': set(['Stanyan St']),
-    'McAllister St': set(['Parker Ave']),
-    'Grove St': set(['Scott St']),
-    'Waller St': set(['Central Ave']),
-
     'Anza St': set(['32nd Ave']),
-
-    'Pacheco St': set(['41st Ave']),
+    'Clay St': set(['Laguna St']),
+    'Ellis St': set(['Webster St']),
+    'Golden Gate Ave': set(['Stanyan St']),
+    'Grove St': set(['Scott St']),
+    'McAllister St': set(['Parker Ave']),
+    'Pacheco St': set(['28th Ave', '41st Ave']),
+    'Rivera St': set(['24th Ave']),
     'Quintara St': set(['39th Ave']),
+    'Waller St': set(['Central Ave']),
+    'Washington St': set(['Scott St']),
 
 
     ##############################
     # south -> north streets
     # BREAKS ON SOUTH SIDE
     ##############################
-
-
-    'Pierce St': set(['Hayes St']),
-    'Lyon St': set(['Turk Blvd', 'Oak St']),
-    'Central Ave': set(['Oak St']),
     'Ashbury St': set(['Oak St']),
+    'Central Ave': set(['Oak St']),
     'Clayton St': set(['Oak St']),
     'Cole St': set(['Oak St']),
+    'Lyon St': set(['Turk Blvd', 'Oak St']),
+    'Octavia St': set(['Sacramento St']),
+    'Pierce St': set(['Clay St', 'Hayes St']),
     'Shrader St': set(['Oak St']),
 
 
@@ -276,11 +303,11 @@ breaks = {
     '20th Ave': set(['Lincoln Way']),
     '21st Ave': set(['Lincoln Way']),
     '22nd Ave': set(['Lincoln Way']),
-    '23rd Ave': set(['Lincoln Way']),
+    '23rd Ave': set(['Lincoln Way', 'Taraval St', 'Santiago St']),
     '24th Ave': set(['Lincoln Way']),
-    '25th Ave': set(['Lincoln Way']),
-    '26th Ave': set(['Lincoln Way']),
-    '27th Ave': set(['Lincoln Way']),
+    '25th Ave': set(['Lincoln Way', 'Quintara St']),
+    '26th Ave': set(['Lincoln Way', 'Quintara St']),
+    '27th Ave': set(['Lincoln Way', 'Quintara St']),
     '28th Ave': set(['Lincoln Way']),
     '29th Ave': set(['Lincoln Way']),
     '30th Ave': set(['Lincoln Way']),
@@ -302,6 +329,7 @@ breaks = {
     '46th Ave': set(['Lincoln Way']),
     '47th Ave': set(['Lincoln Way']),
     '48th Ave': set(['Lincoln Way']),
+    'La Playa St': set(['Lincoln Way']),
 }
 
 
@@ -335,12 +363,114 @@ custom_paths = {
             'Arguello Blvd and Frederick St',
         ],
     },
+    'Hyde/Grove to 8th/Mission': {
+        'path': [
+            'Hyde St and Grove St',
+            '8th St and Mission St',
+        ],
+        'type': 'path'
+    },
+    'Judah St to Parnassus Ave': {
+        'path': [
+            '5th Ave and Judah St',
+            '4th Ave and Parnassus Ave',
+        ],
+    },
 }
 
 
 # Define bike paths, bike routes, here!
 # WEST -> EAST
 # SOUTH -> NORTH
-route_directives = {
-    'Post St': [('Scott St', 'Steiner St', 'path'), ('Steiner St', 'Montgomery St', 'route')],
-}
+route_directives = [
+    # 5 embarc
+    ('The Embarcadero', [('King St', 'Kearny St', 'path')]),
+    # 10 clement, 30th, lake, sacramento, clay, webster, broadway
+    ('Clement St', [('45th Ave', '30th Ave', 'route')]),
+    ('30th Ave', [('Clement St', 'Lake St', 'route')]),
+    ('Lake St', [('30th Ave', '28th Ave', 'route'), ('28th Ave', 'Arguello Blvd', 'path')]),
+    ('Sacramento St', [('Arguello Blvd', 'Cherry St', 'route')]),
+    ('Cherry St', [('Sacramento St', 'Clay St', 'route')]),
+    ('Clay St', [('Cherry St', 'Webster St', 'route')]),
+    ('Webster St', [('Clay St', 'Broadway St', 'route')]),
+    ('Broadway St', [('Webster St', 'The Embarcadero', 'route')]),
+    # 11 columbus
+    ('Columbus Ave', [('North Point St', 'Montgomery St', 'route')]),
+    # 11 2nd
+    ('2nd St', [('Market St', 'King St', 'route')]),
+    # 16 sutter
+    ('Sutter St', [('Steiner St', 'Sansome St', 'route')]),
+    # 16 post
+    ('Post St', [('Presidio Ave', 'Steiner St', 'path'), ('Steiner St', 'Montgomery St', 'route')]),
+    # 19 5th
+    ('5th St', [('Market St', 'Townsend St', 'route')]),
+    # 20 cabrillo
+    ('Cabrillo St', [('La Playa St', 'Arguello Blvd', 'path')]),
+    # 20 turk
+    ('Turk Blvd', [('Arguello Blvd', 'Masonic Ave', 'path')]),
+    # 20 mcallister
+    ('McAllister St', [('Masonic Ave', '7th St', 'route')]),
+    # 23 7th
+    ('7th St', [('McAllister St', 'Market St', 'route'), ('Market St', 'Townsend St', 'path')]),
+    # 23 8th
+    ('8th St', [('Mission St', 'Townsend St', 'path')]),
+    # 25 Polk
+    ('Polk St', [('Market St', 'Post St', 'path'), ('Post St', 'Union St', 'route'), ('Union St', 'Beach St', 'path')]),
+    # 25 Potrero
+    ('Potrero Ave', [('25th St', '17th St', 'path')]),
+    # 30 14th
+    ('14th St', [('Sanchez St', 'Church St', 'route'), ('Church St', 'Folsom St', 'path'), ('Folsom St', 'Harrison St', 'route')]),
+    # 30 Market
+    ('Market St', [('Castro St', 'Hayes St', 'path'), ('Hayes St', 'Steuart St', 'route')]),
+    # 30 Wiggle
+    ('Hayes St', [('Broderick St', 'Scott St', 'route')]),
+    ('Fell St', [('Baker St', 'Scott St', 'path')]),
+    ('Scott St', [('Haight St', 'Fell St', 'path')]),
+    ('Haight St', [('Scott St', 'Pierce St', 'route')]),
+    ('Pierce St', [('Waller St', 'Haight St', 'route')]),
+    ('Waller St', [('Pierce St', 'Steiner St', 'route')]),
+    ('Steiner St', [('Duboce Ave', 'Waller St', 'route')]),
+    ('Duboce Ave', [('Steiner St', 'Webster St', 'route'), ('Webster St', 'Market St', 'path')]),
+    # 30 SOMA
+    ('Folsom St', [('14th St', 'The Embarcadero', 'path')]),
+    ('Howard St', [('11th St', 'Fremont St', 'path'), ('Fremont St', 'The Embarcadero', 'route')]),
+    # 32 Page
+    ('Page St', [('Stanyan St', 'Franklin St', 'route')]),
+    # 33 Harrison
+    ('Harrison St', [('Cesar Chavez St', '26th St', 'path'), ('26th St', '23rd St', 'route'), ('23rd St', '11th St', 'path')]),
+    # 40 17th
+    ('17th St', [('Douglass St', 'Kansas St', 'route')]),
+    # 40 Kirkham
+    ('Kirkham St', [('Great Highway', '6th Ave', 'route')]),
+    # 44 Jersey / Chattanooga / 22nd
+    ('Jersey St', [('Diamond St', 'Chattanooga St', 'route')]),
+    ('Chattanooga St', [('Jersey St', '22nd St', 'route')]),
+    ('22nd St', [('Chattanooga St', 'Potrero Ave', 'route')]),
+    # 45 Steiner
+    ('Steiner St', [('Fulton St', 'Greenwich St', 'route')]),
+    # 45 Valencia
+    ('Valencia St', [('Cesar Chavez St', 'Duboce Ave', 'path')]),
+    # 47 Sanchez
+    ('Sanchez St', [('17th St', '14th St', 'route')]),
+    # 60 Vicente
+    ('Vicente St', [('Great Highway', '14th Ave', 'route')]),
+    # 60 Cesar Chavez
+    ('Cesar Chavez St', [('Sanchez St', 'Mississippi St', 'route'), ('Mississippi St', '3rd St', 'path'), ('3rd St', 'Illinois St', 'route')]),
+    # 65 Arguello
+    ('Arguello Blvd', [('Fulton St', 'Jackson St', 'path')]),
+    # 69 15th Ave
+    ('15th Ave', [('Cabrillo St', 'Lake St', 'route')]),
+    # 75 20th Ave
+    ('20th Ave', [('Vicente St', 'Lincoln Way', 'route')]),
+    # 75 23rd Ave
+    ('23rd Ave', [('Lincoln Way', 'Lake St', 'route')]),
+    # 85 34th Ave
+    ('34th Ave', [('Vicente St', 'Irving St', 'route'), ('Cabrillo St', 'Clement St', 'route')]),
+    # 330 8th Ave
+    ('8th Ave', [('Lincoln Way', 'Lake St', 'route')]),
+]
+
+
+
+# Notes
+# 8th and Market doesn't show up correctly via Google Maps API.
