@@ -99,6 +99,9 @@ route_directives = [
     #('1st St', [('45th Ave', '30th Ave', 'route')]),
 ]
 
+tbds = {
+    #'AREA NAME': (latitude, lng),
+}
 
 
 # Notes
