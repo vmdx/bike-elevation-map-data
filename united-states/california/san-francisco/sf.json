@@ -1,6 +1,6 @@
 {
-  "buildtimereadable": "2013-01-03-00:38",
-  "buildtimestamp": 1357202295,
+  "buildtimereadable": "2013-01-07-00:43",
+  "buildtimestamp": 1357548199,
   "custom_path_names": [
     "SF Bike Route 30 / JFK Dr to Ocean Beach",
     "20th Ave Sunset to Richmond",
@@ -23000,9 +23000,11 @@
     "3rd St and Folsom St | 2nd St and Folsom St": "path",
     "3rd St and Howard St | New Montgomery St and Howard St": "path",
     "3rd St and Market St | Geary St and Market St": "route",
+    "3rd St and Townsend St | 2nd St and Townsend St": "path",
     "4th St and Folsom St | 3rd St and Folsom St": "path",
     "4th St and Howard St | 3rd St and Howard St": "path",
     "4th St and Market St | Grant Ave and Market St": "route",
+    "4th St and Townsend St | 3rd St and Townsend St": "path",
     "5th St and Brannan St | 5th St and Townsend St": "route",
     "5th St and Bryant St | 5th St and Brannan St": "route",
     "5th St and Folsom St | 4th St and Folsom St": "path",
@@ -23013,9 +23015,11 @@
     "5th St and Market St | 5th St and Mission St": "route",
     "5th St and Market St | Powell St and Market St": "route",
     "5th St and Mission St | 5th St and Howard St": "route",
+    "5th St and Townsend St | 4th St and Townsend St": "path",
     "6th St and Folsom St | 5th St and Folsom St": "path",
     "6th St and Howard St | 5th St and Howard St": "path",
     "6th St and Market St | Mason St and Market St": "route",
+    "6th St and Townsend St | 5th St and Townsend St": "path",
     "700 Kezar Dr | Kezar Dr and Lincoln Way": "path",
     "700 Martin Luther King Junior Dr | Transverse Dr and San Francisco Bicycle Route 34": "route",
     "750 John F Kennedy Dr | John F Kennedy Drive and 30th Ave": "route",
@@ -23029,6 +23033,7 @@
     "7th St and Market St | 7th St and Mission St": "path",
     "7th St and Market St | Jones St and Market St": "route",
     "7th St and Mission St | 7th St and Howard St": "path",
+    "7th St and Townsend St | 6th St and Townsend St": "path",
     "802 10th Ave | John F Kennedy Dr and Stow Lake Dr": "path",
     "8th St and Brannan St | 8th St and Townsend St": "path",
     "8th St and Bryant St | 8th St and Brannan St": "path",
@@ -23038,6 +23043,7 @@
     "8th St and Howard St | 7th St and Howard St": "path",
     "8th St and Howard St | 8th St and Folsom St": "path",
     "8th St and Mission St | 8th St and Howard St": "path",
+    "8th St and Townsend St | 7th St and Townsend St": "path",
     "9th St and Folsom St | 8th St and Folsom St": "path",
     "9th St and Howard St | 8th St and Howard St": "path",
     "9th St and Market St | Hayes St and Market St": "path",
@@ -23687,5 +23693,6 @@
     "Washington St and Polk St | Jackson St and Polk St": "route",
     "Washington St and Steiner St | Jackson St and Steiner St": "route",
     "Washington St and Webster St | Jackson St and Webster St": "route"
-  }
+  },
+  "tbds": {}
 }

@@ -584,6 +584,8 @@ route_directives = [
     ('Octavia St', [('Green St', 'Bay St', 'route')]),
     # 330 8th Ave
     ('8th Ave', [('Fulton St', 'Lake St', 'route')]),
+    # townsend to caltrain
+    ('Townsend St', [('8th St', '2nd St', 'path')]),
 ]
 
 tbds = {

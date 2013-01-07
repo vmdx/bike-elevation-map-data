@@ -9,6 +9,7 @@ Hermann St and Shrader St
 17th St and Collingwood St
 17th St and Steiner St
 26th St and Potrero Ave
+Frederick St and 29th Ave
 Octavia Blvd and The Embarcadero
 Santiago St and 4th Ave
 14th St and 3rd Ave
@@ -21,21 +22,22 @@ Kirkham St and 2nd Ave
 Sutter St and Octavia Blvd
 Cyril Magnin St and Columbus Ave
 17th St and Hillway Ave
-Lake St and Great Hwy
 29th St and Harrison St
 Mayfair Dr and Parker Ave
 Grove St and Taylor St
 Clipper St and York St
 14th St and Illinois St
 16th St and Pennsylvania Ave
+Geary Blvd and Willard N
 Beale St and King St
 Alvarado St and Fair Oaks St
-Henry St and Arguello Blvd
+Mariposa St and Noe St
 21st St and Rhode Island St
 Cesar Chavez St and Carolina St
 Parnassus Ave and Downey St
 Ellis St and Sansome St
 McAllister St and Belvedere St
+16th St and Fillmore St
 14th St and Carolina St
 Beulah St and Masonic Ave
 Seal Rock Dr and 30th Ave
@@ -43,19 +45,19 @@ Germania St and 3rd Ave
 Turk Blvd and Shrader St
 Moraga St and Great Hwy
 Taraval St and Willard St
-Stanyan St and Market St
+Fulton St and Octavia Blvd
 25th St and Minnesota St
 Fremont St and The Embarcadero
 Filbert St and Drumm St
 Duboce Ave and Vermont St
-Lake St and Great Highway
+Seal Rock Dr and 39th Ave
 Rivoli St and Hillway Ave
 Hugo St and Great Highway
 29th St and Tennessee St
 Eddy St and Cole St
 Lincoln Way and Arguello Blvd
 Grattan St and Fillmore St
-Bay St and 7th St
+Day St and Alabama St
 Division St and Guerrero St
 Hugo St and Funston Ave
 28th St and Minnesota St
@@ -71,7 +73,7 @@ Ulloa St and Willard St
 Duncan St and Tennessee St
 Taraval St and 10th Ave
 Rivera St and 4th Ave
-Edward St and Locust St
+Alvarado St and Missouri St
 Grove St and Leavenworth St
 O'Farrell St and Arguello Blvd
 Alvarado St and Chattanooga St
@@ -79,7 +81,6 @@ Santiago St and 11th Ave
 19th St and Bartlett St
 Hayes St and Octavia Blvd
 Oak St and Powell St
-Golden Gate Ave and Montgomery St
 Alvarado St and Collingwood St
 Alameda St and Connecticut St
 Division St and Douglass St
@@ -100,10 +101,11 @@ Marina Blvd and Steiner St
 Hermann St and Divisadero St
 Turk St and Stanyan St
 Filbert St and Presidio Ave
-Rivoli St and Sanchez St
+Alma St and Hillway Ave
 Bush St and Drumm St
+Seal Rock Dr and Sunset Blvd
 Duboce Ave and Bartlett St
-Lake St and 33rd Ave
+King St and Van Ness Ave
 Noriega St and 3rd Ave
 Vallejo St and Masonic Ave
 Waller St and Parker Ave
@@ -133,7 +135,7 @@ Mariposa St and Diamond St
 Mariposa St and Chattanooga St
 Hyde St and Columbus Ave
 Mason St and The Embarcadero
-8th St and The Embarcadero
+Golden Gate Ave and Davis St
 15th St and Mississippi St
 Vicente St and 6th Ave
 McAllister St and St Joseph's Ave
@@ -142,7 +144,7 @@ Frederick St and 37th Ave
 Grove St and Belvedere St
 Cesar Chavez St and Collingwood St
 Holly Park Circle and Highland Ave
-Hugo St and Great Hwy
+Santiago St and 10th Ave
 Geary St and Cyril Magnin St
 Elizabeth St and Missouri St
 Alvarado St and York St
@@ -169,12 +171,12 @@ Judah St and 4th Ave
 10th St and Townsend St
 28th St and Potrero Ave
 Green St and Masonic Ave
-Fell St and Battery St
+Alvarado St and Minnesota St
 Rivera St and 9th Ave
 Oak St and Kearny St
-Alma St and Fillmore St
+Division St and Connecticut St
 Beach St and Van Ness Ave
-Elizabeth St and Utah St
+Pacific Ave and Octavia Blvd
 Mayfair Dr and Arguello Blvd
 Duboce Ave and Illinois St
 17th St and Scott St
@@ -191,6 +193,7 @@ Rivera St and 11th Ave
 Carl St and Delmar St
 Clipper St and Potrero Ave
 29th St and 3rd St
+O'Farrell St and Van Ness Ave
 Chestnut St and Drumm St
 29th St and Douglass St
 Division St and Church St
@@ -200,7 +203,6 @@ Scott St and Columbus Ave
 Washington St and Parker Ave
 Pacific Ave and Beaumont Ave
 Anza Vista Ave and St Joseph's Ave
-Geary St and Divisadero St
 Washington St and Collins St
 Eddy St and Parker Ave
 Clay St and Parker Ave
@@ -219,7 +221,7 @@ Pacific Ave and Cyril Magnin St
 21st St and Mississippi St
 California St and Van Ness Ave
 McAllister St and The Embarcadero
-Seal Rock Dr and 35th Ave
+Bush St and 7th St
 Point Lobos Ave and 7th Ave
 Beulah St and Fillmore St
 Clipper St and Guerrero St
@@ -231,9 +233,9 @@ Mayfair Dr and Willard N
 Division St and Alabama St
 Henry St and Webster St
 Elizabeth St and Tennessee St
-Clay St and Cyril Magnin St
+Vicente St and 12th Ave
 Lawton St and 6th Ave
-Seal Rock Dr and 16th Ave
+Geary Blvd and Great Highway
 Golden Gate Ave and Cyril Magnin St
 Francisco St and Sansome St
 16th St and Scott St
@@ -246,13 +248,12 @@ Oak St and Drumm St
 Fell St and Taylor St
 Duboce Ave and Chattanooga St
 Day St and Harrison St
-Alameda St and Sanchez St
+Mayfair Dr and Commonwealth Ave
 29th St and Capp St
-Santiago St and 5th Ave
+Washington St and Commonwealth Ave
 30th St and Guerrero St
 McAllister St and Van Ness Ave
 Division St and Capp St
-Turk Blvd and Webster St
 Oak St and Belvedere St
 Hermann St and Stanyan St
 Division St and Wisconsin St
@@ -262,12 +263,11 @@ Fell St and Van Ness Ave
 28th St and Fair Oaks St
 Rivera St and 5th Ave
 Rivera St and La Playa St
-Steuart St and Bryant St
 Sacramento St and Palm Ave
 Jersey St and Shotwell St
 Hugo St and 32nd Ave
 Spear St and Van Ness Ave
-Clipper St and Chatanooga St
+Euclid Ave and St Joseph's Ave
 Jefferson St and Polk St
 21st St and Pennsylvania Ave
 Oak St and Hyde St
@@ -283,27 +283,26 @@ Jersey St and Florida St
 Parnassus Ave and Scott St
 Lake St and 32nd Ave
 Duboce Ave and Pennsylvania Ave
-27th St and Carolina St
 O'Farrell St and Columbus Ave
 14th St and Missouri St
 North Point St and Montgomery St
 Mayfair Dr and St Joseph's Ave
 Ellis St and Battery St
 Mission St and The Embarcadero
-28th St and Indiana St
+Presidio Ave and Columbus Ave
 Pierce St and Columbus Ave
 23rd St and Connecticut St
-Golden Gate Ave and Shrader St
+Duncan St and Hampshire St
 Duncan St and Rhode Island St
 Clipper St and Mississippi St
 Holly Park Circle and Bocana St
 Point Lobos Ave and Arguello Blvd
 Henry St and Masonic Ave
-Fulton St and Octavia Blvd
+Stanyan St and Market St
 Post St and Drumm St
 Trumbull St and Dolores St
-New Montgomery St and The Embarcadero
-Fulton St and Belvedere St
+Turk Blvd and Clayton St
+27th St and Pennsylvania Ave
 Duboce Ave and Collingwood St
 15th St and Ashbury St
 Grove St and Arguello Blvd
@@ -312,7 +311,7 @@ Ulloa St and 10th Ave
 Hermann St and Cole St
 Alma St and 4th Ave
 Beulah St and Willard St
-Eddy St and Sansome St
+Henry St and Fillmore St
 3rd St and The Embarcadero
 Division St and Valencia St
 California St and Willard N
@@ -337,16 +336,14 @@ Rivera St and Arguello Blvd
 Jefferson St and Masonic Ave
 Green St and Davis St
 Hugo St and 19th Ave
-Duboce Ave and Chatanooga St
+30th St and Connecticut St
 Point Lobos Ave and 22nd Ave
 21st St and Chatanooga St
-Quintara St and 38th Ave
 27th St and Bryant St
 Clipper St and Alabama St
 McAllister St and Collins St
 O'Farrell St and Shrader St
 Turk Blvd and Van Ness Ave
-Day St and Fair Oaks St
 21st St and Missouri St
 Duboce Ave and Wisconsin St
 Seal Rock Dr and 21st Ave
@@ -357,17 +354,16 @@ Hugo St and 42nd Ave
 15th St and Belvedere St
 Jefferson St and Front St
 Noriega St and 2nd Ave
-Seal Rock Dr and 10th Ave
+Terra Vista Ave and Collins St
 24th St and Wisconsin St
 16th St and Downey St
 14th St and Minnesota St
-20th St and Minnesota St
 Henry St and 3rd Ave
 Jersey St and Collingwood St
 15th St and Chattanooga St
 Seal Rock Dr and 8th Ave
-Santiago St and Park Presidio Blvd
-O'Farrell St and Front St
+Duncan St and Connecticut St
+Pine St and Octavia Blvd
 Duboce Ave and Connecticut St
 Division St and Hampshire St
 8th St and Van Ness Ave
@@ -385,7 +381,6 @@ Anza St and Commonwealth Ave
 Germania St and 4th Ave
 Frederick St and 15th Ave
 Point Lobos Ave and 35th Ave
-Steuart St and Brannan St
 Lincoln Way and Great Hwy
 Beulah St and Steiner St
 Frederick St and 3rd Ave
@@ -403,7 +398,7 @@ Lombard St and Masonic Ave
 28th St and Vermont St
 Washington St and Octavia Blvd
 Vicente St and Park Presidio Blvd
-Turk Blvd and Broderick St
+Quintara St and 7th Ave
 California St and Cyril Magnin St
 Edward St and Commonwealth Ave
 Mariposa St and Collingwood St
@@ -434,7 +429,7 @@ Alameda St and Pennsylvania Ave
 Euclid Ave and Willard N
 Grove St and Jones St
 Turk Blvd and Franklin St
-27th St and Illinois St
+Point Lobos Ave and 37th Ave
 Main St and Brannan St
 Cesar Chavez St and Chattanooga St
 Jersey St and Carolina St
@@ -452,11 +447,13 @@ Sacramento St and Stanyan St
 Pacific Ave and Masonic Ave
 28th St and Chattanooga St
 27th St and Tennessee St
-Lake St and 42nd Ave
+Jefferson St and Octavia St
 Pacheco St and 27th Ave
 27th St and Alabama St
 O'Farrell St and Buchanan St
+Frederick St and Great Highway
 Alameda St and Shotwell St
+Beulah St and Ashbury St
 Germania St and Hillway Ave
 Geary St and Pierce St
 Day St and 3rd St
@@ -465,28 +462,27 @@ McAllister St and Battery St
 20th St and Indiana St
 Duncan St and Mississippi St
 24th St and Texas St
-Drumm St and The Embarcadero
+California St and Larkin St
 Frederick St and 22nd Ave
 14th St and Indiana St
 Terra Vista Ave and Arguello Blvd
 14th St and Willard St
 Anza Vista Ave and Wood St
-Jefferson St and Stockton St
-Elizabeth St and Kansas St
+Day St and Indiana St
+28th St and Florida St
 16th St and Divisadero St
 Duboce Ave and Utah St
 16th St and Steiner St
-Beach St and Montgomery St
 Day St and Wisconsin St
 Alvarado St and Alabama St
 Duboce Ave and Bryant St
 Geary Blvd and Park Presidio Blvd
-Jersey St and Mississippi St
+Seal Rock Dr and 11th Ave
 11th St and Brannan St
 1st St and Brannan St
 Vallejo St and Cyril Magnin St
 Fell St and Hyde St
-Sacramento St and Columbus Ave
+Sutter St and Drumm St
 McAllister St and Shrader St
 Jackson St and Palm Ave
 Hugo St and 48th Ave
@@ -501,18 +497,18 @@ Terra Vista Ave and Palm Ave
 Pacheco St and 4th Ave
 Mayfair Dr and Stanyan St
 Duncan St and Shotwell St
-Pacific Ave and Palm Ave
+Anza Vista Ave and Walnut St
 Pacific Ave and Stanyan St
+Anza Vista Ave and Jordan Ave
 Frederick St and 17th Ave
 California St and Funston Ave
 28th St and Kansas St
-Edward St and Stanyan St
+Hayes St and Powell St
 Hugo St and 44th Ave
 22nd St and Chatanooga St
 Ellis St and Belvedere St
 Point Lobos Ave and 27th Ave
 Sutter St and Battery St
-17th St and Delmar St
 Alameda St and Tennessee St
 Judah St and 3rd Ave
 Waller St and Gough St
@@ -521,36 +517,37 @@ Bay St and Cyril Magnin St
 Eddy St and Davis St
 Alameda St and Mission St
 15th St and Shrader St
-Carl St and Divisadero St
+Divisadero St and Columbus Ave
 Santiago St and Great Hwy
 Lake St and 37th Ave
-3rd Ave and Market St
+Alvarado St and Wisconsin St
 Day St and Kansas St
 Vicente St and 4th Ave
 Germania St and Masonic Ave
-Clipper St and Hampshire St
-Beale St and Harrison St
-Moraga St and 4th Ave
+Hermann St and 3rd Ave
+Geary Blvd and Great Hwy
+Clipper St and Arkansas St
 Ortega St and 4th Ave
 Anza St and Willard N
 Geary Blvd and Cherry St
+Quintara St and Park Presidio Blvd
 Rivoli St and Noe St
-Jersey St and Valencia St
+Pacheco St and 6th Ave
 Pacheco St and Great Hwy
 28th St and Bartlett St
 Alvarado St and De Haro St
 Marina Blvd and Cyril Magnin St
 Vicente St and 10th Ave
-Carl St and Masonic Ave
+Grattan St and Hillway Ave
 Edward St and Jordan Ave
 Edward St and Beaumont Ave
-Greenwich St and Cyril Magnin St
+Point Lobos Ave and 46th Ave
 Lawton St and 4th Ave
 Point Lobos Ave and 31st Ave
 Seal Rock Dr and Funston Ave
-Bush St and The Embarcadero
+Duboce Ave and Delmar St
 16th St and Minnesota St
-McAllister St and Davis St
+Jersey St and 3rd St
 Frederick St and Buchanan St
 Henry St and Church St
 Cesar Chavez St and Wisconsin St
@@ -558,13 +555,13 @@ Cesar Chavez St and Wisconsin St
 Hugo St and 43rd Ave
 27th St and Capp St
 Grattan St and Castro St
-Seal Rock Dr and 3rd Ave
+29th St and Fair Oaks St
 Beulah St and Buchanan St
 16th St and Tennessee St
 Vallejo St and Drumm St
 Duncan St and Chattanooga St
 Moraga St and 7th Ave
-Edward St and Presidio Ave
+Ortega St and 19th Ave
 New Montgomery St and Folsom St
 McAllister St and Willard N
 Elizabeth St and Hampshire St
@@ -575,7 +572,7 @@ Parnassus Ave and Webster St
 O'Farrell St and Cole St
 Henry St and Delmar St
 16th St and Hillway Ave
-Hermann St and Hillway Ave
+New Montgomery St and Bryant St
 Grove St and Van Ness Ave
 28th St and Van Ness Ave
 Grattan St and Church St
@@ -584,8 +581,7 @@ Duncan St and Collingwood St
 Folsom St and Van Ness Ave
 Turk St and Masonic Ave
 Jackson St and 7th St
-16th St and Buchanan St
-Day St and Indiana St
+Jefferson St and Stockton St
 Townsend St and Van Ness Ave
 Ulloa St and 4th Ave
 Frederick St and 38th Ave
@@ -633,15 +629,13 @@ Beulah St and Clayton St
 Golden Gate Ave and Locust St
 Golden Gate Ave and Walnut St
 Clement St and 37th Ave
-Seal Rock Dr and 11th Ave
+Jersey St and Mississippi St
 Duboce Ave and Folsom St
 Grattan St and Market St
-Frederick St and 43rd Ave
 Duboce Ave and Downey St
 Elizabeth St and Mississippi St
 Alvarado St and Rhode Island St
 Germania St and Cole St
-30th St and Alabama St
 Mariposa St and Guerrero St
 Santiago St and 23rd Ave
 Taraval St and 19th Ave
@@ -657,10 +651,11 @@ Grove St and Kearny St
 26th St and Texas St
 Jones St and The Embarcadero
 Post St and Davis St
-Sutter St and Drumm St
+Sacramento St and Columbus Ave
 Point Lobos Ave and 18th Ave
 28th St and Folsom St
 Quintara St and 11th Ave
+Brannan St and Van Ness Ave
 Beulah St and Castro St
 30th St and Kansas St
 Henry St and Cole St
@@ -670,9 +665,9 @@ Lincoln Way and Willard St
 28th St and Collingwood St
 Frederick St and 5th Ave
 Edward St and Laurel St
-Geary St and 7th St
+Ellis St and Masonic Ave
 Germania St and Arguello Blvd
-Cabrillo St and Great Hwy
+Marina Blvd and Stockton St
 Turk St and Davis St
 O'Farrell St and Clayton St
 Point Lobos Ave and 43rd Ave
@@ -686,11 +681,11 @@ Broadway St and Masonic Ave
 Pacheco St and 2nd Ave
 Hermann St and Scott St
 Bay St and Octavia Blvd
+Geneva Ave and Dolores St
 Fell St and Columbus Ave
 Euclid Ave and Maple St
 Seal Rock Dr and 47th Ave
 Laguna St and Columbus Ave
-Jefferson St and Octavia St
 Anza Vista Ave and Cherry St
 Beulah St and Divisadero St
 Duncan St and Mission St
@@ -698,11 +693,10 @@ Duncan St and Mission St
 Marina Blvd and Larkin St
 Grove St and Drumm St
 Beale St and The Embarcadero
-Sacramento St and Octavia Blvd
 Union St and Davis St
 Pacific Ave and Cherry St
 15th St and Masonic Ave
-Lake St and 44th Ave
+Spear St and King St
 27th St and Valencia St
 Division St and Chatanooga St
 Green St and Presidio Ave
@@ -728,7 +722,7 @@ Seal Rock Dr and 24th Ave
 Ortega St and 3rd Ave
 Edward St and St Joseph's Ave
 Broadway St and Hyde St
-Anza Vista Ave and Walnut St
+Pacific Ave and Palm Ave
 Alvarado St and Church St
 Green St and Market St
 Taraval St and 2nd Ave
@@ -765,32 +759,32 @@ Frederick St and 21st Ave
 Jersey St and Guerrero St
 29th St and Chatanooga St
 O'Farrell St and Baker St
-Bush St and 7th St
+Seal Rock Dr and 35th Ave
 Alameda St and Indiana St
 Duncan St and Kansas St
 Fell St and The Embarcadero
 Jersey St and Minnesota St
 Geary St and Gough St
-Geary Blvd and Great Highway
-Ashbury St and Market St
+Seal Rock Dr and 16th Ave
+Alvarado St and Valencia St
 Point Lobos Ave and 12th Ave
 Eddy St and Masonic Ave
 21st St and Kansas St
 California St and Gough St
 Clipper St and 3rd St
 Division St and York St
-Presidio Ave and Columbus Ave
+28th St and Indiana St
+26th St and Mississippi St
 Sacramento St and Willard N
-Santiago St and 9th Ave
 Day St and Diamond St
 Point Lobos Ave and 48th Ave
 Octavia St and Columbus Ave
+Broderick St and The Embarcadero
 Pacheco St and 7th Ave
 2nd St and Van Ness Ave
 Cabrillo St and Great Highway
-Alma St and Arguello Blvd
+27th St and Arkansas St
 Beulah St and Market St
-Euclid Ave and Cherry St
 Washington St and The Embarcadero
 Hugo St and 17th Ave
 Hugo St and 47th Ave
@@ -811,7 +805,7 @@ Main St and Townsend St
 Pacific Ave and St Joseph's Ave
 8th St and King St
 Point Lobos Ave and 19th Ave
-Beulah St and Arguello Blvd
+28th St and Missouri St
 Duboce Ave and Cole St
 30th St and Florida St
 Day St and Tennessee St
@@ -822,12 +816,10 @@ Taraval St and 7th Ave
 Golden Gate Ave and Powell St
 Fulton St and Van Ness Ave
 29th St and De Haro St
-Oak St and The Embarcadero
 Ortega St and Funston Ave
 16th St and Delmar St
 Fell St and Leavenworth St
 Green St and Cyril Magnin St
-Cyril Magnin St and Market St
 27th St and Hampshire St
 Henry St and Downey St
 21st St and De Haro St
@@ -837,12 +829,13 @@ Sacramento St and Masonic Ave
 Sutter St and 7th St
 Clay St and Collins St
 Bush St and Davis St
+Golden Gate Ave and Battery St
 Noriega St and La Playa St
 Green St and Drumm St
-Spear St and King St
+Lake St and 44th Ave
 Francisco St and Davis St
 Jefferson St and Market St
-Washington St and 7th St
+Sutter St and Masonic Ave
 Anza Vista Ave and Commonwealth Ave
 14th St and Chatanooga St
 Pine St and The Embarcadero
@@ -855,7 +848,7 @@ California St and Great Highway
 Rivera St and 3rd Ave
 Henry St and Shrader St
 Alameda St and Bartlett St
-28th St and Missouri St
+Beulah St and Arguello Blvd
 Union St and Market St
 Frederick St and 32nd Ave
 Lombard St and Presidio Ave
@@ -869,14 +862,13 @@ Waller St and Lyon St
 29th St and Arkansas St
 Terra Vista Ave and Presidio Ave
 Germania St and Divisadero St
-Day St and Bartlett St
+Terra Vista Ave and Walnut St
 Jersey St and De Haro St
 California St and St Joseph's Ave
 Leavenworth St and The Embarcadero
 17th St and Fair Oaks St
 Duncan St and Bartlett St
 30th St and Mississippi St
-27th St and Potrero Ave
 Edward St and Collins St
 Spear St and Bryant St
 Golden Gate Ave and Front St
@@ -884,12 +876,13 @@ Waller St and Van Ness Ave
 Lake St and Sunset Blvd
 Lake St and 48th Ave
 Kirkham St and Willard St
-Geary Blvd and Great Hwy
+Beale St and Harrison St
 Point Lobos Ave and 17th Ave
 Mariposa St and Church St
 Rivoli St and Ashbury St
-Randall St and Dolores St
+Pacheco St and 3rd Ave
 Fell St and Davis St
+14th St and Hampshire St
 Fulton St and Willard St
 Hugo St and 10th Ave
 North Point St and Pierce St
@@ -899,18 +892,17 @@ Broadway St and Drumm St
 Kirkham St and Great Hwy
 Jersey St and York St
 Anza St and La Playa St
-Division St and Illinois St
+Steuart St and The Embarcadero
 Day St and Connecticut St
 Parnassus Ave and Buchanan St
-21st St and Wisconsin St
+Post St and 7th St
 Divisadero St and The Embarcadero
-Broadway St and Cyril Magnin St
 Union St and Cyril Magnin St
-26th St and Chatanooga St
-30th St and De Haro St
+Alvarado St and Tennessee St
 Jefferson St and Davis St
 Alma St and Delmar St
 Division St and Shotwell St
+Quintara St and 6th Ave
 Steiner St and Columbus Ave
 Grove St and Pierce St
 Golden Gate Ave and Collins St
@@ -927,17 +919,17 @@ Jersey St and Arkansas St
 Jackson St and St Joseph's Ave
 Henry St and Clayton St
 Anza Vista Ave and Beaumont Ave
-Noriega St and Park Presidio Blvd
+27th St and Potrero Ave
 North Point St and Octavia St
 Grove St and Grant Ave
-Ortega St and Willard St
+Lawton St and 2nd Ave
 5th St and Van Ness Ave
 Pacific Ave and Commonwealth Ave
 Alemany Blvd and Dolores St
 Cesar Chavez St and Rhode Island St
 Lyon St and Columbus Ave
 Jersey St and Indiana St
-Grattan St and Hillway Ave
+Carl St and Masonic Ave
 McAllister St and Mason St
 Rivera St and Park Presidio Blvd
 Division St and Tennessee St
@@ -949,17 +941,20 @@ Point Lobos Ave and 33rd Ave
 Day St and Mission St
 McAllister St and Palm Ave
 16th St and Texas St
-25th St and Chatanooga St
+Taraval St and Park Presidio Blvd
+Day St and York St
 28th St and Utah St
 Turk St and Parker Ave
 Larkin St and The Embarcadero
 Henry St and Hillway Ave
+Oak St and Front St
 Grattan St and Arguello Blvd
 Grove St and Front St
 Greenwich St and Presidio Ave
+Lake St and 42nd Ave
 Clipper St and Shotwell St
 Oak St and Parker Ave
-Point Lobos Ave and 46th Ave
+Greenwich St and Cyril Magnin St
 Pine St and 7th St
 Point Lobos Ave and 29th Ave
 24th St and Indiana St
@@ -980,12 +975,11 @@ Holly Park Circle and Murray St
 Excelsior Ave and Dolores St
 29th St and Bryant St
 28th St and Alabama St
-Duboce Ave and Delmar St
+Bush St and The Embarcadero
 Marina Blvd and Davis St
 Alvarado St and Texas St
 Lake St and 43rd Ave
 17th St and Tennessee St
-27th St and Bartlett St
 Rivoli St and Laguna St
 Marina Blvd and Webster St
 27th St and De Haro St
@@ -993,6 +987,7 @@ Lake St and 39th Ave
 Chestnut St and The Embarcadero
 Germania St and Willard St
 Clipper St and Bartlett St
+Anza St and Sunset Blvd
 Eddy St and Lyon St
 Turk St and Octavia Blvd
 4th St and Van Ness Ave
@@ -1001,18 +996,19 @@ Santiago St and 12th Ave
 Point Lobos Ave and 24th Ave
 Rivoli St and Fillmore St
 Balboa St and Great Hwy
+Noriega St and 5th Ave
 Mayfair Dr and Walnut St
 Day St and Pennsylvania Ave
 Steiner St and The Embarcadero
 Washington St and Jordan Ave
-Point Lobos Ave and 42nd Ave
+Alvarado St and Potrero Ave
 Marina Blvd and Columbus Ave
 14th St and Collingwood St
 Kirkham St and Arguello Blvd
 Masonic Ave and The Embarcadero
 27th St and Vermont St
 Ortega St and La Playa St
-28th St and Valencia St
+Marina Blvd and Drumm St
 Jackson St and Market St
 Spear St and Brannan St
 Fillmore St and Market St
@@ -1022,7 +1018,6 @@ Alameda St and Collingwood St
 28th St and Texas St
 Taraval St and 6th Ave
 Hugo St and 34th Ave
-30th St and Bryant St
 Santiago St and 8th Ave
 Turk Blvd and Fillmore St
 Day St and Arkansas St
@@ -1034,7 +1029,7 @@ Seal Rock Dr and 5th Ave
 Geary St and Presidio Ave
 Ney St and Dolores St
 Clement St and 46th Ave
-Pine St and Cyril Magnin St
+Anza St and Great Highway
 Alma St and Sanchez St
 Duncan St and Arkansas St
 Division St and Arkansas St
@@ -1042,9 +1037,9 @@ Clay St and Octavia St
 Bay St and Pierce St
 Waller St and Octavia Blvd
 4th St and The Embarcadero
-29th St and Fair Oaks St
+Seal Rock Dr and 3rd Ave
 Maynard St and Dolores St
-Pacific Ave and Octavia Blvd
+Elizabeth St and Utah St
 Jackson St and Wood St
 Mayfair Dr and Cherry St
 15th St and Cole St
@@ -1060,7 +1055,7 @@ Anza Vista Ave and Parker Ave
 Division St and Mississippi St
 Duboce Ave and Alabama St
 Clipper St and Texas St
-Post St and Cyril Magnin St
+28th St and Rhode Island St
 27th St and Connecticut St
 Jackson St and Commonwealth Ave
 Mariposa St and Douglass St
@@ -1068,22 +1063,22 @@ Fell St and Jones St
 Point Lobos Ave and Funston Ave
 Cabrillo St and Willard St
 Taraval St and Great Hwy
-Clement St and Great Hwy
+Rivera St and Great Hwy
 17th St and Fillmore St
 Rivoli St and Castro St
 Frederick St and 45th Ave
 17th St and 3rd St
 14th St and Texas St
 27th St and Kansas St
-15th St and Downey St
+Marina Blvd and Taylor St
 Marina Blvd and Masonic Ave
 29th St and Pennsylvania Ave
 17th St and Downey St
-Ortega St and 19th Ave
+Edward St and Presidio Ave
 Jackson St and Stanyan St
-Eddy St and Battery St
+Day St and Illinois St
 Grattan St and Divisadero St
-Steuart St and The Embarcadero
+Division St and Illinois St
 Eddy St and Baker St
 Vicente St and 7th Ave
 Germania St and Stanyan St
@@ -1099,7 +1094,6 @@ Alma St and Downey St
 Mariposa St and Capp St
 Alma St and Divisadero St
 Greenwich St and The Embarcadero
-Noriega St and 4th Ave
 Alameda St and Texas St
 Ulloa St and Park Presidio Blvd
 Hugo St and 18th Ave
@@ -1108,12 +1102,12 @@ Alma St and 3rd Ave
 Division St and Missouri St
 Point Lobos Ave and 16th Ave
 Rivoli St and Masonic Ave
-Alvarado St and Minnesota St
+Fell St and Battery St
 California St and Park Presidio Blvd
 Seal Rock Dr and 14th Ave
 Jackson St and Collins St
 25th St and Chattanooga St
-Vicente St and 12th Ave
+Clay St and Cyril Magnin St
 16th St and Masonic Ave
 21st St and Connecticut St
 Grove St and Columbus Ave
@@ -1125,27 +1119,28 @@ Clipper St and Connecticut St
 14th St and Hillway Ave
 Point Lobos Ave and 28th Ave
 Eddy St and The Embarcadero
-27th St and Pennsylvania Ave
+Fulton St and Belvedere St
 Duboce Ave and Florida St
 Geary St and Scott St
 Elizabeth St and Folsom St
 Ulloa St and Great Hwy
-Hermann St and Clayton St
+Jefferson St and Pierce St
 19th St and Chatanooga St
 Division St and Minnesota St
 Germania St and Belvedere St
+Lake St and 36th Ave
 Quintara St and 2nd Ave
 17th St and Divisadero St
 Point Lobos Ave and 20th Ave
 North Point St and Cyril Magnin St
-Pine St and Octavia Blvd
-Pacheco St and 19th Ave
+O'Farrell St and Front St
+Henry St and 4th Ave
 Carl St and Buchanan St
 Beale St and Van Ness Ave
 17th St and York St
 Alma St and Clayton St
 Geary St and The Embarcadero
-Point Lobos Ave and 26th Ave
+Ellis St and Davis St
 Pacific Ave and Jordan Ave
 Grattan St and Buchanan St
 14th St and York St
@@ -1160,16 +1155,17 @@ Clipper St and Kansas St
 Day St and Collingwood St
 Elizabeth St and York St
 Duncan St and Folsom St
-Hayes St and Powell St
+Edward St and Stanyan St
 Larkin St and Columbus Ave
-Alvarado St and Wisconsin St
-Hermann St and 3rd Ave
-Clipper St and Arkansas St
+McAllister St and Commonwealth Ave
+3rd Ave and Market St
+Clipper St and Hampshire St
+Moraga St and 4th Ave
 Jersey St and Bartlett St
 Mariposa St and Bartlett St
 Eddy St and Octavia Blvd
 North Point St and Masonic Ave
-Jersey St and 3rd St
+McAllister St and Davis St
 Alma St and Buchanan St
 Davis St and Columbus Ave
 Lake St and 31st Ave
@@ -1180,7 +1176,7 @@ Seal Rock Dr and 4th Ave
 Alma St and Scott St
 Pacheco St and 26th Ave
 29th St and Shotwell St
-Laguna St and The Embarcadero
+Euclid Ave and Beaumont Ave
 Main St and The Embarcadero
 Stockton St and The Embarcadero
 Hayes St and Cyril Magnin St
@@ -1204,7 +1200,7 @@ Washington St and Willard N
 Duboce Ave and Rhode Island St
 22nd St and Connecticut St
 Bush St and Cyril Magnin St
-Broderick St and The Embarcadero
+Noriega St and Park Presidio Blvd
 18th St and Bartlett St
 Geary St and Sansome St
 Eddy St and Central Ave
@@ -1216,37 +1212,41 @@ Washington St and Stanyan St
 Rivoli St and Webster St
 1st St and The Embarcadero
 15th St and Florida St
+Germania St and Buchanan St
 16th St and Fair Oaks St
 15th St and Buchanan St
 Point Lobos Ave and 47th Ave
 Grove St and The Embarcadero
 Anza St and Locust St
 29th St and York St
-Moraga St and 6th Ave
+Day St and Carolina St
 Oak St and Larkin St
 Grattan St and Scott St
-Point Lobos Ave and 4th Ave
-Post St and 7th St
+Elizabeth St and 3rd St
+21st St and Wisconsin St
 Anza St and 31st Ave
 Anza Vista Ave and Presidio Ave
 Duboce Ave and Webster St
 Rivoli St and Steiner St
+Anza Vista Ave and Palm Ave
 Clement St and La Playa St
 Pacific Ave and Drumm St
 Bush St and Masonic Ave
-Lawton St and 2nd Ave
+Ortega St and Willard St
 Seal Rock Dr and 19th Ave
 Sacramento St and Collins St
 Lawton St and Park Presidio Blvd
 Baker St and The Embarcadero
-Hugo St and 30th Ave
+Webster St and The Embarcadero
 26th St and Arkansas St
 Mariposa St and Mission St
 20th St and Bartlett St
+Day St and Mississippi St
 Battery St and Columbus Ave
 Taraval St and 5th Ave
 Beulah St and Downey St
 Vicente St and 5th Ave
+Sansome St and Columbus Ave
 Alvarado St and Bryant St
 29th St and Florida St
 20th St and Fair Oaks St
@@ -1256,28 +1256,29 @@ O'Farrell St and Octavia Blvd
 McAllister St and Columbus Ave
 1st St and Townsend St
 7th St and Van Ness Ave
-Clement St and Willard St
+11th St and Townsend St
 Marina Blvd and Franklin St
 Frederick St and Sanchez St
 Montgomery St and The Embarcadero
 Hugo St and 22nd Ave
-Day St and Illinois St
+Eddy St and Battery St
 Terra Vista Ave and Laurel St
 15th St and Stanyan St
 Seal Rock Dr and 29th Ave
 Hugo St and 15th Ave
-Jefferson St and Pierce St
+Hermann St and Clayton St
+14th St and Chattanooga St
 Ulloa St and 11th Ave
 O'Farrell St and Battery St
-Ellis St and Davis St
+Point Lobos Ave and 26th Ave
 17th St and Willard St
+2nd St and The Embarcadero
 Taraval St and Arguello Blvd
 Golden Gate Ave and Beaumont Ave
 Hermann St and Noe St
 Seal Rock Dr and 15th Ave
 Noriega St and 19th Ave
-24th St and Chatanooga St
-Hugo St and 38th Ave
+15th St and Pennsylvania Ave
 Terra Vista Ave and Jordan Ave
 Frederick St and 26th Ave
 Grattan St and Downey St
@@ -1287,7 +1288,7 @@ Frederick St and 16th Ave
 29th St and Potrero Ave
 Lyon St and The Embarcadero
 Turk Blvd and Steiner St
-Ortega St and 6th Ave
+McAllister St and Wood St
 Duncan St and Chatanooga St
 Carl St and Downey St
 Sacramento St and Jordan Ave
@@ -1298,6 +1299,7 @@ Alvarado St and Mississippi St
 Hugo St and La Playa St
 Alameda St and Florida St
 Drumm St and Columbus Ave
+Henry St and Market St
 Rivera St and 23rd Ave
 15th St and Delmar St
 Filbert St and Cyril Magnin St
@@ -1332,16 +1334,15 @@ Chestnut St and Battery St
 Edward St and Maple St
 17th St and 4th Ave
 Beulah St and Webster St
-Seal Rock Dr and 33rd Ave
 O'Farrell St and Sansome St
 Duncan St and Fair Oaks St
 Santiago St and La Playa St
 Union St and Octavia Blvd
 Oak St and Polk St
-Santiago St and 3rd Ave
+O'Farrell St and The Embarcadero
 19th St and Utah St
-Sutter St and Front St
-Alma St and Masonic Ave
+Vallejo St and Octavia Blvd
+Day St and Fair Oaks St
 Point Lobos Ave and 11th Ave
 Lawton St and Great Hwy
 Rivoli St and Market St
@@ -1352,7 +1353,7 @@ Grattan St and Steiner St
 Jefferson St and Kearny St
 Division St and Folsom St
 Kirkham St and 3rd Ave
-Day St and York St
+25th St and Chatanooga St
 Oak St and Battery St
 1st St and King St
 Ellis St and Stanyan St
@@ -1369,17 +1370,18 @@ Marina Blvd and Octavia St
 Clay St and 7th St
 Anza St and Baker St
 New Montgomery St and Market St
+Marina Blvd and Kearny St
 Cesar Chavez St and Capp St
 Seal Rock Dr and 42nd Ave
-North Point St and Franklin St
+Lake St and Great Hwy
 McAllister St and Drumm St
-Hugo St and 14th Ave
+Turk St and Drumm St
 Turk St and Octavia St
 McAllister St and Laurel St
 Jersey St and Folsom St
-Edward St and Walnut St
+Sacramento St and Octavia Blvd
+Eddy St and Stockton St
 Clipper St and De Haro St
-Lombard St and Cyril Magnin St
 Hugo St and 21st Ave
 McAllister St and Locust St
 France Ave and Dolores St
@@ -1392,9 +1394,8 @@ Hermann St and Ashbury St
 Division St and Indiana St
 15th St and Illinois St
 Jersey St and Hampshire St
-Grattan St and Laguna St
 Frederick St and 24th Ave
-Filbert St and Octavia Blvd
+Mariposa St and Shotwell St
 Mariposa St and Van Ness Ave
 Elizabeth St and Illinois St
 Beulah St and 4th Ave
@@ -1417,7 +1418,7 @@ Frederick St and Great Hwy
 Balboa St and Park Presidio Blvd
 New Montgomery St and Brannan St
 Jefferson St and Larkin St
-Washington St and Beaumont Ave
+Vallejo St and The Embarcadero
 Seal Rock Dr and 18th Ave
 30th St and Rhode Island St
 27th St and Texas St
@@ -1427,12 +1428,12 @@ Duncan St and Illinois St
 Judah St and 19th Ave
 McAllister St and Beaumont Ave
 Alma St and Webster St
-14th St and Bartlett St
+Anza St and Laurel St
 Jackson St and The Embarcadero
-Anza Vista Ave and Palm Ave
-Mariposa St and Noe St
+Clement St and Willard St
+Henry St and Arguello Blvd
 Edward St and Parker Ave
-Seal Rock Dr and 39th Ave
+Lake St and Great Highway
 17th St and Arguello Blvd
 Downey St and Market St
 Ellis St and Kearny St
@@ -1447,21 +1448,21 @@ Point Lobos Ave and 9th Ave
 24th St and Pennsylvania Ave
 30th St and Capp St
 15th St and 3rd St
-Noriega St and Willard St
+Alvarado St and Van Ness Ave
 Clipper St and Rhode Island St
 Alvarado St and Capp St
 Filbert St and Davis St
-Santiago St and 10th Ave
+Hugo St and Great Hwy
 California St and Powell St
 16th St and Clayton St
 Ellis St and Grant Ave
 Fell St and Sansome St
 Taraval St and 11th Ave
-Anza Vista Ave and Maple St
+Jersey St and Tennessee St
 Eddy St and Front St
 Parnassus Ave and Church St
 Henry St and Willard St
-Quintara St and Park Presidio Blvd
+Geary St and Divisadero St
 Duboce Ave and Mississippi St
 Filbert St and Masonic Ave
 Fulton St and Great Hwy
@@ -1469,19 +1470,19 @@ Washington St and Masonic Ave
 California St and Sansome St
 27th St and Missouri St
 Alvarado St and Indiana St
-Mayfair Dr and Commonwealth Ave
-Washington St and Commonwealth Ave
+Alameda St and Sanchez St
+Santiago St and 5th Ave
 Geary Blvd and Baker St
 30th St and Chatanooga St
 Oak St and Montgomery St
 Hugo St and 35th Ave
 Grove St and Presidio Ave
-Duncan St and Hampshire St
+Golden Gate Ave and Shrader St
 Duncan St and Vermont St
-Turk Blvd and Clayton St
-Sansome St and Columbus Ave
+New Montgomery St and The Embarcadero
+30th St and De Haro St
 Turk St and 7th St
-Point Lobos Ave and 39th Ave
+29th St and Missouri St
 Frederick St and 28th Ave
 Scott St and The Embarcadero
 30th St and Arkansas St
@@ -1489,7 +1490,7 @@ Day St and Minnesota St
 30th St and York St
 Duboce Ave and Carolina St
 Elizabeth St and Capp St
-Sutter St and Columbus Ave
+Marina Blvd and Jones St
 Geary St and Drumm St
 Seal Rock Dr and 20th Ave
 29th St and Chattanooga St
@@ -1503,14 +1504,14 @@ Alameda St and Arkansas St
 Terra Vista Ave and Willard N
 21st St and Tennessee St
 16th St and 4th Ave
-Point Lobos Ave and 37th Ave
+27th St and Illinois St
 Elizabeth St and Connecticut St
 Steuart St and Van Ness Ave
 Quintara St and 9th Ave
-Point Lobos Ave and 23rd Ave
+Filbert St and Front St
 29th St and Collingwood St
 Quintara St and Great Hwy
-Eddy St and Stockton St
+Alma St and Masonic Ave
 Jefferson St and Drumm St
 Ellis St and The Embarcadero
 Ellis St and Octavia Blvd
@@ -1540,7 +1541,7 @@ McAllister St and Ashbury St
 Quintara St and 8th Ave
 Harrison St and Van Ness Ave
 Steuart St and Townsend St
-Marina Blvd and Stockton St
+Cabrillo St and Great Hwy
 Clipper St and Indiana St
 Waller St and Franklin St
 Sacramento St and 7th St
@@ -1568,7 +1569,7 @@ Rivera St and 6th Ave
 Duncan St and Texas St
 Bosworth St and Dolores St
 Ulloa St and 12th Ave
-27th St and Arkansas St
+Alma St and Arguello Blvd
 Washington St and Palm Ave
 Jefferson St and Octavia Blvd
 Chestnut St and 7th St
@@ -1583,23 +1584,23 @@ Frederick St and 27th Ave
 Elizabeth St and Texas St
 Pacheco St and 39th Ave
 21st St and Texas St
-Seal Rock Dr and Sunset Blvd
+Euclid Ave and Cherry St
 Henry St and Buchanan St
-Moraga St and Willard St
-Sutter St and Masonic Ave
+30th St and Pennsylvania Ave
+Washington St and 7th St
 New Montgomery St and Harrison St
 Day St and Guerrero St
 Duboce Ave and Kansas St
-Terra Vista Ave and Walnut St
+Day St and Bartlett St
 McAllister St and Spruce St
 Point Lobos Ave and 8th Ave
-16th St and Stanyan St
-Pacheco St and 3rd Ave
+Edward St and Wood St
+Randall St and Dolores St
 Eddy St and Octavia St
 Turk St and Arguello Blvd
 Grattan St and Sanchez St
 Frederick St and 14th Ave
-Alvarado St and Tennessee St
+26th St and Chatanooga St
 25th St and Illinois St
 Jersey St and Van Ness Ave
 Vicente St and 8th Ave
@@ -1612,18 +1613,17 @@ Grove St and Montgomery St
 Geary St and Front St
 Duncan St and De Haro St
 Turk St and Central Ave
-Quintara St and 6th Ave
+30th St and Bryant St
 Quintara St and 3rd Ave
-Anza St and Great Highway
+Pine St and Cyril Magnin St
 Carl St and Sanchez St
 Eddy St and Belvedere St
 North Point St and Gough St
-Pierce St and The Embarcadero
-28th St and Rhode Island St
+Post St and Cyril Magnin St
 Mariposa St and Sanchez St
 Frederick St and La Playa St
 Beulah St and Noe St
-Rivera St and Great Hwy
+Clement St and Great Hwy
 Division St and Sanchez St
 The Embarcadero and Mission St
 Lombard St and Battery St
@@ -1637,21 +1637,21 @@ Alma St and Steiner St
 Buchanan St and The Embarcadero
 Elizabeth St and Van Ness Ave
 18th St and Chatanooga St
-Henry St and 4th Ave
+Pacheco St and 19th Ave
 Hugo St and 29th Ave
 24th St and Missouri St
 Alvarado St and Shotwell St
 Geary Blvd and Belvedere St
 Lombard St and Octavia Blvd
 Duncan St and Florida St
-26th St and Mississippi St
+Broadway St and Cyril Magnin St
 Hugo St and 40th Ave
 Terra Vista Ave and Parker Ave
 30th St and Valencia St
-Seal Rock Dr and 48th Ave
+Sansome St and The Embarcadero
 Duncan St and 3rd St
 Frederick St and 47th Ave
-Day St and Mississippi St
+Oak St and The Embarcadero
 Turk Blvd and Gough St
 Seal Rock Dr and 40th Ave
 Beulah St and Laguna St
@@ -1667,9 +1667,9 @@ Irving St and Park Presidio Blvd
 Post St and Buchanan St
 Alameda St and Fair Oaks St
 27th St and Van Ness Ave
-Marina Blvd and Kearny St
+27th St and Bartlett St
 Greenwich St and Davis St
-Vallejo St and Octavia Blvd
+Sutter St and Front St
 Ellis St and Clayton St
 Turk Blvd and Pierce St
 Rivoli St and 4th Ave
@@ -1677,17 +1677,17 @@ Golden Gate Ave and Laurel St
 Taraval St and 9th Ave
 Elizabeth St and Alabama St
 Pacific Ave and Willard N
-Mariposa St and Shotwell St
+Filbert St and Octavia Blvd
 Hayes St and Van Ness Ave
 Alameda St and Castro St
 3rd St and Van Ness Ave
-Vallejo St and The Embarcadero
+Washington St and Beaumont Ave
 Point Lobos Ave and Great Highway
 Terra Vista Ave and Spruce St
 Duboce Ave and Fair Oaks St
 Ellis St and Drumm St
 Jersey St and Potrero Ave
-Alvarado St and Van Ness Ave
+Noriega St and Willard St
 Pacific Ave and Collins St
 Beulah St and Delmar St
 Clay St and Commonwealth Ave
@@ -1698,7 +1698,7 @@ Duboce Ave and Shrader St
 Anza Vista Ave and Spruce St
 Alma St and Ashbury St
 Point Lobos Ave and 15th Ave
-Marina Blvd and Jones St
+Sutter St and Columbus Ave
 Duboce Ave and Hillway Ave
 North Point St and 7th St
 Jersey St and Rhode Island St
@@ -1711,14 +1711,14 @@ Geary Blvd and Willard St
 17th St and Minnesota St
 Terra Vista Ave and Locust St
 15th St and Fair Oaks St
-Edward St and Wood St
+16th St and Stanyan St
 16th St and Chattanooga St
 Seal Rock Dr and Park Presidio Blvd
 Hugo St and 31st Ave
 27th St and Collingwood St
 Hugo St and 46th Ave
 Sacramento St and Wood St
-Rivoli St and Buchanan St
+Duncan St and Potrero Ave
 Clipper St and Carolina St
 Hugo St and 23rd Ave
 North Point St and Octavia Blvd
@@ -1737,7 +1737,7 @@ Marina Blvd and Front St
 Santiago St and 7th Ave
 15th St and Laguna St
 Geary Blvd and Pierce St
-Duncan St and Potrero Ave
+Rivoli St and Buchanan St
 24th St and Carolina St
 14th St and Downey St
 Anza St and Palm Ave
@@ -1761,7 +1761,7 @@ Duboce Ave and 3rd Ave
 Geary Blvd and Octavia Blvd
 Geary St and Webster St
 Point Lobos Ave and 38th Ave
-Noriega St and 5th Ave
+Turk Blvd and Webster St
 Hugo St and 28th Ave
 Jersey St and Texas St
 Beulah St and Sanchez St
@@ -1773,8 +1773,8 @@ Francisco St and Masonic Ave
 Clipper St and Fair Oaks St
 Division St and Collingwood St
 Alameda St and Van Ness Ave
-6th St and The Embarcadero
-O'Farrell St and Van Ness Ave
+Grattan St and Laguna St
+North Point St and Franklin St
 21st St and Utah St
 Alameda St and Valencia St
 Marina Blvd and Leavenworth St
@@ -1783,6 +1783,7 @@ Noriega St and Arguello Blvd
 Green St and Octavia Blvd
 Sacramento St and Beaumont Ave
 23rd St and Texas St
+30th St and Indiana St
 Seal Rock Dr and Great Highway
 29th St and Indiana St
 Oak St and Stockton St
@@ -1794,7 +1795,7 @@ Alvarado St and Pennsylvania Ave
 Point Lobos Ave and 41st Ave
 Grove St and Market St
 Clay St and Davis St
-2nd St and The Embarcadero
+Edward St and Walnut St
 Masonic Ave and Columbus Ave
 Eddy St and Stanyan St
 Point Lobos Ave and 30th Ave
@@ -1802,7 +1803,6 @@ Chestnut St and Octavia Blvd
 Geary Blvd and Gough St
 Day St and Bryant St
 Sacramento St and The Embarcadero
-McAllister St and Clayton St
 Ellis St and Parker Ave
 Hugo St and 24th Ave
 Ortega St and Arguello Blvd
@@ -1817,23 +1817,23 @@ Page St and Belvedere St
 9th St and Townsend St
 Post St and Columbus Ave
 Duboce Ave and Shotwell St
-30th St and Indiana St
+Golden Gate Ave and Montgomery St
 Seal Rock Dr and 38th Ave
 15th St and Steiner St
 Duboce Ave and Texas St
 Bush St and Front St
 18th St and Indiana St
 Lawton St and Arguello Blvd
-Day St and Alabama St
+Bay St and 7th St
 Point Lobos Ave and 3rd Ave
 Frederick St and Park Presidio Blvd
 Golden Gate Ave and St Joseph's Ave
-Alvarado St and Missouri St
+Edward St and Locust St
 27th St and York St
 Pacific Ave and Wood St
 25th St and Carolina St
-Alma St and Hillway Ave
-King St and Van Ness Ave
+Rivoli St and Sanchez St
+Lake St and 33rd Ave
 Frederick St and 36th Ave
 Point Lobos Ave and Sunset Blvd
 15th St and Connecticut St
@@ -1841,7 +1841,7 @@ Fell St and Stockton St
 16th St and Shrader St
 Fremont St and Brannan St
 29th St and Utah St
-Division St and Connecticut St
+Alma St and Fillmore St
 Geary St and Steiner St
 Geary St and Davis St
 Oak St and Leavenworth St
@@ -1850,40 +1850,40 @@ O'Farrell St and 7th St
 Judah St and Park Presidio Blvd
 19th St and Fair Oaks St
 Henry St and Laguna St
-Lake St and 36th Ave
+Steuart St and Bryant St
 Chestnut St and Front St
-Euclid Ave and St Joseph's Ave
+Clipper St and Chatanooga St
 16th St and 3rd Ave
 Ulloa St and 2nd Ave
 O'Farrell St and Stanyan St
 Union St and Drumm St
 Turk St and Belvedere St
-Henry St and Fillmore St
+Eddy St and Sansome St
 Mariposa St and Wisconsin St
 Steuart St and King St
-Hermann St and Market St
-30th St and Connecticut St
+15th St and Scott St
+Duboce Ave and Chatanooga St
 Frederick St and Hillway Ave
 Turk St and Clayton St
 Golden Gate Ave and Octavia Blvd
-Terra Vista Ave and Collins St
+Seal Rock Dr and 10th Ave
 Jefferson St and Van Ness Ave
 24th St and Collingwood St
 Duncan St and Utah St
 Rivoli St and Downey St
-Duncan St and Connecticut St
+Santiago St and Park Presidio Blvd
 Turk Blvd and Belvedere St
-McAllister St and Commonwealth Ave
-Golden Gate Ave and Battery St
-Quintara St and 7th Ave
+Quintara St and 38th Ave
+16th St and Buchanan St
+Turk Blvd and Broderick St
 Jersey St and Connecticut St
 Belvedere St and Market St
 Turk Blvd and Buchanan St
 Henry St and Belvedere St
 Ulloa St and 48th Ave
 Ellis St and Front St
-California St and Larkin St
-28th St and Florida St
+Drumm St and The Embarcadero
+Elizabeth St and Kansas St
 Holly Park Circle and Park St
 Ellis St and 7th St
 Parnassus Ave and Delmar St
@@ -1891,10 +1891,10 @@ Ellis St and Columbus Ave
 Cesar Chavez St and Chatanooga St
 Ulloa St and 5th Ave
 14th St and Capp St
-Divisadero St and Columbus Ave
+Carl St and Divisadero St
 Grove St and Mason St
 10th St and Van Ness Ave
-Pacheco St and 6th Ave
+Jersey St and Valencia St
 Hermann St and Delmar St
 O'Farrell St and Drumm St
 5th St and The Embarcadero
@@ -1903,7 +1903,7 @@ Henry St and Divisadero St
 California St and 25th Ave
 Ellis St and Buchanan St
 Fell St and Drumm St
-New Montgomery St and Bryant St
+Hermann St and Hillway Ave
 30th St and Minnesota St
 Fell St and Mason St
 Kirkham St and Park Presidio Blvd
@@ -1912,10 +1912,10 @@ Grattan St and Webster St
 Turk St and Shrader St
 Terra Vista Ave and Beaumont Ave
 28th St and Hampshire St
-Frederick St and 29th Ave
+30th St and Alabama St
 Point Lobos Ave and 44th Ave
 16th St and Laguna St
-11th St and Townsend St
+Steuart St and Brannan St
 North Point St and Drumm St
 Clay St and Palm Ave
 Duncan St and Noe St
@@ -1924,23 +1924,23 @@ Rivera St and 7th Ave
 29th St and Hampshire St
 Jersey St and Capp St
 Francisco St and Octavia Blvd
-Anza St and Sunset Blvd
+Geary St and 7th St
 Alma St and Noe St
 27th St and Utah St
 Chestnut St and Davis St
 Mayfair Dr and Beaumont Ave
 Lake St and La Playa St
 Geary Blvd and Wood St
-14th St and Hampshire St
+17th St and Delmar St
 16th St and Douglass St
 Alma St and Laguna St
 Rivera St and 10th Ave
-16th St and Fillmore St
+Lombard St and Cyril Magnin St
 Germania St and Church St
 Sutter St and Davis St
 26th St and Carolina St
 Italy Ave and Dolores St
-Alvarado St and Valencia St
+Ashbury St and Market St
 30th St and Hampshire St
 12th St and Townsend St
 Taraval St and 3rd Ave
@@ -1954,10 +1954,10 @@ Duncan St and York St
 Turk St and Sansome St
 Alvarado St and Harrison St
 Santiago St and 2nd Ave
-Taraval St and Park Presidio Blvd
+Cyril Magnin St and Market St
 17th St and Illinois St
 Hayes St and The Embarcadero
-Frederick St and Great Highway
+6th St and The Embarcadero
 30th St and Carolina St
 Beulah St and Scott St
 15th St and Willard St
@@ -1968,15 +1968,15 @@ Cesar Chavez St and Utah St
 10th St and The Embarcadero
 Anza St and St Joseph's Ave
 Geary St and Fillmore St
-Geary Blvd and Willard N
+Santiago St and 9th Ave
 17th St and Ashbury St
 Henry St and Stanyan St
 Golden Gate Ave and Grant Ave
 28th St and Bryant St
 30th St and Harrison St
 Point Lobos Ave and 36th Ave
-Alvarado St and Potrero Ave
-Marina Blvd and Drumm St
+Point Lobos Ave and 42nd Ave
+28th St and Valencia St
 Geary St and Octavia St
 Turk Blvd and Cole St
 Turk Blvd and Octavia Blvd
@@ -1987,35 +1987,34 @@ Jefferson St and Sansome St
 30th St and Folsom St
 Turk St and Columbus Ave
 Edward St and Baker St
-Golden Gate Ave and Davis St
+Seal Rock Dr and 33rd Ave
 Frederick St and Church St
-Marina Blvd and Taylor St
+15th St and Downey St
 Duncan St and Bryant St
 Cesar Chavez St and Texas St
 30th St and Texas St
 18th St and Fair Oaks St
 Elizabeth St and Indiana St
-Henry St and Market St
+Noriega St and 4th Ave
 California St and Montgomery St
 Edward St and Palm Ave
 29th St and Wisconsin St
 Van Ness Ave and Columbus Ave
 Grattan St and Delmar St
-Elizabeth St and Valencia St
 Carl St and 4th Ave
 Pacheco St and Park Presidio Blvd
 Moraga St and La Playa St
 Germania St and Shrader St
 Edward St and Cherry St
 Oak St and Grant Ave
-Euclid Ave and Beaumont Ave
+Laguna St and The Embarcadero
 Hugo St and Willard St
 North Point St and Lyon St
 McAllister St and Jordan Ave
 27th St and Folsom St
-Day St and Carolina St
-Elizabeth St and 3rd St
-Webster St and The Embarcadero
+Moraga St and 6th Ave
+Point Lobos Ave and 4th Ave
+Hugo St and 30th Ave
 Day St and Texas St
 Clipper St and Folsom St
 Day St and Missouri St
@@ -2025,9 +2024,9 @@ Hugo St and 26th Ave
 Alvarado St and Arkansas St
 Moraga St and 19th Ave
 Clipper St and Capp St
-15th St and Pennsylvania Ave
+Hugo St and 38th Ave
 Ortega St and 2nd Ave
-McAllister St and Wood St
+Ortega St and 6th Ave
 Grove St and Sansome St
 Frederick St and 35th Ave
 Beale St and Brannan St
@@ -2037,10 +2036,10 @@ Golden Gate Ave and Columbus Ave
 Vallejo St and Lyon St
 Geary St and Laguna St
 Lake St and 40th Ave
-O'Farrell St and The Embarcadero
+Santiago St and 3rd Ave
 Sacramento St and St Joseph's Ave
-Oak St and Front St
-Beulah St and Ashbury St
+8th St and The Embarcadero
+Elizabeth St and Valencia St
 Lawton St and 3rd Ave
 Frederick St and Castro St
 California St and Octavia Blvd
@@ -2048,7 +2047,7 @@ Frederick St and 11th Ave
 Division St and Texas St
 Mayfair Dr and Maple St
 Vallejo St and Presidio Ave
-Turk St and Drumm St
+Hugo St and 14th Ave
 Division St and 3rd St
 Point Lobos Ave and 14th Ave
 Alvarado St and Illinois St
@@ -2056,22 +2055,22 @@ Alvarado St and Dolores St
 Rivera St and 8th Ave
 Clipper St and Minnesota St
 Duncan St and Van Ness Ave
-Anza St and Laurel St
+14th St and Bartlett St
 28th St and Chatanooga St
 Jersey St and Harrison St
 Jersey St and Chatanooga St
 Turk St and Lyon St
-Jersey St and Tennessee St
+Anza Vista Ave and Maple St
 Hugo St and 8th Ave
 12th St and Brannan St
 Jefferson St and Presidio Ave
 Hugo St and 39th Ave
-29th St and Missouri St
+Point Lobos Ave and 39th Ave
 23rd St and Collingwood St
 Division St and Bartlett St
 Eddy St and Clayton St
 Hayes St and Montgomery St
-Filbert St and Front St
+Point Lobos Ave and 23rd Ave
 Alameda St and Capp St
 14th St and Mississippi St
 Elizabeth St and Arkansas St
@@ -2080,7 +2079,7 @@ Frederick St and 19th Ave
 Hugo St and 41st Ave
 Beach St and Gough St
 Baker St and Columbus Ave
-30th St and Pennsylvania Ave
+Moraga St and Willard St
 26th St and Chattanooga St
 O'Farrell St and Parker Ave
 17th St and Castro St
@@ -2089,13 +2088,14 @@ Lombard St and Davis St
 30th St and Utah St
 Grattan St and 3rd Ave
 New Montgomery St and Townsend St
-Ellis St and Masonic Ave
+Pierce St and The Embarcadero
 30th St and Van Ness Ave
 Day St and Capp St
 Grove St and Stanyan St
-Lawton St and La Playa St
-Sansome St and The Embarcadero
+Ellis St and Cole St
+Seal Rock Dr and 48th Ave
 Germania St and Downey St
+Alameda St and Carolina St
 Alma St and Willard St
 Elizabeth St and Pennsylvania Ave
 Lawton St and 19th Ave
@@ -2104,28 +2104,28 @@ Jersey St and Illinois St
 Vicente St and Funston Ave
 Pine St and Columbus Ave
 Judah St and Arguello Blvd
-Anza Vista Ave and Jordan Ave
+Frederick St and 43rd Ave
 Pine St and Drumm St
 Duboce Ave and Indiana St
 Rivoli St and Willard St
 Golden Gate Ave and Sansome St
-Geneva Ave and Dolores St
+McAllister St and Clayton St
 Jefferson St and Lyon St
 Noriega St and Great Hwy
 14th St and Tennessee St
 Vicente St and 9th Ave
 Taraval St and La Playa St
-14th St and Chattanooga St
+20th St and Minnesota St
 Waller St and Arguello Blvd
 Turk St and Stockton St
-15th St and Scott St
+Hermann St and Market St
 Marina Blvd and Hyde St
 Moraga St and 5th Ave
 30th St and Shotwell St
 Polk St and The Embarcadero
 Elizabeth St and Dolores St
 Pacheco St and Willard St
-Alameda St and Carolina St
+Beach St and Montgomery St
 McAllister St and Cyril Magnin St
 Turk St and Battery St
 Hugo St and 12th Ave
@@ -2138,7 +2138,7 @@ Alvarado St and Folsom St
 Duboce Ave and De Haro St
 21st St and Arkansas St
 15th St and Clayton St
-Brannan St and Van Ness Ave
+24th St and Chatanooga St
 Jersey St and Fair Oaks St
 Jefferson St and Columbus Ave
 Clement St and 48th Ave
@@ -2148,9 +2148,9 @@ Duncan St and Capp St
 Grattan St and Clayton St
 Hugo St and 27th Ave
 Hermann St and Willard St
-Ellis St and Cole St
+Lawton St and La Playa St
 Frederick St and 2nd Ave
-Germania St and Buchanan St
+27th St and Carolina St
 27th St and Wisconsin St
 Duncan St and Pennsylvania Ave
 Golden Gate Ave and Kearny St
@@ -2237,10 +2237,10 @@ Hayes St and Front St
 Turk St and Ashbury St
 Duboce Ave and Arguello Blvd
 Fulton St and Ashbury St
-Divisadero St and Market St
+Moraga St and Park Presidio Blvd
 Beach St and Steiner St
 14th St and Potrero Ave
-California St and 48th Ave
+California St and Scott St
 Bay St and Steiner St
 California St and 15th Ave
 Division St and Diamond St
@@ -2258,7 +2258,7 @@ Duboce Ave and Van Ness Ave
 California St and Jones St
 Golden Gate Ave and Ashbury St
 Anza Vista Ave and Laurel St
-California St and Scott St
+California St and 48th Ave
 Turk Blvd and Ashbury St
 Hayes St and Stockton St
 Alemany Blvd and Mission St
@@ -2281,7 +2281,7 @@ Baker St and Market St
 California St and 30th Ave
 Golden Gate Ave and Spruce St
 Germania St and Ashbury St
-Clay St and Market St
+Lake St and 46th Ave
 Balboa St and Sunset Blvd
 Carl St and Fillmore St
 California St and Stanyan St
@@ -2358,7 +2358,7 @@ Francisco St and Van Ness Ave
 Carl St and Castro St
 California St and Market St
 Union St and Presidio Ave
-Moraga St and Park Presidio Blvd
+Divisadero St and Market St
 California St and 24th Ave
 17th St and Webster St
 Cole St and Market St
@@ -2401,7 +2401,7 @@ Division St and Mission St
 Jefferson St and Battery St
 Hayes St and Columbus Ave
 California St and 20th Ave
-Alameda St and Douglass St
+Francisco St and Cyril Magnin St
 California St and Mason St
 California St and Fillmore St
 14th St and Kansas St
@@ -2417,7 +2417,7 @@ Parnassus Ave and Castro St
 Anza St and Walnut St
 15th St and Webster St
 California St and Stockton St
-Lake St and 46th Ave
+Clay St and Market St
 14th St and Fillmore St
 Germania St and Market St
 Greenwich St and Montgomery St
@@ -2497,7 +2497,7 @@ California St and Broderick St
 California St and Parker Ave
 Alvarado St and Mission St
 Duboce Ave and Stanyan St
-Francisco St and Cyril Magnin St
+Alameda St and Douglass St
 California St and Beaumont Ave
 Marina Blvd and Pierce St
 Frederick St and Fillmore St
@@ -2509,7 +2509,7 @@ Broadway St and Presidio Ave
 McAllister St and Montgomery St
 Division St and Dolores St
 Hayes St and Davis St
-14th St and Cole St
+Haight St and Parker Ave
 California St and 46th Ave
 Ellis St and Presidio Ave
 Geary Blvd and Ashbury St
@@ -2520,7 +2520,7 @@ Lyon St and Market St
 Pine St and Market St
 California St and Great Hwy
 Francisco St and Drumm St
-Haight St and Parker Ave
+14th St and Cole St
 Beach St and Masonic Ave
 Duboce Ave and Laguna St
 Frederick St and 7th Ave

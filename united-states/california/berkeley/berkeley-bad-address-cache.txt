@@ -1,27 +1,30 @@
 --- not_intersection
-Etna St and Durant Ave
 Gayley Road and Hopkins St
 Gayley Road and Center St
+Chestnut St and Le Conte Ave
 Euclid Ave and Kittredge St
 Euclid Ave and Francisco St
 La Loma Ave and Parker St
 Regent St and Allston Way
 Shattuck Ave and Gilman St
 Walnut St and Dwight Way
+Euclid Ave and Stuart St
 San Pablo Ave and Hilgard Ave
-Arch St and Allston Way
+Benvenue Ave and Camelia St
+Matthews St and Vine St
 Piedmont Ave and Camelia St
 Chestnut St and Ward St
-College Ave and Francisco St
-Euclid Ave and Russell St
+7th St and Derby St
 Matthews St and Derby St
-Bonita St and Gilman St
+Dana St and Jones St
+Regent St and Blake St
 4th St and Berkeley Way
 Ridge Rd and Hopkins St
 Hillegass Ave and University Ave
 Spruce St and University Ave
 3rd St and Oregon St
 McKinley Ave and University Ave
+Etna St and Jones St
 Leroy Ave and Center St
 Franklin St and Derby St
 Bonita St and Berkeley Way
@@ -31,44 +34,40 @@ Matthews St and Ridge Rd
 San Pablo Ave and Berkeley Way
 6th St and Hopkins St
 Benvenue Ave and University Ave
-Wallace St and Francisco St
+Hillegass Ave and Le Conte Ave
 Dana St and Cedar St
-Leroy Ave and Rose St
+Martin Luther King Junior Way and Ridge Rd
 Piedmont Ave and Allston Way
-Benvenue Ave and Durant Ave
 College Ave and Blake St
-Matthews St and Cedar St
 Bancroft Way and Le Conte Ave
 Regent St and Channing Way
 Franklin St and Ashby Ave
-Josephine St and Delaware St
+3rd St and Kittredge St
+Dana St and Russell St
 Matthews St and Le Conte Ave
 Chestnut St and Durant Ave
 La Loma Ave and Berkeley Way
-Wallace St and Addison St
 Shattuck Ave and Hilgard Ave
 Page St and Hopkins St
 Ellsworth St and Cedar St
 Etna St and Page St
-Bonar St and Delaware St
-Browning St and Parker St
 Leroy Ave and Oregon St
 Spruce St and Ridge Rd
-Leroy Ave and Derby St
+Oxford St and Page St
 Milvia St and Page St
 Curtis St and Kittredge St
 Spruce St and Oregon St
 Martin Luther King Junior Way and Jones St
-Browning St and Berkeley Way
+Fulton St and University Ave
 Walnut St and Camelia St
 8th St and Berkeley Way
 Curtis St and Le Conte Ave
 Curtis St and Stuart St
 9th St and Le Conte Ave
 Ellsworth St and Vine St
-San Pablo Ave and Center St
-Roosevelt Ave and Blake St
+Ellsworth St and Allston Way
 Curtis St and Oregon St
+Gayley Road and Stuart St
 McKinley Ave and Parker St
 Piedmont Ave and Page St
 Gilman St and Le Conte Ave
@@ -78,14 +77,18 @@ Arch St and Durant Ave
 Telegraph Ave and Le Conte Ave
 Arch St and Berkeley Way
 Oxford St and Ward St
-Bonar St and Hearst Ave
+Chestnut St and Allston Way
+Mabel St and Delaware St
+Mabel St and Kittredge St
 La Loma Ave and Durant Ave
 Oxford St and Durant Ave
 Etna St and Addison St
+Gayley Road and Gilman St
 California St and Page St
 2nd St and Lincoln St
-Leroy Ave and Parker St
 Durant Ave and Hopkins St
+6th St and Oregon St
+Martin Luther King Junior Way and Lincoln St
 4th St and Russell St
 Franklin St and Kittredge St
 Piedmont Ave and Center St
@@ -94,21 +97,21 @@ Franklin St and Center St
 Blake St and Le Conte Ave
 Bowditch St and Parker St
 Franklin St and Hopkins St
-8th St and Hopkins St
 Bonita St and Lincoln St
 6th St and Derby St
-McKinley Ave and Lincoln St
-2nd St and Blake St
+Gayley Road and Blake St
 Walnut St and Derby St
-Wallace St and Channing Way
+6th St and Vine St
 Josephine St and Derby St
 Martin Luther King Jr Way and Kittredge St
 3rd St and Parker St
 Regent St and Delaware St
+Spruce St and Kittredge St
 Oxford St and Blake St
 Etna St and Cedar St
 Josephine St and Stuart St
 3rd St and Le Conte Ave
+Park St and Gilman St
 Sacramento St and Page St
 Franklin St and Parker St
 Piedmont Ave and Addison St
@@ -122,42 +125,39 @@ Ellsworth St and Kittredge St
 Park St and Berkeley Way
 Sacramento St and Le Conte Ave
 Josephine St and Allston Way
-Curtis St and Durant Ave
 Park St and Stuart St
-Browning St and Hilgard Ave
 Fulton St and Hopkins St
 Dana St and Oregon St
 Leroy Ave and Stuart St
 Oxford St and Ashby Ave
-Gayley Road and Virginia St
 Bonita St and Page St
-Browning St and Blake St
+8th St and Rose St
 McKinley Ave and Virginia St
+Regent St and Center St
 5th St and Le Conte Ave
 Arch St and Gilman St
 Bonita St and Delaware St
 Bonita St and Blake St
-Telegraph Ave and Berkeley Way
+Dwight Way and Hopkins St
 Regent St and Hilgard Ave
 Hillegass Ave and Rose St
 College Ave and Page St
 Acton St and Durant Ave
-3rd St and Cedar St
-West St and Hilgard Ave
+Ellsworth St and Delaware St
+Chestnut St and Ridge Rd
 5th St and Lincoln St
 Roosevelt Ave and Lincoln St
 Oxford St and Lincoln St
-5th St and Ridge Rd
+San Pablo Ave and Ashby Ave
 Leroy Ave and Camelia St
 Telegraph Ave and Page St
+Browning St and Center St
 Park St and Cedar St
-10th St and Ridge Rd
+9th St and Oregon St
 Hillegass Ave and Page St
 Browning St and Page St
-Dana St and Addison St
 4th St and Derby St
 Martin Luther King Jr Way and Parker St
-Walnut St and Ward St
 Walnut St and Oregon St
 Euclid Ave and Bancroft Way
 Hillegass Ave and Durant Ave
@@ -167,29 +167,29 @@ Fulton St and Hilgard Ave
 Walnut St and Francisco St
 Scenic Ave and Ashby Ave
 McKinley Ave and Vine St
-Dana St and Allston Way
 Spruce St and Allston Way
-Scenic Ave and Russell St
+Fulton St and Gilman St
+Roosevelt Ave and Hearst Ave
 4th St and Stuart St
-Roosevelt Ave and Center St
+Curtis St and Derby St
 Franklin St and Allston Way
 California St and Camelia St
 Roosevelt Ave and Hopkins St
-Leroy Ave and Lincoln St
+Shattuck Ave and Hopkins St
 Curtis St and Blake St
-Franklin St and Le Conte Ave
+Sacramento St and Gilman St
 Hearst Ave and Hopkins St
-Gayley Road and Bancroft Way
 Acton St and Stuart St
+Franklin St and Gilman St
 5th St and Berkeley Way
 Curtis St and Ridge Rd
 Leroy Ave and Channing Way
+Arch St and Francisco St
 Hillegass Ave and Cedar St
 Dana St and Page St
 Spruce St and Lincoln St
 Piedmont Ave and Hilgard Ave
-Park St and University Ave
-2nd St and Center St
+Regent St and Camelia St
 Josephine St and Ward St
 Bonita St and Francisco St
 Martin Luther King Jr Way and Channing Way
@@ -198,61 +198,54 @@ Bonar St and Le Conte Ave
 Curtis St and Jones St
 Telegraph Ave and Jones St
 Sacramento St and Ridge Rd
-Ellsworth St and Berkeley Way
+Grant St and Durant Ave
 Oxford St and Delaware St
 San Pablo Ave and Rose St
 Bowditch St and Stuart St
 Wallace St and Page St
-Etna St and Carleton St
 2nd St and Bancroft Way
-La Loma Ave and Derby St
+Bonita St and Hearst Ave
 Hillegass Ave and Kittredge St
 Jones St and Le Conte Ave
-8th St and Russell St
+Scenic Ave and Stuart St
 Bonar St and Russell St
 7th St and Allston Way
 Matthews St and Page St
 Mabel St and Vine St
 McGee Ave and Ashby Ave
-Arch St and Page St
+Jones St and Hopkins St
 Bowditch St and Gilman St
 Browning St and Delaware St
-West St and Kittredge St
 Gayley Road and Berkeley Way
-Mabel St and Kittredge St
+Bonar St and Hearst Ave
 McKinley Ave and Russell St
 Hillegass Ave and Center St
 Euclid Ave and Dwight Way
 College Ave and Delaware St
 7th St and Rose St
+Bonita St and Parker St
 Regent St and Ward St
 Browning St and Hopkins St
 Browning St and Gilman St
 Benvenue Ave and Ridge Rd
 Matthews St and Rose St
-Piedmont Ave and Jones St
 Walnut St and Ashby Ave
 Spruce St and Francisco St
 Grant St and Hopkins St
 4th St and Oregon St
-Matthews St and Camelia St
 8th St and Kittredge St
 Euclid Ave and Gilman St
-5th St and Durant Ave
+Scenic Ave and Delaware St
 Josephine St and Hearst Ave
 Mabel St and Virginia St
-Martin Luther King Jr Way and Rose St
+Spruce St and Derby St
 Martin Luther King Jr Way and Center St
 La Loma Ave and Allston Way
 4th St and Ashby Ave
-La Loma Ave and Center St
-Grant St and Kittredge St
 4th St and Ward St
 Kittredge St and Le Conte Ave
-Acton St and Vine St
-Scenic Ave and Lincoln St
+Bonita St and Carleton St
 Browning St and Cedar St
-Wallace St and Le Conte Ave
 Gayley Road and Allston Way
 2nd St and Vine St
 Milvia St and Ridge Rd
@@ -261,42 +254,37 @@ Mabel St and Hilgard Ave
 McKinley Ave and Ashby Ave
 3rd St and Derby St
 Etna St and Berkeley Way
-Josephine St and Blake St
+Camelia St and Hopkins St
 Etna St and Bancroft Way
 Etna St and Ridge Rd
 Park St and Camelia St
 4th St and Francisco St
-McKinley Ave and Le Conte Ave
+Sacramento St and Durant Ave
 Bonar St and Jones St
 Matthews St and Addison St
 Wallace St and Hopkins St
-Dana St and Delaware St
 Bonar St and Cedar St
 2nd St and Channing Way
-Wallace St and Parker St
+Bonar St and Blake St
 Virginia St and Le Conte Ave
 7th St and Oregon St
-La Loma Ave and Francisco St
 Ashby Ave and Le Conte Ave
 7th St and Vine St
 Fulton St and Rose St
 Josephine St and Oregon St
-Ellsworth St and Addison St
-Leroy Ave and Allston Way
 Oxford St and Hilgard Ave
 Gayley Road and Rose St
 3rd St and Lincoln St
 8th St and Blake St
 Martin Luther King Jr Way and Derby St
-Browning St and University Ave
-4th St and Durant Ave
+College Ave and Hilgard Ave
 California St and Hilgard Ave
-Josephine St and Center St
-Bowditch St and Hilgard Ave
+McGee Ave and Durant Ave
 Gayley Road and Ashby Ave
-Gayley Road and Addison St
+Bowditch St and Hopkins St
 5th St and Ashby Ave
 Delaware St and Hopkins St
+Bonita St and Russell St
 San Pablo Ave and Durant Ave
 Grant St and Hilgard Ave
 Benvenue Ave and Hopkins St
@@ -304,11 +292,10 @@ Benvenue Ave and Hopkins St
 Arch St and Center St
 3rd St and Blake St
 Regent St and Durant Ave
-Bonar St and Ward St
-Matthews St and Kittredge St
+Chestnut St and Hopkins St
 3rd St and Ward St
 Spruce St and Blake St
-Walnut St and Kittredge St
+Leroy Ave and Page St
 Martin Luther King Jr Way and Le Conte Ave
 4th St and Carleton St
 Benvenue Ave and Kittredge St
@@ -317,14 +304,12 @@ McKinley Ave and Kittredge St
 Hillegass Ave and Hopkins St
 Chestnut St and Hilgard Ave
 California St and Jones St
-Ellsworth St and Page St
 Piedmont Ave and Carleton St
 Oxford St and Russell St
 Bonar St and Derby St
 Spruce St and Channing Way
 Park St and Page St
 Milvia St and Gilman St
-9th St and Russell St
 Mabel St and Jones St
 Etna St and Delaware St
 Benvenue Ave and Virginia St
@@ -335,19 +320,18 @@ Piedmont Ave and Oregon St
 Dana St and Hopkins St
 Bowditch St and Ward St
 Walnut St and Lincoln St
-Ellsworth St and Hilgard Ave
-Bowditch St and Ashby Ave
+Martin Luther King Jr Way and Virginia St
+Bonar St and Hopkins St
 Milvia St and Ashby Ave
 Josephine St and Berkeley Way
 Martin Luther King Jr Way and Allston Way
 Chestnut St and Oregon St
 Matthews St and Dwight Way
 2nd St and Stuart St
-Gayley Road and Le Conte Ave
-Mabel St and Channing Way
-Matthews St and Durant Ave
+Benvenue Ave and Le Conte Ave
 6th St and Carleton St
 Le Conte Ave and Hopkins St
+McGee Ave and Center St
 Browning St and Le Conte Ave
 Curtis St and Ashby Ave
 Walnut St and Allston Way
@@ -356,18 +340,18 @@ Etna St and Stuart St
 2nd St and Ward St
 Bonita St and Channing Way
 Curtis St and Ward St
-Fulton St and Hearst Ave
+La Loma Ave and Blake St
 La Loma Ave and Delaware St
 Arch St and University Ave
 Curtis St and Hilgard Ave
 Acton St and Hilgard Ave
 Franklin St and Berkeley Way
 West St and Russell St
-Bonar St and Lincoln St
+Walnut St and Le Conte Ave
 College Ave and Vine St
 9th St and Kittredge St
 Walnut St and Channing Way
-6th St and Vine St
+7th St and Lincoln St
 Matthews St and Blake St
 Dana St and Rose St
 McKinley Ave and Hilgard Ave
@@ -378,108 +362,115 @@ Franklin St and Blake St
 2nd St and Parker St
 Ellsworth St and Ashby Ave
 Walnut St and Center St
+Browning St and Virginia St
 Telegraph Ave and Addison St
+Bowditch St and Le Conte Ave
 Wallace St and Hearst Ave
-Ellsworth St and Ridge Rd
+Gayley Road and Bancroft Way
 Lincoln St and Hopkins St
 Josephine St and Kittredge St
 Ellsworth St and Jones St
-Browning St and Ridge Rd
 Chestnut St and Camelia St
 Gayley Road and Vine St
 Franklin St and Jones St
+Etna St and Camelia St
 Franklin St and Bancroft Way
 Browning St and Carleton St
 McKinley Ave and Gilman St
 Spruce St and Addison St
-Mabel St and Center St
-Franklin St and Hilgard Ave
+5th St and Francisco St
 Ellsworth St and Rose St
 Fulton St and Virginia St
 Chestnut St and Bancroft Way
-Chestnut St and Channing Way
+Hillegass Ave and Vine St
 Park St and Vine St
 Chestnut St and Vine St
 Etna St and Channing Way
 Regent St and Francisco St
 College Ave and Allston Way
 Virginia St and Hopkins St
-7th St and Berkeley Way
+Josephine St and Jones St
+La Loma Ave and Carleton St
 Euclid Ave and Parker St
 Oxford St and Jones St
 Arch St and Carleton St
 7th St and Center St
-7th St and Ridge Rd
 3rd St and Ridge Rd
 Euclid Ave and Channing Way
 Hillegass Ave and Ridge Rd
 College Ave and Camelia St
-Etna St and Hopkins St
 Martin Luther King Jr Way and Hilgard Ave
 Etna St and Lincoln St
 Ellsworth St and Francisco St
-Stuart St and Hopkins St
 Curtis St and Page St
 Wallace St and Hilgard Ave
+Curtis St and Russell St
 Dana St and Berkeley Way
-Bonita St and Dwight Way
+Scenic Ave and Ward St
 Oxford St and Parker St
-Bonar St and Gilman St
+Bonita St and Gilman St
 Ellsworth St and Hearst Ave
 Ellsworth St and Virginia St
 Oxford St and Derby St
 Blake St and Hopkins St
 Roosevelt Ave and Oregon St
-Hillegass Ave and Le Conte Ave
+Wallace St and Francisco St
 Etna St and Vine St
-Gayley Road and Oregon St
+Benvenue Ave and Lincoln St
+McGee Ave and Camelia St
 Hillegass Ave and Addison St
-Regent St and Berkeley Way
+College Ave and Center St
 9th St and Lincoln St
 Wallace St and Kittredge St
-Cedar St and Le Conte Ave
+Bancroft Way and Hopkins St
 5th St and Center St
 Browning St and Oregon St
-Telegraph Ave and Gilman St
+Walnut St and Jones St
 Bowditch St and Oregon St
-Gayley Road and Blake St
-Hillegass Ave and Jones St
+Bonar St and Kittredge St
+McKinley Ave and Lincoln St
+Wallace St and Channing Way
 Curtis St and Camelia St
-Scenic Ave and Page St
 Derby St and Le Conte Ave
 Mabel St and Allston Way
 Benvenue Ave and Berkeley Way
 West St and Le Conte Ave
-Ellsworth St and Delaware St
-9th St and Oregon St
+3rd St and Cedar St
+10th St and Le Conte Ave
+10th St and Ridge Rd
 Chestnut St and Center St
 Curtis St and Vine St
 Fulton St and Berkeley Way
 9th St and Derby St
 Matthews St and Allston Way
-Martin Luther King Jr Way and Russell St
-Regent St and Camelia St
+Etna St and Carleton St
+2nd St and Center St
 Roosevelt Ave and Stuart St
-Grant St and Durant Ave
+Dana St and Kittredge St
+Ellsworth St and Berkeley Way
 Leroy Ave and Gilman St
-Scenic Ave and Stuart St
+8th St and Russell St
 3rd St and Rose St
-College Ave and Hilgard Ave
+Park St and University Ave
+Fulton St and Page St
 Mabel St and Durant Ave
 Benvenue Ave and Francisco St
-Scenic Ave and Delaware St
-Grant St and Center St
+5th St and Durant Ave
+Acton St and Jones St
+Gayley Road and Dwight Way
 Etna St and Allston Way
+Grant St and Ridge Rd
 Park St and Hopkins St
 4th St and Center St
+Carleton St and Hopkins St
 Gayley Road and Hilgard Ave
 3rd St and Page St
 Acton St and Center St
 Josephine St and Russell St
-Chestnut St and Hopkins St
+Matthews St and Kittredge St
 8th St and Oregon St
 Oregon St and Hopkins St
-Matthews St and Vine St
+Telegraph Ave and Kittredge St
 Wallace St and Derby St
 5th St and Hilgard Ave
 Fulton St and Lincoln St
@@ -487,35 +478,36 @@ Fulton St and Lincoln St
 Etna St and Blake St
 Arch St and Russell St
 Martin Luther King Jr Way and Vine St
+3rd St and Addison St
 Martin Luther King Jr Way and Ashby Ave
 Park St and Channing Way
 Martin Luther King Jr Way and Berkeley Way
 5th St and Stuart St
-Hillegass Ave and Vine St
+Chestnut St and Channing Way
 Bonita St and Addison St
 Gayley Road and Page St
 Etna St and Le Conte Ave
 4th St and Hopkins St
 Center St and Hopkins St
-Mabel St and Francisco St
 Dana St and Ridge Rd
+8th St and Vine St
 5th St and Ward St
-Etna St and Hilgard Ave
+Shattuck Ave and Page St
 Telegraph Ave and Hopkins St
 2nd St and Oregon St
-Piedmont Ave and Kittredge St
 6th St and Durant Ave
 Bonita St and Hilgard Ave
 Bowditch St and Berkeley Way
 5th St and Blake St
 McKinley Ave and Delaware St
 7th St and Durant Ave
-Josephine St and Parker St
-West St and Vine St
+Bowditch St and Page St
+Martin Luther King Junior Way and Gilman St
 Josephine St and Camelia St
 10th St and Lincoln St
 Leroy Ave and Ashby Ave
-Etna St and University Ave
+10th St and Center St
+Acton St and Le Conte Ave
 3rd St and Bancroft Way
 Oxford St and Francisco St
 6th St and Lincoln St
@@ -524,9 +516,10 @@ La Loma Ave and Vine St
 Josephine St and Hilgard Ave
 Franklin St and Vine St
 Curtis St and Berkeley Way
-Browning St and Ashby Ave
+Scenic Ave and Camelia St
 Hillegass Ave and Carleton St
 Telegraph Ave and Ridge Rd
+Hillegass Ave and Oregon St
 Scenic Ave and Gilman St
 6th St and Ridge Rd
 8th St and Le Conte Ave
@@ -535,20 +528,22 @@ Spruce St and Dwight Way
 Scenic Ave and Kittredge St
 McGee Ave and Kittredge St
 Milvia St and Hilgard Ave
-2nd St and Berkeley Way
-Spruce St and Parker St
+6th St and Ashby Ave
 Arch St and Camelia St
 McKinley Ave and Blake St
 Josephine St and Page St
 McGee Ave and Le Conte Ave
+Chestnut St and Gilman St
 Wallace St and Ridge Rd
 8th St and Ridge Rd
 2nd St and Durant Ave
+Arch St and Jones St
 Wallace St and Camelia St
 Haste St and Le Conte Ave
 Matthews St and Parker St
-Etna St and Virginia St
+Josephine St and Parker St
 Bonar St and Camelia St
+Euclid Ave and Page St
 Scenic Ave and Allston Way
 West St and Derby St
 Berkeley Way and Hopkins St
@@ -563,13 +558,11 @@ Walnut St and Russell St
 Telegraph Ave and Cedar St
 Regent St and Bancroft Way
 Roosevelt Ave and Vine St
-Park St and Ridge Rd
 Spruce St and Delaware St
 La Loma Ave and Lincoln St
 Etna St and Gilman St
 6th St and Le Conte Ave
-Arch St and Addison St
-Arch St and Delaware St
+Leroy Ave and Derby St
 7th St and Le Conte Ave
 10th St and Delaware St
 California St and Ridge Rd
@@ -587,7 +580,7 @@ Bowditch St and Camelia St
 Arch St and Le Conte Ave
 Piedmont Ave and Lincoln St
 College Ave and Oregon St
-Bowditch St and Center St
+Sacramento St and Kittredge St
 Etna St and Francisco St
 Wallace St and Vine St
 Wallace St and Lincoln St
@@ -596,6 +589,7 @@ Berkeley Way and Le Conte Ave
 Curtis St and Carleton St
 McKinley Ave and Hearst Ave
 Martin Luther King Junior Way and Durant Ave
+7th St and Russell St
 Roosevelt Ave and Francisco St
 Bonita St and Center St
 Walnut St and Page St
@@ -613,31 +607,30 @@ Camelia St and Le Conte Ave
 Arch St and Parker St
 Josephine St and Lincoln St
 Sacramento St and Camelia St
+McKinley Ave and Camelia St
 4th St and Delaware St
 Park St and Carleton St
 Euclid Ave and Blake St
-Park St and Virginia St
 College Ave and Addison St
 Grant St and Camelia St
 Benvenue Ave and Hearst Ave
-Park St and Le Conte Ave
-7th St and Stuart St
+Mabel St and Lincoln St
 Gayley Road and Russell St
 Martin Luther King Junior Way and Page St
 Regent St and Jones St
 Piedmont Ave and Vine St
 Bonar St and Carleton St
-10th St and Francisco St
+Fulton St and Center St
+Oregon St and Le Conte Ave
 Park St and Lincoln St
 Euclid Ave and Derby St
-Etna St and Ward St
 Euclid Ave and Rose St
 Josephine St and Ashby Ave
 San Pablo Ave and Gilman St
 9th St and Berkeley Way
 Oxford St and Bancroft Way
 Roosevelt Ave and Ashby Ave
-Bancroft Way and Hopkins St
+Arch St and Allston Way
 Ellsworth St and Le Conte Ave
 Scenic Ave and Carleton St
 Spruce St and Le Conte Ave
@@ -645,7 +638,7 @@ Piedmont Ave and Ridge Rd
 Browning St and Francisco St
 McGee Ave and Gilman St
 Bonita St and Ashby Ave
-Fulton St and University Ave
+Browning St and Berkeley Way
 Josephine St and Le Conte Ave
 Franklin St and Addison St
 Chestnut St and Page St
@@ -656,117 +649,127 @@ Spruce St and Gilman St
 Grant St and Gilman St
 Bowditch St and Lincoln St
 Roosevelt Ave and Rose St
+Bonita St and Bancroft Way
 Walnut St and Stuart St
-Wallace St and Center St
-La Loma Ave and Carleton St
+Gayley Road and Virginia St
 Bonar St and Parker St
 10th St and Russell St
+Spruce St and Camelia St
 McGee Ave and Ridge Rd
 Benvenue Ave and Gilman St
 Allston Way and Le Conte Ave
 10th St and Derby St
-Scenic Ave and Haste St
+2nd St and Rose St
 Benvenue Ave and Jones St
 Fulton St and Francisco St
 Shattuck Ave and Addison St
 West St and Blake St
-6th St and Russell St
 Grant St and Page St
 Regent St and Carleton St
 McGee Ave and Jones St
 Gayley Road and Channing Way
+Martin Luther King Jr Way and Russell St
 Telegraph Ave and Hilgard Ave
-Bonita St and Carleton St
-Chestnut St and Derby St
+Scenic Ave and Lincoln St
 2nd St and Le Conte Ave
 Oxford St and Le Conte Ave
 Fulton St and Ridge Rd
-Scenic Ave and Camelia St
+Bonar St and Delaware St
 Walnut St and Carleton St
 Franklin St and Camelia St
 7th St and Blake St
-West St and Stuart St
-Bowditch St and Hopkins St
+Curtis St and Durant Ave
+Gayley Road and Addison St
 Leroy Ave and Kittredge St
-Leroy Ave and Page St
+2nd St and Derby St
+Walnut St and Kittredge St
 Browning St and Kittredge St
+Regent St and Rose St
 Euclid Ave and Vine St
 Ward St and Hopkins St
 Hillegass Ave and Blake St
-Benvenue Ave and Le Conte Ave
+San Pablo Ave and Stuart St
+Gayley Road and Le Conte Ave
+Martin Luther King Jr Way and University Ave
 Euclid Ave and Camelia St
 Franklin St and Ridge Rd
-Gayley Road and Ridge Rd
+Dana St and Delaware St
 10th St and Blake St
 Page St and Le Conte Ave
 Josephine St and Addison St
-Gayley Road and Lincoln St
-Browning St and Jones St
-Josephine St and Jones St
+Martin Luther King Jr Way and Ward St
+7th St and Berkeley Way
+Park St and Derby St
 Walnut St and Durant Ave
-Dana St and Virginia St
+Oxford St and Carleton St
 Arch St and Derby St
 8th St and Derby St
 7th St and Hopkins St
 Gayley Road and Cedar St
 Telegraph Ave and Delaware St
-Bonita St and Parker St
+Gayley Road and Oregon St
+Matthews St and Oregon St
 West St and Ridge Rd
 Franklin St and Oregon St
 Matthews St and Francisco St
 McKinley Ave and Hopkins St
-Shattuck Ave and Page St
+Etna St and Hilgard Ave
+Josephine St and Dwight Way
 Roosevelt Ave and Gilman St
 Euclid Ave and Durant Ave
-Acton St and Le Conte Ave
+Etna St and University Ave
 La Loma Ave and Ward St
 Acton St and Ridge Rd
 7th St and Dwight Way
 College Ave and Le Conte Ave
 Browning St and Vine St
+Shattuck Ave and Ridge Rd
 Walnut St and Gilman St
 2nd St and Russell St
 10th St and Rose St
 McKinley Ave and Carleton St
+Grant St and Ashby Ave
 Gayley Road and Camelia St
 Regent St and Page St
+Etna St and Virginia St
 9th St and Blake St
-Sacramento St and Kittredge St
+Bowditch St and Center St
 Euclid Ave and Berkeley Way
-Oxford St and Carleton St
+Wallace St and Center St
 Piedmont Ave and University Ave
 Chestnut St and Ashby Ave
-Roosevelt Ave and Delaware St
+Mabel St and Camelia St
 Matthews St and Ashby Ave
 Telegraph Ave and Center St
 Park St and Hearst Ave
 Franklin St and Stuart St
 Walnut St and Hopkins St
 Spruce St and Center St
-Etna St and Kittredge St
+Walnut St and Parker St
 Curtis St and Center St
 College Ave and Berkeley Way
-Hillegass Ave and Virginia St
+Oxford St and Oregon St
 Franklin St and Russell St
+Arch St and Kittredge St
 Matthews St and Hearst Ave
 Josephine St and Channing Way
-Martin Luther King Jr Way and Ward St
+Browning St and Jones St
 Gayley Road and Parker St
 Martin Luther King Junior Way and Camelia St
 Bowditch St and Delaware St
 Bonar St and Page St
+9th St and Vine St
 Spruce St and Durant Ave
 Regent St and Virginia St
-Benvenue Ave and Blake St
+Scenic Ave and Page St
 Benvenue Ave and Allston Way
-Walnut St and Parker St
+Etna St and Kittredge St
 Bowditch St and Rose St
 Park St and Ashby Ave
+Martin Luther King Junior Way and Hilgard Ave
 Spruce St and Jones St
 4th St and Lincoln St
-2nd St and Kittredge St
-Roosevelt Ave and Hearst Ave
-Dana St and Ashby Ave
+4th St and Durant Ave
 3rd St and University Ave
 Bonita St and Kittredge St
 Piedmont Ave and Blake St
@@ -775,6 +778,7 @@ Piedmont Ave and Blake St
 Hillegass Ave and Ward St
 Dana St and Vine St
 Benvenue Ave and Page St
+Bowditch St and Carleton St
 Scenic Ave and Derby St
 4th St and Kittredge St
 Arch St and Lincoln St
@@ -785,20 +789,18 @@ Bonar St and Oregon St
 College Ave and Virginia St
 Browning St and Stuart St
 Derby St and Hopkins St
-La Loma Ave and Gilman St
+Roosevelt Ave and Delaware St
 Spruce St and Berkeley Way
 8th St and Francisco St
 McKinley Ave and Oregon St
-9th St and Stuart St
-La Loma Ave and Addison St
+Arch St and Page St
+Piedmont Ave and Jones St
 Dana St and Center St
 Fulton St and Delaware St
 La Loma Ave and Channing Way
-Piedmont Ave and Ward St
-Euclid Ave and Addison St
+9th St and Russell St
 Martin Luther King Jr Way and Cedar St
 3rd St and Francisco St
-Chestnut St and Blake St
 Ellsworth St and University Ave
 10th St and Vine St
 Spruce St and Hilgard Ave
@@ -808,7 +810,8 @@ Bowditch St and University Ave
 Roosevelt Ave and Jones St
 College Ave and Rose St
 Euclid Ave and Oregon St
-Curtis St and Russell St
+Martin Luther King Jr Way and Dwight Way
+6th St and Russell St
 10th St and Ashby Ave
 Euclid Ave and Ashby Ave
 10th St and Durant Ave
@@ -816,6 +819,7 @@ Etna St and Ashby Ave
 Milvia St and Le Conte Ave
 Bowditch St and Addison St
 College Ave and Carleton St
+Fulton St and Camelia St
 Lincoln St and Le Conte Ave
 Shattuck Ave and Camelia St
 McKinley Ave and Francisco St
@@ -823,9 +827,7 @@ Martin Luther King Jr Way and Oregon St
 6th St and Ward St
 Regent St and Addison St
 La Loma Ave and Kittredge St
-Gayley Road and University Ave
-California St and Kittredge St
-Hillegass Ave and Allston Way
+Russell St and Hopkins St
 Euclid Ave and Lincoln St
 Mabel St and Hopkins St
 Martin Luther King Junior Way and Bancroft Way
@@ -850,119 +852,119 @@ Euclid Ave and Center St
 Piedmont Ave and Hearst Ave
 Bonar St and Virginia St
 Channing Way and Hopkins St
+5th St and Russell St
 Benvenue Ave and Delaware St
 Matthews St and Hilgard Ave
 Grant St and Jones St
 2nd St and Hilgard Ave
-7th St and Derby St
-Dana St and Jones St
-La Loma Ave and Oregon St
-Bowditch St and Kittredge St
+College Ave and Francisco St
+Piedmont Ave and Ward St
+5th St and Derby St
 Scenic Ave and Berkeley Way
-Dana St and Russell St
+Regent St and Gilman St
+Josephine St and Delaware St
 3rd St and Jones St
 Bonita St and Derby St
 Hillegass Ave and Camelia St
+Stuart St and Hopkins St
+Spruce St and Ward St
 McKinley Ave and Jones St
 La Loma Ave and Camelia St
 2nd St and Allston Way
+Euclid Ave and Allston Way
 Bowditch St and Allston Way
-Matthews St and Hopkins St
 9th St and Francisco St
 Leroy Ave and Vine St
 Matthews St and Gilman St
-McGee Ave and Page St
 3rd St and Berkeley Way
-Dwight Way and Hopkins St
+Telegraph Ave and Berkeley Way
 Mabel St and University Ave
 Gayley Road and Derby St
 Sacramento St and Vine St
-Bonita St and Russell St
+Arch St and Delaware St
 Wallace St and Berkeley Way
-Bonita St and Vine St
-Arch St and Jones St
-Sacramento St and Gilman St
+Gayley Road and Ridge Rd
+Matthews St and Hopkins St
+Franklin St and Le Conte Ave
+Shattuck Ave and Le Conte Ave
 Bonar St and Ashby Ave
 Telegraph Ave and Virginia St
-Chestnut St and Russell St
-San Pablo Ave and Stuart St
+Channing Way and Le Conte Ave
+West St and Stuart St
 Franklin St and Carleton St
-Bonita St and Hearst Ave
+La Loma Ave and Derby St
 West St and Jones St
-Bonar St and Center St
+Dana St and Stuart St
 Mabel St and Stuart St
 McKinley Ave and Berkeley Way
-Dana St and Francisco St
+Arch St and Addison St
 Walnut St and Ridge Rd
-Roosevelt Ave and Carleton St
 Oxford St and Camelia St
-Bonar St and Blake St
-Regent St and Center St
+Wallace St and Parker St
+Benvenue Ave and Blake St
 Haste St and Hopkins St
-Mabel St and Camelia St
+Bowditch St and Hilgard Ave
+Martin Luther King Jr Way and Hearst Ave
 West St and Page St
 Arch St and Bancroft Way
 5th St and Parker St
 Bonita St and Le Conte Ave
 Mabel St and Rose St
-Bonar St and Hopkins St
-Franklin St and Rose St
+Bowditch St and Ashby Ave
+Roosevelt Ave and Carleton St
 La Loma Ave and Hopkins St
-McGee Ave and Center St
-La Loma Ave and Blake St
-Josephine St and Dwight Way
-Walnut St and Le Conte Ave
+La Loma Ave and Gilman St
+Fulton St and Hearst Ave
+Ellsworth St and Addison St
+Bonar St and Lincoln St
 Roosevelt Ave and Durant Ave
 Telegraph Ave and Camelia St
-Browning St and Virginia St
+McGee Ave and Page St
 Walnut St and Addison St
-Bowditch St and Virginia St
+Walnut St and Bancroft Way
 Chestnut St and Kittredge St
-Euclid Ave and Stuart St
+8th St and Durant Ave
+Walnut St and Ward St
 Park St and Kittredge St
 Russell St and Le Conte Ave
 Franklin St and Page St
-McGee Ave and Camelia St
+Cedar St and Le Conte Ave
 Wallace St and Cedar St
-Walnut St and Jones St
-Mabel St and Delaware St
+9th St and Stuart St
+Leroy Ave and Rose St
 West St and Ashby Ave
-Fulton St and Page St
-Acton St and Jones St
+La Loma Ave and Addison St
+Grant St and Center St
 Regent St and Le Conte Ave
 College Ave and University Ave
-Arch St and Francisco St
-McKinley Ave and Camelia St
+Gayley Road and University Ave
+Leroy Ave and Allston Way
 4th St and Ridge Rd
-Hillegass Ave and Berkeley Way
 Francisco St and Le Conte Ave
 Martin Luther King Jr Way and Haste St
-Matthews St and University Ave
 Parker St and Le Conte Ave
-6th St and Ashby Ave
-Chestnut St and Gilman St
+Spruce St and Parker St
+Dana St and Ashby Ave
 Fulton St and Cedar St
-Park St and Gilman St
-Bowditch St and Page St
+Telegraph Ave and Gilman St
+5th St and Ridge Rd
 Bowditch St and Blake St
 Scenic Ave and Dwight Way
 Euclid Ave and Ward St
 4th St and Le Conte Ave
 Leroy Ave and Bancroft Way
-Chestnut St and Ridge Rd
-Chestnut St and Le Conte Ave
+Bonita St and Vine St
+Matthews St and Camelia St
 Piedmont Ave and Hopkins St
-2nd St and Carleton St
-Bonita St and Bancroft Way
-Mabel St and Lincoln St
+Park St and Ridge Rd
+Park St and Le Conte Ave
 Dwight Way and Le Conte Ave
-Oregon St and Le Conte Ave
-Grant St and Ashby Ave
+10th St and Francisco St
+Grant St and Kittredge St
 Roosevelt Ave and Berkeley Way
 Shattuck Ave and Jones St
-6th St and Oregon St
-Etna St and Jones St
-University Ave and Le Conte Ave
+Euclid Ave and Addison St
+Franklin St and Rose St
 3rd St and Vine St
 Benvenue Ave and Addison St
 Telegraph Ave and Lincoln St
@@ -972,25 +974,24 @@ Matthews St and Channing Way
 Leroy Ave and Delaware St
 Spruce St and Ashby Ave
 Park St and Rose St
-Benvenue Ave and Center St
 Bowditch St and Jones St
-Dana St and Kittredge St
+La Loma Ave and Center St
 Wallace St and Stuart St
-Fulton St and Le Conte Ave
 Oxford St and Dwight Way
-8th St and Hilgard Ave
+Carleton St and Le Conte Ave
 Leroy Ave and Berkeley Way
 9th St and Hearst Ave
-Oxford St and Oregon St
+Hillegass Ave and Virginia St
 Bowditch St and Ridge Rd
 2nd St and Delaware St
 Leroy Ave and Ward St
+Chestnut St and Carleton St
 College Ave and Lincoln St
-2nd St and Derby St
+Acton St and Vine St
 Browning St and Russell St
-Regent St and Gilman St
+Matthews St and University Ave
 Milvia St and Camelia St
-Matthews St and Stuart St
+Ward St and Le Conte Ave
 Dana St and Hearst Ave
 Dana St and Hilgard Ave
 Leroy Ave and Hopkins St
@@ -1004,48 +1005,46 @@ Bonita St and Ward St
 7th St and Kittredge St
 7th St and Hilgard Ave
 Mabel St and Le Conte Ave
-Bowditch St and Russell St
+9th St and Rose St
 Arch St and Channing Way
 Wallace St and Jones St
-Park St and Derby St
+Wallace St and Addison St
 McKinley Ave and Ward St
 Arch St and Hopkins St
-Martin Luther King Junior Way and Ridge Rd
+Chestnut St and Derby St
 Parker St and Hopkins St
 Franklin St and University Ave
 Etna St and Center St
 3rd St and Hilgard Ave
-Ellsworth St and Center St
-Wallace St and Rose St
 McKinley Ave and Page St
 Leroy Ave and Jones St
 Hillegass Ave and Bancroft Way
 Ashby Ave and Hopkins St
 Leroy Ave and Francisco St
 Leroy Ave and Addison St
-9th St and Vine St
+Bowditch St and Kittredge St
+3rd St and Hopkins St
 Browning St and Lincoln St
-Regent St and Blake St
+Chestnut St and Blake St
 Etna St and Oregon St
 Mabel St and Page St
 Park St and Parker St
 Roosevelt Ave and Le Conte Ave
-Roosevelt Ave and Camelia St
+7th St and Ridge Rd
 Wallace St and Durant Ave
 Chestnut St and Parker St
-5th St and Francisco St
+Roosevelt Ave and Camelia St
 3rd St and Allston Way
+Martin Luther King Junior Way and Kittredge St
 Piedmont Ave and Rose St
 College Ave and Cedar St
 McKinley Ave and Rose St
-Curtis St and Lincoln St
+College Ave and Ward St
 3rd St and Carleton St
-Arch St and Kittredge St
+Dana St and Virginia St
 McKinley Ave and Durant Ave
 Hilgard Ave and Hopkins St
-Regent St and Hopkins St
-Matthews St and Russell St
-9th St and Hopkins St
+Ellsworth St and Ridge Rd
 La Loma Ave and Stuart St
 Benvenue Ave and Ward St
 Bowditch St and Francisco St
@@ -1055,13 +1054,12 @@ Piedmont Ave and Virginia St
 Bonar St and Berkeley Way
 Benvenue Ave and Oregon St
 Bonita St and University Ave
-Benvenue Ave and Rose St
-5th St and Russell St
+Mabel St and Channing Way
 Arch St and Ridge Rd
-Scenic Ave and Center St
+Browning St and Ashby Ave
 Wallace St and Dwight Way
 Matthews St and Berkeley Way
-Euclid Ave and Page St
+2nd St and Kittredge St
 San Pablo Ave and Kittredge St
 3rd St and Virginia St
 Scenic Ave and Jones St
@@ -1069,12 +1067,10 @@ Bonita St and Allston Way
 Arch St and Oregon St
 9th St and Center St
 Arch St and Blake St
-Matthews St and Jones St
 6th St and Kittredge St
 5th St and Carleton St
-Spruce St and Carleton St
+Josephine St and Carleton St
 Arch St and Dwight Way
-8th St and Stuart St
 Benvenue Ave and Bancroft Way
 Matthews St and Lincoln St
 Mabel St and Cedar St
@@ -1084,87 +1080,88 @@ Curtis St and Parker St
 Park St and Allston Way
 Telegraph Ave and Rose St
 Josephine St and Bancroft Way
-Fulton St and Center St
-Wallace St and Virginia St
+9th St and Hopkins St
 Bonar St and Ridge Rd
 Dana St and Camelia St
-Ellsworth St and Allston Way
+Roosevelt Ave and Blake St
 Piedmont Ave and Delaware St
 Ellsworth St and Hopkins St
-Chestnut St and Allston Way
+Wallace St and Virginia St
 Ellsworth St and Camelia St
-Benvenue Ave and Camelia St
+Euclid Ave and Russell St
 Bonita St and Stuart St
-Spruce St and Kittredge St
+8th St and Stuart St
 Gayley Road and Ward St
 Roosevelt Ave and Parker St
-8th St and Rose St
-Roosevelt Ave and Virginia St
+Walnut St and Hilgard Ave
+Browning St and Blake St
+Wallace St and Rose St
 Park St and Hilgard Ave
 9th St and Ward St
-San Pablo Ave and Ashby Ave
-Etna St and Camelia St
-7th St and Lincoln St
+West St and Vine St
+3rd St and Stuart St
+Bonar St and Ward St
+Browning St and University Ave
 8th St and Ashby Ave
 Wallace St and Ashby Ave
-Curtis St and Derby St
-Shattuck Ave and Hopkins St
-Fulton St and Camelia St
+Roosevelt Ave and Center St
+Leroy Ave and Lincoln St
+Benvenue Ave and Rose St
 Franklin St and Lincoln St
 College Ave and Gilman St
-Mabel St and Gilman St
 9th St and Hilgard Ave
 2nd St and Dwight Way
 Oxford St and University Ave
 Franklin St and Dwight Way
 Bonar St and Francisco St
-Jones St and Hopkins St
+Dana St and Allston Way
 Josephine St and Gilman St
 Addison St and Hopkins St
 Spruce St and Stuart St
 Scenic Ave and Oregon St
-Spruce St and Derby St
+Martin Luther King Jr Way and Rose St
 Browning St and Camelia St
-Camelia St and Hopkins St
-Sacramento St and Durant Ave
+Josephine St and Blake St
+Mabel St and Gilman St
 McKinley Ave and Cedar St
 5th St and Vine St
 San Pablo Ave and Vine St
 Fulton St and Addison St
+Center St and Le Conte Ave
+Bowditch St and Vine St
 Sacramento St and Hilgard Ave
-Oxford St and Page St
+Ellsworth St and Page St
 Addison St and Le Conte Ave
 Delaware St and Le Conte Ave
 Euclid Ave and University Ave
-Martin Luther King Jr Way and Virginia St
+Ellsworth St and Hilgard Ave
 7th St and Ashby Ave
 Park St and Addison St
 Mabel St and Bancroft Way
 Chestnut St and Addison St
-Russell St and Hopkins St
+California St and Kittredge St
 Bonita St and Oregon St
-Martin Luther King Junior Way and Gilman St
+8th St and Hopkins St
 Wallace St and Allston Way
+Gayley Road and Kittredge St
 5th St and Hopkins St
 Martin Luther King Jr Way and Blake St
 Spruce St and Hopkins St
 Hillegass Ave and Lincoln St
-Scenic Ave and Ward St
+Bonita St and Dwight Way
 McKinley Ave and Derby St
-Roosevelt Ave and Russell St
-College Ave and Center St
+Regent St and Berkeley Way
 Dana St and University Ave
-10th St and Le Conte Ave
+Matthews St and Jones St
 4th St and Blake St
-3rd St and Addison St
+Browning St and Parker St
 10th St and Hopkins St
 3rd St and Delaware St
 Piedmont Ave and Cedar St
-Wallace St and Blake St
 6th St and Parker St
 Regent St and Kittredge St
 Grant St and Le Conte Ave
-Chestnut St and Carleton St
+Hillegass Ave and Allston Way
 McKinley Ave and Ridge Rd
 Regent St and Lincoln St
 Etna St and Russell St
@@ -1172,32 +1169,33 @@ Euclid Ave and Delaware St
 Spruce St and Page St
 Piedmont Ave and Ashby Ave
 7th St and Hearst Ave
-Martin Luther King Jr Way and Hearst Ave
+Leroy Ave and Parker St
 Acton St and Kittredge St
-Benvenue Ave and Vine St
-Gayley Road and Gilman St
+5th St and Oregon St
+Regent St and Hopkins St
 McKinley Ave and Stuart St
 Franklin St and Ward St
 Wallace St and Delaware St
-Grant St and Ridge Rd
-Gayley Road and Kittredge St
+McKinley Ave and Le Conte Ave
+Roosevelt Ave and Russell St
 Hillegass Ave and Channing Way
-Bowditch St and Derby St
-8th St and Durant Ave
-McGee Ave and Durant Ave
+Matthews St and Stuart St
+Kittredge St and Hopkins St
+Bowditch St and Virginia St
+Fulton St and Le Conte Ave
 College Ave and Ridge Rd
-10th St and Center St
-Telegraph Ave and Kittredge St
+Browning St and Hilgard Ave
+Gayley Road and Lincoln St
 Walnut St and Blake St
 Fulton St and Vine St
 Martin Luther King Jr Way and Stuart St
-Fulton St and Gilman St
+Scenic Ave and Russell St
 8th St and Lincoln St
 Ellsworth St and Lincoln St
 Regent St and Hearst Ave
 La Loma Ave and Dwight Way
-2nd St and Rose St
-Franklin St and Gilman St
+Etna St and Hopkins St
+La Loma Ave and Francisco St
 Leroy Ave and Carleton St
 Roosevelt Ave and Kittredge St
 Fulton St and Jones St
@@ -1205,24 +1203,25 @@ Mabel St and Hearst Ave
 Benvenue Ave and Hilgard Ave
 Oxford St and Channing Way
 Martin Luther King Junior Way and Le Conte Ave
-3rd St and Kittredge St
+Scenic Ave and Center St
 Oxford St and Hopkins St
 Mabel St and Berkeley Way
+Etna St and Hearst Ave
 University Ave and Hopkins St
 Franklin St and Channing Way
-8th St and Vine St
-Martin Luther King Junior Way and Hilgard Ave
+Mabel St and Center St
+Benvenue Ave and Center St
 Browning St and Rose St
 Scenic Ave and Blake St
-Regent St and Rose St
-Dana St and Stuart St
+Etna St and Durant Ave
+Matthews St and Durant Ave
 Regent St and Ridge Rd
-Gayley Road and Dwight Way
+Wallace St and Le Conte Ave
 Josephine St and University Ave
 California St and Vine St
 Bonita St and Ridge Rd
-Bowditch St and Le Conte Ave
-Bonar St and Kittredge St
+Etna St and Ward St
+West St and Kittredge St
 5th St and Rose St
 10th St and Stuart St
 Roosevelt Ave and Ridge Rd
@@ -1231,91 +1230,92 @@ Bonita St and Durant Ave
 Gayley Road and Delaware St
 3rd St and Center St
 Bonar St and Stuart St
-5th St and Derby St
+La Loma Ave and Oregon St
 Stuart St and Le Conte Ave
 Matthews St and Carleton St
 8th St and Center St
-Martin Luther King Jr Way and Dwight Way
+2nd St and Berkeley Way
+2nd St and Francisco St
 Allston Way and Hopkins St
-Channing Way and Le Conte Ave
-Shattuck Ave and Ridge Rd
+Chestnut St and Russell St
+Bonar St and Center St
 Dana St and Gilman St
 Bonita St and Jones St
 Martin Luther King Jr Way and Durant Ave
 La Loma Ave and Russell St
 Arch St and Ward St
-Carleton St and Hopkins St
-3rd St and Hopkins St
+Scenic Ave and Haste St
+Dana St and Francisco St
 Rose St and Le Conte Ave
-3rd St and Stuart St
-Martin Luther King Jr Way and University Ave
+Mabel St and Francisco St
+Piedmont Ave and Kittredge St
 Oxford St and Stuart St
-La Loma Ave and Page St
-Walnut St and Hilgard Ave
+Roosevelt Ave and Virginia St
+8th St and Hilgard Ave
 Wallace St and Carleton St
-Roosevelt Ave and Cedar St
+Browning St and Ward St
 Dana St and Le Conte Ave
 Benvenue Ave and Channing Way
 Park St and Delaware St
 Oxford St and Gilman St
 College Ave and Kittredge St
-9th St and Rose St
+Bowditch St and Russell St
 Matthews St and Ward St
-Euclid Ave and Allston Way
-Park St and Jones St
-Spruce St and Ward St
+Ellsworth St and Center St
+San Pablo Ave and Ridge Rd
+University Ave and Le Conte Ave
 Franklin St and Durant Ave
-7th St and Russell St
-College Ave and Ward St
-Matthews St and Oregon St
+2nd St and Blake St
+Curtis St and Lincoln St
+Franklin St and Hilgard Ave
 9th St and Ridge Rd
-Browning St and Center St
+2nd St and Carleton St
 Gayley Road and Jones St
-Ward St and Le Conte Ave
-Josephine St and Carleton St
+Matthews St and Russell St
+Spruce St and Carleton St
 Acton St and Francisco St
 6th St and Center St
 McKinley Ave and Center St
 Acton St and Camelia St
 10th St and Ward St
 Roosevelt Ave and Ward St
-Benvenue Ave and Lincoln St
-Martin Luther King Junior Way and Kittredge St
-Shattuck Ave and Le Conte Ave
+Park St and Virginia St
+San Pablo Ave and Center St
+Hillegass Ave and Berkeley Way
 West St and Camelia St
 Durant Ave and Le Conte Ave
 Benvenue Ave and Carleton St
 San Pablo Ave and Le Conte Ave
 Regent St and Vine St
-Carleton St and Le Conte Ave
+Benvenue Ave and Durant Ave
 La Loma Ave and Bancroft Way
 Dana St and Lincoln St
 Bowditch St and Hearst Ave
-Etna St and Hearst Ave
-Bowditch St and Carleton St
-Spruce St and Camelia St
+Browning St and Ridge Rd
+Wallace St and Blake St
+7th St and Stuart St
 College Ave and Jones St
-5th St and Oregon St
-Martin Luther King Junior Way and Lincoln St
+Benvenue Ave and Vine St
+Bowditch St and Derby St
 Piedmont Ave and Gilman St
 Gayley Road and Carleton St
 Bonar St and Rose St
 La Loma Ave and University Ave
-Walnut St and Bancroft Way
-Hillegass Ave and Oregon St
+Josephine St and Center St
+West St and Hilgard Ave
 Matthews St and Bancroft Way
 Leroy Ave and Durant Ave
 Bonita St and Rose St
-Center St and Le Conte Ave
-2nd St and Francisco St
-Bowditch St and Vine St
+Dana St and Addison St
+Hillegass Ave and Jones St
+La Loma Ave and Page St
 3rd St and Ashby Ave
 Sacramento St and Jones St
-Browning St and Ward St
+Roosevelt Ave and Cedar St
 6th St and Blake St
-San Pablo Ave and Ridge Rd
-Gayley Road and Stuart St
-Kittredge St and Hopkins St
+Park St and Jones St
+Matthews St and Cedar St
+Bonar St and Gilman St
 Chestnut St and Jones St
 San Pablo Ave and Lincoln St
 Chestnut St and Dwight Way
@@ -1323,7 +1323,6 @@ Chestnut St and Dwight Way
 Bonita St and Cedar St
 Josephine St and Francisco St
 --- ambiguous
-West St and Rose St
 10th St and Haste St
 West St and Gilman St
 West St and Parker St
@@ -1333,17 +1332,19 @@ McKinley Ave and Haste St
 Matthews St and Haste St
 5th St and Haste St
 Benvenue Ave and Haste St
+Park St and Bancroft Way
 La Loma Ave and Haste St
-Piedmont Ave and Berkeley Way
-Curtis St and Haste St
-4th St and Haste St
+McGee Ave and Haste St
+San Pablo Ave and Haste St
 Scenic Ave and Bancroft Way
 Mabel St and Haste St
+Josephine St and Haste St
 Leroy Ave and Haste St
-San Pablo Ave and Haste St
+4th St and Haste St
 California St and Durant Ave
 Roosevelt Ave and Haste St
 West St and Lincoln St
+California St and Center St
 Scenic Ave and Parker St
 West St and Cedar St
 9th St and Haste St
@@ -1355,46 +1356,45 @@ Oxford St and Haste St
 Piedmont Ave and Francisco St
 Hillegass Ave and Haste St
 Gayley Road and Haste St
+Park St and Francisco St
 3rd St and Haste St
 West St and Channing Way
 7th St and Haste St
-West St and Durant Ave
-McGee Ave and Haste St
-Park St and Dwight Way
+Curtis St and Haste St
+Scenic Ave and Channing Way
 Francisco St and Hopkins St
-West St and Haste St
+Sacramento St and Haste St
 West St and Oregon St
 Walnut St and Haste St
 West St and Hopkins St
-Telegraph Ave and Francisco St
+Euclid Ave and Haste St
 Wallace St and Haste St
+Chestnut St and Haste St
 Telegraph Ave and Hearst Ave
 Regent St and Haste St
 California St and Gilman St
-Scenic Ave and Durant Ave
 College Ave and Hearst Ave
 West St and Center St
 Franklin St and Haste St
-Park St and Francisco St
-Josephine St and Haste St
-Sacramento St and Haste St
-Euclid Ave and Haste St
-California St and Center St
+Scenic Ave and Durant Ave
+Piedmont Ave and Berkeley Way
+West St and Haste St
+Telegraph Ave and Francisco St
+West St and Durant Ave
 Arch St and Haste St
 Telegraph Ave and University Ave
 Grant St and Haste St
-Spruce St and Haste St
 6th St and Haste St
 2nd St and Haste St
-Acton St and Haste St
 Piedmont Ave and Channing Way
 Telegraph Ave and Allston Way
 Etna St and Haste St
 West St and Ward St
 Scenic Ave and Hopkins St
 Park St and Haste St
-Scenic Ave and Channing Way
-Chestnut St and Haste St
-Park St and Bancroft Way
+Park St and Dwight Way
+Spruce St and Haste St
 Park St and Durant Ave
+Acton St and Haste St
+West St and Rose St
 Browning St and Haste St
